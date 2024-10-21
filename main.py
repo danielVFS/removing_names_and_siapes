@@ -25,8 +25,7 @@ def remove_names_and_siapes(original_text, names_siapes):
     modified_text = original_text
 
     for name, siape in names_siapes:
-        normalized_name = normalize_spaces(name)
-        modified_text = replace_ignore_case(modified_text, normalized_name, ' ')
+        modified_text = replace_ignore_case(modified_text, name, ' ')
         modified_text = modified_text.replace(siape, ' ')
 
     return modified_text
@@ -40,10 +39,6 @@ def replace_ignore_case(text, sub, replacement):
             return text
         text = text[:start] + replacement + text[start + len(sub):]
         start += len(replacement)
-
-
-def normalize_spaces(text):
-    return re.sub(r'\s+', ' ', text).strip()
 
 
 def save_text(text, output_path):
