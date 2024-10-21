@@ -1,0 +1,2 @@
+- Corrigir erros de double spaces nos nomes: Carina  garcia  campos | Carina garcia campos
+- Corrgir problema como por exemplo: Carina campos | Carina garcia | Carina gargia campos
