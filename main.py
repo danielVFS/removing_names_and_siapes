@@ -22,13 +22,17 @@ def extract_pdf_to_text(pdf_path):
 
 
 def remove_names_and_siapes(original_text, names_and_siapes):
-    modified_text = original_text
+    normalized_text = normalize_spaces(original_text)
 
     for name, siape in names_and_siapes:
-        modified_text = replace_ignore_case(modified_text, name, ' ')
-        modified_text = modified_text.replace(siape, ' ')
+        normalized_text = replace_ignore_case(normalized_text, name.lower(), ' ')
+        normalized_text = normalized_text.replace(siape, ' ')
 
-    return modified_text
+    return normalized_text
+
+
+def normalize_spaces(text):
+    return re.sub(r'\s+', ' ', text)
 
 
 def replace_ignore_case(text, sub, replacement):
