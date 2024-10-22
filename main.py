@@ -25,8 +25,8 @@ def remove_names_and_siapes(original_text, names_and_siapes):
     normalized_text = normalize_spaces(original_text)
 
     for name, siape in names_and_siapes:
-        normalized_text = replace_ignore_case(normalized_text, name.lower(), ' ')
-        normalized_text = normalized_text.replace(siape, ' ')
+        normalized_text = replace_ignore_case(normalized_text, name.lower(), 'XXXX')
+        normalized_text = normalized_text.replace(siape, 'YYYY')
 
     return normalized_text
 
