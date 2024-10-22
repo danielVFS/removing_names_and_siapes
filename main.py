@@ -21,10 +21,10 @@ def extract_pdf_to_text(pdf_path):
         return ""
 
 
-def remove_names_and_siapes(original_text, names_siapes):
+def remove_names_and_siapes(original_text, names_and_siapes):
     modified_text = original_text
 
-    for name, siape in names_siapes:
+    for name, siape in names_and_siapes:
         modified_text = replace_ignore_case(modified_text, name, ' ')
         modified_text = modified_text.replace(siape, ' ')
 
@@ -63,10 +63,10 @@ def process_pdf_files(pdf_directory, names_siapes, output_folder):
                 print(f"File processed and saved: {output_path}")
 
 
-def process_zip(zip_file, names_siapes, output_folder):
+def process_zip(zip_file, names_and_siapes, output_folder):
     with zipfile.ZipFile(zip_file, 'r') as zip_ref:
         zip_ref.extractall('temp_pdfs')
-    process_pdf_files('temp_pdfs', names_siapes, output_folder)
+    process_pdf_files('temp_pdfs', names_and_siapes, output_folder)
 
     for root, _, files in os.walk('temp_pdfs'):
         for file in files:
@@ -83,8 +83,6 @@ def main():
 
     if input_file.endswith('.zip'):
         process_zip(input_file, names_and_siapes, output_folder)
-    elif input_file.endswith('.pdf'):
-        process_pdf_files(os.path.dirname(input_file), names_and_siapes_file, output_folder)
     else:
         print("Invalid input format. Use a PDF or a ZIP file containing PDFs.")
 
