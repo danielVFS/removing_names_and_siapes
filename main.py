@@ -1,6 +1,7 @@
 import os
 import zipfile
 import re
+from itertools import combinations
 from pdfminer.high_level import extract_text
 
 
@@ -25,10 +26,27 @@ def remove_names_and_siapes(original_text, names_and_siapes):
     normalized_text = normalize_spaces(original_text)
 
     for name, siape in names_and_siapes:
-        normalized_text = replace_ignore_case(normalized_text, name.lower(), 'XXXX')
+        normalized_name = normalize_spaces(name.lower())
+
+        name_parts = normalized_name.split()
+        partial_names = generate_partial_names(name_parts)
+
+        for partial_name in partial_names:
+            normalized_text = replace_ignore_case(normalized_text, partial_name, 'XXXX')
+
+        # normalized_text = replace_ignore_case(normalized_text, normalized_name, 'XXXX')
         normalized_text = normalized_text.replace(siape, 'YYYY')
 
     return normalized_text
+
+
+def generate_partial_names(parts):
+    partial_names = set()
+    for r in range(1, len(parts) + 1):
+        for combo in combinations(parts, r):
+            partial_name = ' '.join(combo)
+            partial_names.add(partial_name)
+    return partial_names
 
 
 def normalize_spaces(text):
