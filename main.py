@@ -1,6 +1,6 @@
 import os
 import zipfile
-import re
+from utils import normalize_spaces
 from itertools import combinations
 from pdfminer.high_level import extract_text
 
@@ -10,7 +10,9 @@ def read_names_and_siapes(names_file):
     with open(names_file, 'r', encoding='utf-8') as file:
         for line in file:
             name, siape = line.strip().split(';')
-            names_and_siapes.append((name.strip().lower(), siape.strip()))
+            name_parts = name.lower().strip().split()
+            partial_names = generate_partial_names(name_parts)
+            names_and_siapes.append((partial_names, siape))
     return names_and_siapes
 
 
@@ -25,16 +27,10 @@ def extract_pdf_to_text(pdf_path):
 def remove_names_and_siapes(original_text, names_and_siapes):
     normalized_text = normalize_spaces(original_text)
 
-    for name, siape in names_and_siapes:
-        normalized_name = normalize_spaces(name.lower())
-
-        name_parts = normalized_name.split()
-        partial_names = generate_partial_names(name_parts)
-
+    for partial_names, siape in names_and_siapes:
         for partial_name in partial_names:
             normalized_text = replace_ignore_case(normalized_text, partial_name, 'XXXX')
 
-        # normalized_text = replace_ignore_case(normalized_text, normalized_name, 'XXXX')
         normalized_text = normalized_text.replace(siape, 'YYYY')
 
     return normalized_text
@@ -47,10 +43,6 @@ def generate_partial_names(parts):
             partial_name = ' '.join(combo)
             partial_names.add(partial_name)
     return partial_names
-
-
-def normalize_spaces(text):
-    return re.sub(r'\s+', ' ', text)
 
 
 def replace_ignore_case(text, sub, replacement):
@@ -68,7 +60,7 @@ def save_text(text, output_path):
         f.write(text)
 
 
-def process_pdf_files(pdf_directory, names_siapes, output_folder):
+def process_pdf_files(pdf_directory, names_and_siapes, output_folder):
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
 
@@ -77,7 +69,7 @@ def process_pdf_files(pdf_directory, names_siapes, output_folder):
             if file.endswith('.pdf'):
                 pdf_path = os.path.join(root, file)
                 text = extract_pdf_to_text(pdf_path)
-                cleaned_text = remove_names_and_siapes(text, names_siapes)
+                cleaned_text = remove_names_and_siapes(text, names_and_siapes)
 
                 output_file_name = os.path.splitext(file)[0] + '.txt'
                 output_path = os.path.join(output_folder, output_file_name)
