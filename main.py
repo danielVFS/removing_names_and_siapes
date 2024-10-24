@@ -1,6 +1,6 @@
 import os
 import zipfile
-from utils import normalize_spaces, generate_combinations_of_name
+from utils import normalize_spaces, generate_combinations_of_name, replace_full_word_ignore_case
 from pdfminer.high_level import extract_text
 
 
@@ -34,19 +34,9 @@ def remove_names_and_siapes(original_text, names_and_siapes):
         normalized_text = normalized_text.replace(siape, ' ')
 
         for partial_name in partial_names:
-            normalized_text = replace_ignore_case(normalized_text, partial_name, 'XXXX')
+            normalized_text = replace_full_word_ignore_case(normalized_text, partial_name, ' ')
 
     return normalized_text
-
-
-def replace_ignore_case(text, sub, replacement):
-    start = 0
-    while True:
-        start = text.lower().find(sub, start)
-        if start == -1:
-            return text
-        text = text[:start] + replacement + text[start + len(sub):]
-        start += len(replacement)
 
 
 def save_text(text, output_path):
