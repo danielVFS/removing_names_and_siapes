@@ -75,7 +75,7 @@ def process_zip(zip_file, names_and_siapes, output_folder):
 def main():
     names_and_siapes_file = 'nomes_e_siapes.txt'
     input_file = 'processos.zip'
-    output_folder = 'output_text'
+    output_folder = 'arquivos_de_saida'
 
     names_and_siapes = read_names_and_siapes(names_and_siapes_file)
 
