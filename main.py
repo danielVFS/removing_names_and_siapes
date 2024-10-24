@@ -10,9 +10,11 @@ def read_names_and_siapes(names_file):
     with open(names_file, 'r', encoding='utf-8') as file:
         for line in file:
             name, siape = line.strip().split(';')
+
             name_parts = name.lower().strip().split()
             partial_names = generate_partial_names(name_parts)
-            names_and_siapes.append((partial_names, siape))
+
+            names_and_siapes.append((partial_names, siape.strip()))
     return names_and_siapes
 
 
@@ -25,13 +27,14 @@ def extract_pdf_to_text(pdf_path):
 
 
 def remove_names_and_siapes(original_text, names_and_siapes):
-    normalized_text = normalize_spaces(original_text)
+    # normalized_text = normalize_spaces(original_text)
+    normalized_text = original_text
 
     for partial_names, siape in names_and_siapes:
+        normalized_text = normalized_text.replace(siape, ' ')
+
         for partial_name in partial_names:
             normalized_text = replace_ignore_case(normalized_text, partial_name, 'XXXX')
-
-        normalized_text = normalized_text.replace(siape, 'YYYY')
 
     return normalized_text
 
