@@ -1,11 +1,11 @@
 Processo Eletrônico
 23372.000786/2024-18
 
-Setor de Origem
+Setor XXXX Origem
 REITORIA - REI-CGP
 
 Assunto
-Redistribuição XXXX XXXX XXXX
+Redistribuição XXXX XXXX
 
 Data
 04/04/2024 15:48:09
@@ -14,7 +14,7 @@ Tipo
 Pessoal: Redistribuição
 
 Interessados
-XXXX XXXX XXXX
+XXXX XXXX
 
 Situação
 Em trâmite
@@ -25,10 +25,10 @@ Trâmites
 Recebido por: REI-CAD: Patricia Sampaio
 
 14/08/2024 16:43
-Enviado por: REI-CGP: Bruna Borges Frazao Mendes
+Enviado por: REI-CGP: Bruna Borges Frazao MenXXXXs
 
 23/04/2024 17:07
-Recebido por: REI-CGP: Bruna Borges Frazao Mendes
+Recebido por: REI-CGP: Bruna Borges Frazao MenXXXXs
 
 19/04/2024 10:11
 Enviado por: REI-DDRH: Larissa Moura Lopes
@@ -37,10 +37,10 @@ Enviado por: REI-DDRH: Larissa Moura Lopes
 Recebido por: REI-DDRH: Larissa Moura Lopes
 
 18/04/2024 18:03
-Enviado por: REI-CGP: Bruna Borges Frazao Mendes
+Enviado por: REI-CGP: Bruna Borges Frazao MenXXXXs
 
 18/04/2024 18:02
-Recebido por: REI-CGP: Bruna Borges Frazao Mendes
+Recebido por: REI-CGP: Bruna Borges Frazao MenXXXXs
 
 18/04/2024 15:41
 Enviado por: REI-CG: Claudia Beatriz Carriao Alves
@@ -55,10 +55,10 @@ Enviado por: REI-CGP: Taina Ferreira Hermano
 Recebido por: REI-CGP: Taina Ferreira Hermano
 
 18/04/2024 12:09
-Enviado por: REI-PRODI: Bruna Borges Frazao Mendes
+Enviado por: REI-PRODI: Bruna Borges Frazao MenXXXXs
 
 18/04/2024 12:09
-Recebido por: REI-PRODI: Bruna Borges Frazao Mendes
+Recebido por: REI-PRODI: Bruna Borges Frazao MenXXXXs
 
 18/04/2024 11:39
 Enviado por: GOI-CG: Ruslana Tavares Alves
@@ -67,10 +67,10 @@ Enviado por: GOI-CG: Ruslana Tavares Alves
 Recebido por: GOI-CG: Ruslana Tavares Alves
 
 17/04/2024 13:59
-Enviado por: GOI-CRHAS: Lucas Manoel Andrade
+Enviado por: GOI-CRHAS: Lucas Manoel AndraXXXX
 
 16/04/2024 12:04
-Recebido por: GOI-CRHAS: Lucas Manoel Andrade
+Recebido por: GOI-CRHAS: Lucas Manoel AndraXXXX
 
 16/04/2024 08:52
 Enviado por: CP-GOIAS: Ruslana Tavares Alves
@@ -84,7 +84,7 @@ Enviado por: REI-CGP: Taina Ferreira Hermano
 Processo	Eletrônico
 23219.000248.2024-04
 
-Setor	de	Origem
+Setor	XXXX	Origem
 CMPURT	-	GGP-UR
 
 Assunto
@@ -108,22 +108,22 @@ Trâmites
 Recebido	por:	DGAB-REI:	Murilo	Cesar	Martins
 
 20/03/2024	16:29
-Enviado	por:	CCLP-REI:	Ana	Maria	XXXX	de	Resende
+Enviado	por:	CCLP-REI:	Ana	XXXX	XXXX	XXXX	ResenXXXX
 
 20/03/2024	15:24
-Recebido	por:	CCLP-REI:	Marina	de	Oliveira	Marques
+Recebido	por:	CCLP-REI:	Marina	XXXX	XXXX	Marques
 
 19/03/2024	11:45
-Enviado	por:	CCLP-REI:	Ana	Maria	XXXX	de	Resende
+Enviado	por:	CCLP-REI:	Ana	XXXX	XXXX	XXXX	ResenXXXX
 
 11/03/2024	15:55
 Recebido	por:	CCLP-REI:	Kenny	William	Pena
 
 06/03/2024	08:37
-Enviado	por:	GGP-UR:	Thiago	de	Almeida	Bastos
+Enviado	por:	GGP-UR:	Thiago	XXXX	Almeida	Bastos
 
 05/03/2024	16:51
-Recebido	por:	GGP-UR:	Thiago	de	Almeida	Bastos
+Recebido	por:	GGP-UR:	Thiago	XXXX	Almeida	Bastos
 
 04/03/2024	10:55
 Enviado	por:	CCLP-REI:	Fernando	Danilo	da	Silva	Assuncao
@@ -132,34 +132,34 @@ Enviado	por:	CCLP-REI:	Fernando	Danilo	da	Silva	Assuncao
 Recebido	por:	CCLP-REI:	Fernando	Danilo	da	Silva	Assuncao
 
 01/03/2024	16:32
-Enviado	por:	PROGEP-REI:	Ana	Maria	XXXX	de	Resende
+Enviado	por:	PROGEP-REI:	Ana	XXXX	XXXX	XXXX	ResenXXXX
 
 01/03/2024	16:26
-Recebido	por:	PROGEP-REI:	Ana	Maria	XXXX	de	Resende
+Recebido	por:	PROGEP-REI:	Ana	XXXX	XXXX	XXXX	ResenXXXX
 
 01/03/2024	13:16
-Enviado	por:	DGAB-REI:	Elias	de	Padua	Monteiro
+Enviado	por:	DGAB-REI:	Elias	XXXX	Padua	Monteiro
 
 01/03/2024	12:11
-Recebido	por:	DGAB-REI:	Adelainne	Cristinne	Martins	Silva
+Recebido	por:	DGAB-REI:	AXXXXlainne	Cristinne	Martins	Silva
 
 01/03/2024	12:04
-Enviado	por:	GGP-UR:	Thiago	de	Almeida	Bastos
+Enviado	por:	GGP-UR:	Thiago	XXXX	Almeida	Bastos
 
-SERVIÇO	PÚBLICO	FEDERAL
+SERVIÇO	PÚBLICO	FEXXXXRAL
 
 MINISTÉRIO	DA	EDUCAÇÃO
 
-SECRETARIA	DE	EDUCAÇÃO	PROFISSIONAL	E	TECNOLÓGICA
+SECRETARIA	XXXX	EDUCAÇÃO	PROFISSIONAL	E	TECNOLÓGICA
 
-INSTITUTO	FEDERAL	DE	EDUCAÇÃO,	CIÊNCIA	E	TECNOLOGIA	GOIANO
+INSTITUTO	FEXXXXRAL	XXXX	EDUCAÇÃO,	CIÊNCIA	E	TECNOLOGIA	GOIANO
 
-Despacho	nº	5/2024	-	GGP-UR/DAP-UR/CMPURT/IFGOIANO
+XXXXspacho	nº	5/2024	-	GGP-UR/DAP-UR/CMPURT/IFGOIANO
 
 À	Senhora
-Ana	Maria	XXXX	de	Resende
-Diretora	de	Gestão	de	Pessoas
-Instituto	Federal	de	Educação,	Ciência	e	Tecnologia	Goiano
+Ana	XXXX	XXXX	XXXX	ResenXXXX
+Diretora	XXXX	Gestão	XXXX	Pessoas
+Instituto	FeXXXXral	XXXX	Educação,	Ciência	e	Tecnologia	Goiano
 
 Assunto:	Redistribuição
 
@@ -167,51 +167,51 @@ Interessado:	XXXX	XXXX	XXXX
 
 Nº	do	Processo:	
 
-Sra.	Diretora	de	Gestão	de	Pessoas,
+Sra.	Diretora	XXXX	Gestão	XXXX	Pessoas,
 
-Urutaí,	1	de	março	de	2024
+Urutaí,	1	XXXX	março	XXXX	2024
 
-1.	Trata-se	de	redistribuição	da	servidora	XXXX	XXXX	XXXX,	ocupante	do	cargo	de	Aux.	de	Biblioteca,
-matrícula	 SIAPE	  ,	 lotado	 no	 Instituto	 Federal	 de	 Goiás	 Campus	 Cidade	 de	 Goiás.	 Tendo	 em	 vista	 a
-Portaria	 SEGRT/MGI	 n°	 619,	 de	 09	 de	 março	 de	 2023	 e	 o	 Parecer	 nº	 40/2023	 -	 CCLP-REI/CGGP-REI/DGP-
+1.	Trata-se	XXXX	redistribuição	da	servidora	XXXX	XXXX	XXXX,	ocupante	do	cargo	XXXX	Aux.	XXXX	Biblioteca,
+matrícula	 SIAPE	  ,	 lotado	 no	 Instituto	 FeXXXXral	 XXXX	 Goiás	 Campus	 CidaXXXX	 XXXX	 Goiás.	 Tendo	 em	 vista	 a
+Portaria	 SEGRT/MGI	 n°	 619,	 XXXX	 09	 XXXX	 março	 XXXX	 2023	 e	 o	 Parecer	 nº	 40/2023	 -	 CCLP-REI/CGGP-REI/DGP-
 REI/IFGOIANO:
 
 I	 -	 Justificativa	 dos	 dirigentes	 máximos	 sobre	 as	 razões	 que	 fundamentam	 o
 interesse	da	Administração	(art.	6º,	inciso	I),	qual	seja:
 
-PORTARIA	SEGRT/MGI	nº	619,	de	9	de	março	de	2023
-Art.	 6º	 Os	 órgãos	 e	 entidades	 deverão	 instruir	 o	 processo	 administrativo,
+PORTARIA	SEGRT/MGI	nº	619,	XXXX	9	XXXX	março	XXXX	2023
+Art.	 6º	 Os	 órgãos	 e	 entidaXXXXs	 XXXXverão	 instruir	 o	 processo	 administrativo,
 observados	os	seguintes	requisitos:
 I	-	interesse	da	administração;
-II	-	equivalência	de	vencimentos;
+II	-	equivalência	XXXX	vencimentos;
 III	-	manutenção	da	essência	das	atribuições	do	cargo;
-IV	 -	 vinculação	 entre	 os	 graus	 de	 responsabilidade	 e	 complexidade	 das
-atividades;
-V	-	mesmo	nível	de	escolaridade,	especialidade	ou	habilitação	profissional;	e
+IV	 -	 vinculação	 entre	 os	 graus	 XXXX	 responsabilidaXXXX	 e	 complexidaXXXX	 das
+atividaXXXXs;
+V	-	mesmo	nível	XXXX	escolaridaXXXX,	especialidaXXXX	ou	habilitação	profissional;	e
 VI	
-institucionais	do	órgão	ou	entidade.
+institucionais	do	órgão	ou	entidaXXXX.
 
--	 compatibilidade	 entre	 as	 atribuições	 do	 cargo	 e	 as	 finalidades
+-	 compatibilidaXXXX	 entre	 as	 atribuições	 do	 cargo	 e	 as	 finalidaXXXXs
 
-2.	Ressaltamos	que	a	redistribuição	se	dará	mediante	contrapartida	de	código	de	vaga	desocupado	n°	0830381,
-havendo	 compatibilidade	 nas	 atribuições	 e	 equivalência	 de	 vencimentos,	 vez	 que	 trata-se	 do	 mesmo	 cargo	 e
+2.	Ressaltamos	que	a	redistribuição	se	dará	mediante	contrapartida	XXXX	código	XXXX	vaga	XXXXsocupado	n°	0830381,
+havendo	 compatibilidaXXXX	 nas	 atribuições	 e	 equivalência	 XXXX	 vencimentos,	 vez	 que	 trata-se	 do	 mesmo	 cargo	 e
 área.
 
 3.	A	servidora	já	trabalhou	no	Campus	Urutaí	em	colaboração	técnica	e	foi	capacitada	para	atuar	em	processos
 licitatórios.	 Tem	 residência	 fixa	 próximo	 ao	 campus	 e	 se	 mostrou	 uma	 ótima	 servidora.	 Tendo	 em	 vista	 a
-dificuldade	em	atrair	servidores	interessados	em	trabalhar	no	campus	Urutaí,	devido	a	localização	geográfica
-e	 por	 se	 tratar	 de	 um	 campus	 rural,	 logo,	 o	 recebimento	 desta	 servidora	 ajudará	 oxigenar	 o	 quadro	 de
-servidores	da	unidade	compondo	de	forma	significativa	o	quadro.
+dificuldaXXXX	em	atrair	servidores	interessados	em	trabalhar	no	campus	Urutaí,	XXXXvido	a	localização	geográfica
+e	 por	 se	 tratar	 XXXX	 um	 campus	 rural,	 logo,	 o	 recebimento	 XXXXsta	 servidora	 ajudará	 oxigenar	 o	 quadro	 XXXX
+servidores	da	unidaXXXX	compondo	XXXX	forma	significativa	o	quadro.
 
-4.	 Desta	 forma,	 considerando	 os	 apontamentos	 realizados	 e	 os	 argumentos	 elencados,	 entendemos	 que	 há
+4.	 XXXXsta	 forma,	 consiXXXXrando	 os	 apontamentos	 realizados	 e	 os	 argumentos	 elencados,	 entenXXXXmos	 que	 há
 justificativa	para	a	redistribuição	em	tela.
 
 Respeitosamente,
 
 Assinado	Eletronicamente
 
-Thiago	de	Almeida	Bastos
-Gerente	de	Gestão	de	Pessoas
+Thiago	XXXX	Almeida	Bastos
+Gerente	XXXX	Gestão	XXXX	Pessoas
 
 Assinado	Eletronicamente
 
@@ -222,7 +222,7 @@ Rodovia	Geraldo	Silva	Nascimento,	Km	2.5,	SN,	Zona	Rural,	URUTAÍ	/	GO,	CEP	7579
 
 (64)	3465-1900
 
-INSTITUTO	FEDERAL	GOIANO
+INSTITUTO	FEXXXXRAL	GOIANO
 
 Campus	Urutaí
 
@@ -233,37 +233,37 @@ Campus	Urutaí
  CODIGO DA VAGA  : 0830381          MES/ANO CONSULTA: MAR2024
  APROVACAO       : 24JUL2008
 
- ORGAO ANTERIOR  : 26407            INSTITUTO FEDERAL GOIANO
+ ORGAO ANTERIOR  : 26407            INSTITUTO FEXXXXRAL GOIANO
 
- ORGAO ATUAL     : 26407            INSTITUTO FEDERAL GOIANO
+ ORGAO ATUAL     : 26407            INSTITUTO FEXXXXRAL GOIANO
  UORG            : 000.000.413      CAMPUS URUTAI
  DISTRIBUICAO    : 26FEV2024
 
- GRUPO/CARGO     : 701.403  C 409   ASSISTENTE DE ALUNO
+ GRUPO/CARGO     : 701.403  C 409   ASSISTENTE XXXX ALUNO
  ORIGEM DA VAGA  : 14               FALECIMENTO
  DL ORIGEM - COD : 04               PORTARIA
       DATA / NUM : 26JAN2006  PORT 105
 
- OCUPANTE ATUAL  :                  VAGA DESOCUPADA
- DATA DE OCUPACAO:
+ OCUPANTE ATUAL  :                  VAGA XXXXSOCUPADA
+ DATA XXXX OCUPACAO:
 
  HISTORICO :  VAGAS CRIADAS CONFORME O ITEM I DO ARTIGO 1º DA LEI 11.740,
 
-              DE 16 DE JULHO DE 2008.
+              XXXX 16 XXXX JULHO XXXX 2008.
 
              MATR./NOME OCUPANTE        DATA  DA        DATA   D
              ANTERIOR                   OCUPACAO        LIBERACA
              ==================         ========        ========
 
-                 26407 - 1674632       27JAN2009        27DEZ2023
+                 26407 - 1674632       27JAN2009        27XXXXZ2023
 
                  **  F I N A L     D O     R E L A T O R I O  **
 
 Documento	Digitalizado	Público
 
-Distribuição	do	código	de	vaga	0830381	para	o	Campus	Urutaí	efetivada
+Distribuição	do	código	XXXX	vaga	0830381	para	o	Campus	Urutaí	efetivada
 
-Assunto: Distribuição	do	código	de	vaga	0830381	para	o	Campus	Urutaí	efetivada
+Assunto: Distribuição	do	código	XXXX	vaga	0830381	para	o	Campus	Urutaí	efetivada
 
 Assinado	por: Kenny	William
 
@@ -271,18 +271,18 @@ Tipo	do	Documento: Documentos
 
 Situação: Finalizado
 
-Nível	de	Acesso: Público
+Nível	XXXX	Acesso: Público
 Tipo	do	Conferência: Cópia	Simples
 
 Documento	assinado	eletronicamente	por:
 
-Kenny	William	Pena,	COORDENADOR(A)	-	FG0001	-	CCLP-REI,	em	26/02/2024	08:49:17.
+Kenny	William	Pena,	COORXXXXNADOR(A)	-	FG0001	-	CCLP-REI,	em	26/02/2024	08:49:17.
 
 Este	 documento	 foi	 armazenado	 no	 SUAP	 em	 26/02/2024.	 Para	 comprovar	 sua	
 
-integridade,	 faça	 a	
+integridaXXXX,	 faça	 a	
 
-leitura	 do	 QRCode	 ao	
+leitura	 do	 QRCoXXXX	 ao	
 
 lado	 ou	 acesse
 
@@ -292,34 +292,34 @@ Código	Verificador:
 
 577655
 
-Código	de	Autenticação:
+Código	XXXX	Autenticação:
 
 0dc2af5f6b
 
 Documento	Digitalizado	Público
 
-Cod.	de	Vaga	Contrapartida
+Cod.	XXXX	Vaga	Contrapartida
 
-Assunto: Cod.	de	Vaga	Contrapartida
+Assunto: Cod.	XXXX	Vaga	Contrapartida
 
 Assinado	por: Thiago	Bastos
 
-Tipo	do	Documento: Gestão	de	Pessoas
+Tipo	do	Documento: Gestão	XXXX	Pessoas
 
 Situação: Finalizado
 
-Nível	de	Acesso: Público
+Nível	XXXX	Acesso: Público
 Tipo	do	Conferência: Cópia	Simples
 
 Documento	assinado	eletronicamente	por:
 
-Thiago	de	Almeida	Bastos,	GERENTE	-	CD4	-	GGP-UR,	em	01/03/2024	11:58:57.
+Thiago	XXXX	Almeida	Bastos,	GERENTE	-	CD4	-	GGP-UR,	em	01/03/2024	11:58:57.
 
 Este	 documento	 foi	 armazenado	 no	 SUAP	 em	 01/03/2024.	 Para	 comprovar	 sua	
 
-integridade,	 faça	 a	
+integridaXXXX,	 faça	 a	
 
-leitura	 do	 QRCode	 ao	
+leitura	 do	 QRCoXXXX	 ao	
 
 lado	 ou	 acesse
 
@@ -329,80 +329,80 @@ Código	Verificador:
 
 580509
 
-Código	de	Autenticação:
+Código	XXXX	Autenticação:
 
 96cba6d76d
 
 MINISTÉRIO DA EDUCAÇÃO
 MINISTÉRIO DA EDUCAÇÃO
-SECRETARIA DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
-SECRETARIA DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
-INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE GOIÁS
-INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE GOIÁS
-CÂMPUS CIDADE DE GOIÁS
-CÂMPUS CIDADE DE GOIÁS
+SECRETARIA XXXX EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
+SECRETARIA XXXX EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
+INSTITUTO FEXXXXRAL XXXX EDUCAÇÃO, CIÊNCIA E TECNOLOGIA XXXX GOIÁS
+INSTITUTO FEXXXXRAL XXXX EDUCAÇÃO, CIÊNCIA E TECNOLOGIA XXXX GOIÁS
+CÂMPUS CIDAXXXX XXXX GOIÁS
+CÂMPUS CIDAXXXX XXXX GOIÁS
 
-DECLARAÇÃO
+XXXXCLARAÇÃO
 
-     Eu, XXXX  XXXX  XXXX,   CPF:  027.902.311-17  ocupante  do  cargo  de  Auxiliar  de  Biblioteca,
-SIAPE     atualmente  pertencente  ao  quadro  de  pessoal  do  INSTITUTO  FEDERAL  GOIÁS   venho
-através deste manifestar concordância com a redistribuição para o INSTITUTO  FEDERAL GOIANO. Por ser
-a expressão da verdade, firmo a presente declaração para que surta seus efeitos legais.
+     Eu, XXXX  XXXX  XXXX,   CPF:  027.902.311-17  ocupante  do  cargo  XXXX  Auxiliar  XXXX  Biblioteca,
+SIAPE     atualmente  pertencente  ao  quadro  XXXX  pessoal  do  INSTITUTO  FEXXXXRAL  GOIÁS   venho
+através XXXXste manifestar concordância com a redistribuição para o INSTITUTO  FEXXXXRAL GOIANO. Por ser
+a expressão da verdaXXXX, firmo a presente XXXXclaração para que surta seus efeitos legais.
 
-Cidade de Goiás, 22 de fevereiro de 2024.
+CidaXXXX XXXX Goiás, 22 XXXX fevereiro XXXX 2024.
 
 (Assinado Eletronicamente)
 XXXX GARGIA XXXX
  
-AUXILIAR DE BIBLIOTECA
+AUXILIAR XXXX BIBLIOTECA
 Documento assinado
 
 Documento assinado eletronicamente por:
 
-XXXX XXXX XXXX, AUXILIAR DE BIBLIOTECA
-XXXX XXXX XXXX
+XXXX XXXX, AUXILIAR XXXX BIBLIOTECA
+XXXX XXXX
 
-AUXILIAR DE BIBLIOTECA, em 22/02/2024 15:36:44.
+AUXILIAR XXXX BIBLIOTECA, em 22/02/2024 15:36:44.
 
-Este  documento  foi  emi(cid:58)do  pelo  SUAP  em  22/02/2024.  Para  comprovar  sua  auten(cid:58)cidade,  faça  a  leitura  do  QRCode  ao  lado  ou  acesse
+Este  documento  foi  emi(cid:58)do  pelo  SUAP  em  22/02/2024.  Para  comprovar  sua  auten(cid:58)cidaXXXX,  faça  a  leitura  do  QRCoXXXX  ao  lado  ou  acesse
 https://suap.ifg.edu.br/autenticar-documento/ e forneça os dados abaixo:
 
 Código Verificador:
-Código de Autenticação:
+Código XXXX Autenticação:
 
 510151
 
 f0af1bd7b1
 
-Instituto Federal de Educação, Ciência e Tecnologia de Goiás
-Instituto Federal de Educação, Ciência e Tecnologia de Goiás
-Rua 02, Quadra 10, Lote 01 a 15, Residencial Bauman, None, Centro, CIDADE DE GOIÁS / GO, CEP 76600-000
+Instituto FeXXXXral XXXX Educação, Ciência e Tecnologia XXXX Goiás
+Instituto FeXXXXral XXXX Educação, Ciência e Tecnologia XXXX Goiás
+Rua 02, Quadra 10, Lote 01 a 15, ResiXXXXncial Bauman, None, Centro, CIDAXXXX XXXX GOIÁS / GO, CEP 76600-000
 (62) 3442-0203 (ramal: 0203)
 
 Documento	Digitalizado	Público
 
-Declaracao	Concordancia	do	Servidor
+XXXXclaracao	Concordancia	do	Servidor
 
-Assunto: Declaracao	Concordancia	do	Servidor
+Assunto: XXXXclaracao	Concordancia	do	Servidor
 
 Assinado	por: Thiago	Bastos
 
-Tipo	do	Documento: Gestão	de	Pessoas
+Tipo	do	Documento: Gestão	XXXX	Pessoas
 
 Situação: Finalizado
 
-Nível	de	Acesso: Público
+Nível	XXXX	Acesso: Público
 Tipo	do	Conferência: Cópia	Simples
 
 Documento	assinado	eletronicamente	por:
 
-Thiago	de	Almeida	Bastos,	GERENTE	-	CD4	-	GGP-UR,	em	01/03/2024	11:59:30.
+Thiago	XXXX	Almeida	Bastos,	GERENTE	-	CD4	-	GGP-UR,	em	01/03/2024	11:59:30.
 
 Este	 documento	 foi	 armazenado	 no	 SUAP	 em	 01/03/2024.	 Para	 comprovar	 sua	
 
-integridade,	 faça	 a	
+integridaXXXX,	 faça	 a	
 
-leitura	 do	 QRCode	 ao	
+leitura	 do	 QRCoXXXX	 ao	
 
 lado	 ou	 acesse
 
@@ -412,52 +412,52 @@ Código	Verificador:
 
 580512
 
-Código	de	Autenticação:
+Código	XXXX	Autenticação:
 
 00356fb23d
 
 MINISTÉRIO DA EDUCAÇÃO
 MINISTÉRIO DA EDUCAÇÃO
-SECRETARIA DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
-SECRETARIA DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
-INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE GOIÁS
-INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE GOIÁS
-CÂMPUS CIDADE DE GOIÁS
-CÂMPUS CIDADE DE GOIÁS
+SECRETARIA XXXX EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
+SECRETARIA XXXX EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
+INSTITUTO FEXXXXRAL XXXX EDUCAÇÃO, CIÊNCIA E TECNOLOGIA XXXX GOIÁS
+INSTITUTO FEXXXXRAL XXXX EDUCAÇÃO, CIÊNCIA E TECNOLOGIA XXXX GOIÁS
+CÂMPUS CIDAXXXX XXXX GOIÁS
+CÂMPUS CIDAXXXX XXXX GOIÁS
 
-DECLARAÇÃO
+XXXXCLARAÇÃO
 
-   Declaro para os devidos ﬁns que eu, XXXX XXXX XXXX, matricula SIAPE  , encontro em efe(cid:56)vo exercício do
-IF Goiás - Campus Cidade de Goiás, não estou em gozo de licença ou afastamento. Por ser a expressão da verdade, ﬁrmamos
-a presente declaração para que surta seus efeitos legais.
+   XXXXclaro para os XXXXvidos ﬁns que eu, XXXX XXXX, matricula SIAPE  , encontro em efe(cid:56)vo exercício do
+IF Goiás - Campus CidaXXXX XXXX Goiás, não estou em gozo XXXX licença ou afastamento. Por ser a expressão da verdaXXXX, ﬁrmamos
+a presente XXXXclaração para que surta seus efeitos legais.
 
-Cidade de Goiás, 22 de fevereiro de 2024.
+CidaXXXX XXXX Goiás, 22 XXXX fevereiro XXXX 2024.
 
 (assinado eletronicamente)
-XXXX XXXX XXXX
-XXXX XXXX XXXX
-Auxiliar de Biblioteca
+XXXX XXXX
+XXXX XXXX
+Auxiliar XXXX Biblioteca
 
 Documento assinado eletronicamente por:
 
-XXXX XXXX XXXX, AUXILIAR DE BIBLIOTECA
-XXXX XXXX XXXX
+XXXX XXXX, AUXILIAR XXXX BIBLIOTECA
+XXXX XXXX
 
-AUXILIAR DE BIBLIOTECA, em 22/02/2024 15:33:48.
+AUXILIAR XXXX BIBLIOTECA, em 22/02/2024 15:33:48.
 
-Este  documento  foi  emi(cid:56)do  pelo  SUAP  em  22/02/2024.  Para  comprovar  sua  auten(cid:56)cidade,  faça  a  leitura  do  QRCode  ao  lado  ou  acesse
+Este  documento  foi  emi(cid:56)do  pelo  SUAP  em  22/02/2024.  Para  comprovar  sua  auten(cid:56)cidaXXXX,  faça  a  leitura  do  QRCoXXXX  ao  lado  ou  acesse
 https://suap.ifg.edu.br/autenticar-documento/ e forneça os dados abaixo:
 
 Código Verificador:
-Código de Autenticação:
+Código XXXX Autenticação:
 
 510156
 
 b5813270bf
 
-Instituto Federal de Educação, Ciência e Tecnologia de Goiás
-Instituto Federal de Educação, Ciência e Tecnologia de Goiás
-Rua 02, Quadra 10, Lote 01 a 15, Residencial Bauman, None, Centro, CIDADE DE GOIÁS / GO, CEP 76600-000
+Instituto FeXXXXral XXXX Educação, Ciência e Tecnologia XXXX Goiás
+Instituto FeXXXXral XXXX Educação, Ciência e Tecnologia XXXX Goiás
+Rua 02, Quadra 10, Lote 01 a 15, ResiXXXXncial Bauman, None, Centro, CIDAXXXX XXXX GOIÁS / GO, CEP 76600-000
 (62) 3442-0203 (ramal: 0203)
 
 Documento	Digitalizado	Público
@@ -468,22 +468,22 @@ Assunto: Licenças	da	Servidora
 
 Assinado	por: Thiago	Bastos
 
-Tipo	do	Documento: Gestão	de	Pessoas
+Tipo	do	Documento: Gestão	XXXX	Pessoas
 
 Situação: Finalizado
 
-Nível	de	Acesso: Público
+Nível	XXXX	Acesso: Público
 Tipo	do	Conferência: Cópia	Simples
 
 Documento	assinado	eletronicamente	por:
 
-Thiago	de	Almeida	Bastos,	GERENTE	-	CD4	-	GGP-UR,	em	01/03/2024	11:59:58.
+Thiago	XXXX	Almeida	Bastos,	GERENTE	-	CD4	-	GGP-UR,	em	01/03/2024	11:59:58.
 
 Este	 documento	 foi	 armazenado	 no	 SUAP	 em	 01/03/2024.	 Para	 comprovar	 sua	
 
-integridade,	 faça	 a	
+integridaXXXX,	 faça	 a	
 
-leitura	 do	 QRCode	 ao	
+leitura	 do	 QRCoXXXX	 ao	
 
 lado	 ou	 acesse
 
@@ -493,26 +493,26 @@ Código	Verificador:
 
 580513
 
-Código	de	Autenticação:
+Código	XXXX	Autenticação:
 
 292c6db9a3
 
 MINISTÉRIO DA EDUCAÇÃO
-SECRETARIA DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
-INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE GOIÁS
+SECRETARIA XXXX EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
+INSTITUTO FEXXXXRAL XXXX EDUCAÇÃO, CIÊNCIA E TECNOLOGIA XXXX GOIÁS
 REITORIA
 
-PORTARIA 1030/2020 - REITORIA/IFG, DE 30 DE JUNHO DE 2020
+PORTARIA 1030/2020 - REITORIA/IFG, XXXX 30 XXXX JUNHO XXXX 2020
 
-O REITOR DO INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE GOIÁS – IFG,
+O REITOR DO INSTITUTO FEXXXXRAL XXXX EDUCAÇÃO, CIÊNCIA E TECNOLOGIA XXXX GOIÁS – IFG,
 
-nomeado por Decreto Presidencial de 4 de outubro de 2017, publicado no Diário Oficial da União de 5/10/2017, no
+nomeado por XXXXcreto PresiXXXXncial XXXX 4 XXXX outubro XXXX 2017, publicado no Diário Oficial da União XXXX 5/10/2017, no
 
-uso de suas atribuições legais e regimentais, resolve:
+uso XXXX suas atribuições legais e regimentais, resolve:
 
-Homologar a estabilidade das servidoras relacionadas a seguir, lotadas no Câmpus Senador Canedo
+Homologar a estabilidaXXXX das servidoras relacionadas a seguir, lotadas no Câmpus Senador Canedo
 
-do IFG, conforme determina o art. 41, § 4º, da Constituição Federal e o art. 20, § 1º, da Lei nº 8.112/1990.
+do IFG, conforme XXXXtermina o art. 41, § 4º, da Constituição FeXXXXral e o art. 20, § 1º, da Lei nº 8.112/1990.
 
 Servidor
 
@@ -520,19 +520,19 @@ Cargo
 
 Matrícula
 
-Data de
+Data XXXX
 
 Data da
 
 Admissão
 
-Estabilidade
+EstabilidaXXXX
 
 Processo
 
-XXXX XXXX XXXX
+XXXX XXXX
 
-Auxiliar de Biblioteca
+Auxiliar XXXX Biblioteca
 
  
 
@@ -542,9 +542,9 @@ Auxiliar de Biblioteca
 
 23723.000637/2017-01
 
-XXXX XXXX XXXX
+XXXX XXXX
 
-Assistente de Aluno
+Assistente XXXX Aluno
 
  
 
@@ -562,7 +562,7 @@ Documento assinado eletronicamente por:
 
 Jeronimo XXXX da Silva, REITOR - CD1 - REITORIA, em 30/06/2020 13:06:47.
 
-Este  documento  foi  emitido  pelo  SUAP  em  26/06/2020.  Para  comprovar  sua  autenticidade,  faça  a  leitura  do  QRCode  ao  lado  ou  acesse  https://suap.ifg.edu.br/autenticar-
+Este  documento  foi  emitido  pelo  SUAP  em  26/06/2020.  Para  comprovar  sua  autenticidaXXXX,  faça  a  leitura  do  QRCoXXXX  ao  lado  ou  acesse  https://suap.ifg.edu.br/autenticar-
 
 documento/ e forneça os dados abaixo:
 
@@ -570,11 +570,11 @@ Código Verificador:
 
 69056
 
-Código de Autenticação:
+Código XXXX Autenticação:
 
-7e1c6de124
+7e1c6XXXX124
 
-Instituto Federal de Educação, Ciência e Tecnologia de Goiás
+Instituto FeXXXXral XXXX Educação, Ciência e Tecnologia XXXX Goiás
 
 Avenida Assis Chateaubriand, nº 1.658, Setor Oeste, GOIÂNIA / GO, CEP 74.130-012
 
@@ -588,28 +588,28 @@ Avenida Assis Chateaubriand, nº 1.658, Setor Oeste, GOIÂNIA / GO, CEP 74.130-0
 ​
 Documento	Digitalizado	Público
 
-Estabilidade	da	Servidora
+EstabilidaXXXX	da	Servidora
 
-Assunto: Estabilidade	da	Servidora
+Assunto: EstabilidaXXXX	da	Servidora
 
 Assinado	por: Thiago	Bastos
 
-Tipo	do	Documento: Gestão	de	Pessoas
+Tipo	do	Documento: Gestão	XXXX	Pessoas
 
 Situação: Finalizado
 
-Nível	de	Acesso: Público
+Nível	XXXX	Acesso: Público
 Tipo	do	Conferência: Cópia	Simples
 
 Documento	assinado	eletronicamente	por:
 
-Thiago	de	Almeida	Bastos,	GERENTE	-	CD4	-	GGP-UR,	em	01/03/2024	12:00:39.
+Thiago	XXXX	Almeida	Bastos,	GERENTE	-	CD4	-	GGP-UR,	em	01/03/2024	12:00:39.
 
 Este	 documento	 foi	 armazenado	 no	 SUAP	 em	 01/03/2024.	 Para	 comprovar	 sua	
 
-integridade,	 faça	 a	
+integridaXXXX,	 faça	 a	
 
-leitura	 do	 QRCode	 ao	
+leitura	 do	 QRCoXXXX	 ao	
 
 lado	 ou	 acesse
 
@@ -619,36 +619,36 @@ Código	Verificador:
 
 580514
 
-Código	de	Autenticação:
+Código	XXXX	Autenticação:
 
 45d59e950e
 
 ortt
-IItt T INSTITUTO FEDERAL
+IItt T INSTITUTO FEXXXXRAL
 
 Goiás
 
 MINISTÉRO  DA EDUCAçAO
 sEcRETARTA  oe eoucÁçÃo  pRoFrsstoNAl e recuolóclc¡
-INSTITUTO  FEDERAL  DE EDUCAçAO,  CIENCIA E TECNOLOGIA  DE GOIAS
+INSTITUTO  FEXXXXRAL  XXXX EDUCAçAO,  CIENCIA E TECNOLOGIA  XXXX GOIAS
 REITORIA
 
-PORTARIA  NO 696, DE 12 DE ABRIL ÐE 2017.
+PORTARIA  NO 696, XXXX 12 XXXX ABRIL ÐE 2017.
 
-o REtroR  EM EXERCíC|O DO |NSTTTUTO  FEDERAL DE EDUCAçÃO,
-ClÊNclA  E TECNOLOGIA DE GOIÁS,  nomeado pela Portaria no 1821, de 16 de
-outubro de 2015, publicada no Diário Oficial da União de 20.10.2015,  no uso de suas
+o REtroR  EM EXERCíC|O DO |NSTTTUTO  FEXXXXRAL XXXX EDUCAçÃO,
+ClÊNclA  E TECNOLOGIA XXXX GOIÁS,  nomeado pela Portaria no 1821, XXXX 16 XXXX
+outubro XXXX 2015, publicada no Diário Oficial da União XXXX 20.10.2015,  no uso XXXX suas
 
 atribuições legais e regimentais,  resolve:
 
-Nomear,  para o Quadro  de Pessoal do lnstituto Federal de Educação,
-Ciência  e Tecnologia de Goiás, nos termos do artigo 20, parágrafo  único,  do Decreto  no
+Nomear,  para o Quadro  XXXX Pessoal do lnstituto FeXXXXral XXXX Educação,
+Ciência  e Tecnologia XXXX Goiás, nos termos do artigo 20, parágrafo  único,  do XXXXcreto  no
 
-7.311,de2210912011, publicado no Diário  Oficial da União de2310912011;do artigo 90,
-inciso I da Lei no 8.1 12, de 1111211990,  publicada no Diário  Oficial  da União de
-1211211990; do artigo  90 da Lei no 11.091, de 1210112005,  publicada  no Diário  Oficial  da
-União de 1310112005;  e legislação  complementar em que estão  disciplinados  os
-deveres,  as responsabilidades  e os direitos inerentes aos cargos dos candidatos
+7.311,XXXX2210912011, publicado no Diário  Oficial da União XXXX2310912011;do artigo 90,
+inciso I da Lei no 8.1 12, XXXX 1111211990,  publicada no Diário  Oficial  da União XXXX
+1211211990; do artigo  90 da Lei no 11.091, XXXX 1210112005,  publicada  no Diário  Oficial  da
+União XXXX 1310112005;  e legislação  complementar em que estão  disciplinados  os
+XXXXveres,  as responsabilidaXXXXs  e os direitos inerentes aos cargos dos candidatos
 aprovados  em Concurso Público,  conforme  a seguir:
 
 Servidores  Técn ico-Ad  m i n istrativos  em Ed ucação  :
@@ -657,13 +657,13 @@ Nome
 
 Cargo
 
-Cleber  de
+Cleber  XXXX
 Paula
 Silva
 Junior
 
 Assistente
-de
+XXXX
 Laboratório/
 lnformática
 
@@ -671,28 +671,28 @@ XXXX
 XXXX
 XXXX
 
-Auxiliar  de
+Auxiliar  XXXX
 Biblioteca
 
-Edital de
+Edital XXXX
 Homologação
 
-Unidade
-de
+UnidaXXXX
+XXXX
 Lotação
 
 Nível
-de
+XXXX
 Classifi-
 cacão
 
 Nível
-de
+XXXX
 Capaci-
 tacäo
 
 Padräo
-de
+XXXX
 Venci-
 mento
 
@@ -702,15 +702,15 @@ da  Vaga
 Origem Legal
 da  Vaga
 
-Edital  de
+Edital  XXXX
 Homologação
-no 031  de
+no 031  XXXX
 2310512016,
 DOU
 2410512016
-Edital  de
+Edital  XXXX
 Homologação
-no 031  de
+no 031  XXXX
 23t0512016,
 DOU
 2410512016
@@ -737,20 +737,20 @@ Portaria MEC  no
 927,1010912015,
 DOU  11l09i2015
 
-Vacância  de
-Gutemberg  de
+Vacância  XXXX
+Gutemberg  XXXX
 Faria  Pereira  -
 Portaria  n"
 2411,  DOU
 03t1112016
 
-ADELINO
+AXXXXLINO
 
 DIDO  PIMENTA
 
 Reitor em Exercício
 
-Reitoria  do lnstituto Federal  de Educação,  Ciência  e Tecnologia de  Goiás
+Reitoria  do lnstituto FeXXXXral  XXXX Educação,  Ciência  e Tecnologia XXXX  Goiás
 Av. Assis Chateaubriand, no 1.658,  Setor  Oeste.  CEP:  74.130-012.  Goiânia-GO
 Fone:  (62) 3612-2200
 
@@ -762,22 +762,22 @@ Assunto: Nomeação	XXXX
 
 Assinado	por: Thiago	Bastos
 
-Tipo	do	Documento: Gestão	de	Pessoas
+Tipo	do	Documento: Gestão	XXXX	Pessoas
 
 Situação: Finalizado
 
-Nível	de	Acesso: Público
+Nível	XXXX	Acesso: Público
 Tipo	do	Conferência: Cópia	Simples
 
 Documento	assinado	eletronicamente	por:
 
-Thiago	de	Almeida	Bastos,	GERENTE	-	CD4	-	GGP-UR,	em	01/03/2024	12:01:42.
+Thiago	XXXX	Almeida	Bastos,	GERENTE	-	CD4	-	GGP-UR,	em	01/03/2024	12:01:42.
 
 Este	 documento	 foi	 armazenado	 no	 SUAP	 em	 01/03/2024.	 Para	 comprovar	 sua	
 
-integridade,	 faça	 a	
+integridaXXXX,	 faça	 a	
 
-leitura	 do	 QRCode	 ao	
+leitura	 do	 QRCoXXXX	 ao	
 
 lado	 ou	 acesse
 
@@ -787,7 +787,7 @@ Código	Verificador:
 
 580516
 
-Código	de	Autenticação:
+Código	XXXX	Autenticação:
 
 1a6315fe25
 
@@ -795,26 +795,26 @@ Código	de	Autenticação:
 
 Certidão negativa correcional - Agentes Públicos (ePAD e CGU-PAD)
 
-Consultado: XXXX XXXX XXXX
+Consultado: XXXX XXXX
 
 CPF/CNPJ: 027.902.311-17
 
-Certifica-se que, em consulta aos sistemas ePAD e CGU-PAD, NÃO CONSTAM registros de 
-penalidades vigentes relativas ao CPF consultado.
+Certifica-se que, em consulta aos sistemas ePAD e CGU-PAD, NÃO CONSTAM registros XXXX 
+penalidaXXXXs vigentes relativas ao CPF consultado.
 
-Destaca-se que, nos termos da legislação vigente, os sistemas ePAD e CGU-PAD consolidam informações prestadas pelas 
-unidades do Poder Executivo federal supervisionadas pela Controladoria-Geral da União, e não substituem as informações 
+XXXXstaca-se que, nos termos da legislação vigente, os sistemas ePAD e CGU-PAD consolidam informações prestadas pelas 
+unidaXXXXs do PoXXXXr Executivo feXXXXral supervisionadas pela Controladoria-Geral da União, e não substituem as informações 
 constantes dos assentamentos funcionais.
 
-O Sistema de Gestão de Processos Disciplinares (CGU-PAD) e o Sistema ePAD consolidam informações sobre os 
-procedimentos disciplinares no âmbito dos órgãos, entidades, empresas públicas e sociedades de economia mista do Poder 
-Executivo Federal.
+O Sistema XXXX Gestão XXXX Processos Disciplinares (CGU-PAD) e o Sistema ePAD consolidam informações sobre os 
+procedimentos disciplinares no âmbito dos órgãos, entidaXXXXs, empresas públicas e sociedaXXXXs XXXX economia mista do PoXXXXr 
+Executivo FeXXXXral.
 
-Certidão emitida às 15:30:49 do dia 22/02/2024 , com validade até o dia 23/03/2024.
+Certidão emitida às 15:30:49 do dia 22/02/2024 , com validaXXXX até o dia 23/03/2024.
 
 Link para consulta da verificação da certidão https://certidoes.cgu.gov.br/
 
-Código de controle da certidão: FsyQ5aBjklXsY5yn7hXw
+Código XXXX controle da certidão: FsyQ5aBjklXsY5yn7hXw
 
 Qualquer rasura ou emenda invalidará este documento.
 
@@ -831,22 +831,22 @@ Assunto: Certidao	Negativa
 
 Assinado	por: Thiago	Bastos
 
-Tipo	do	Documento: Gestão	de	Pessoas
+Tipo	do	Documento: Gestão	XXXX	Pessoas
 
 Situação: Finalizado
 
-Nível	de	Acesso: Público
+Nível	XXXX	Acesso: Público
 Tipo	do	Conferência: Cópia	Simples
 
 Documento	assinado	eletronicamente	por:
 
-Thiago	de	Almeida	Bastos,	GERENTE	-	CD4	-	GGP-UR,	em	01/03/2024	12:02:04.
+Thiago	XXXX	Almeida	Bastos,	GERENTE	-	CD4	-	GGP-UR,	em	01/03/2024	12:02:04.
 
 Este	 documento	 foi	 armazenado	 no	 SUAP	 em	 01/03/2024.	 Para	 comprovar	 sua	
 
-integridade,	 faça	 a	
+integridaXXXX,	 faça	 a	
 
-leitura	 do	 QRCode	 ao	
+leitura	 do	 QRCoXXXX	 ao	
 
 lado	 ou	 acesse
 
@@ -856,19 +856,19 @@ Código	Verificador:
 
 580517
 
-Código	de	Autenticação:
+Código	XXXX	Autenticação:
 
 f35eb60b79
 
-XXXX XXXX XXXX
+XXXX XXXX
 
- Endereço para acessar este CV: https://lattes.cnpq.br/3380774399284511
+ EnXXXXreço para acessar este CV: https://lattes.cnpq.br/3380774399284511
 
  Última atualização do currículo em 28/02/2024
 
 Resumo informado pelo autor
 
-Possui graduação em Matemática pela Universidade Paulista (2014). Curso de Pós-Graduação Ensino de Matemática: Matemática Faculdade Única de Ipatinga, Ipatinga,
+Possui graduação em Matemática pela UniversidaXXXX Paulista (2014). Curso XXXX Pós-Graduação Ensino XXXX Matemática: Matemática FaculdaXXXX Única XXXX Ipatinga, Ipatinga,
 
 MG, Novembro 2020.
 
@@ -876,7 +876,7 @@ MG, Novembro 2020.
 
 Nome civil
 
-Nome XXXX XXXX XXXX
+Nome XXXX XXXX
 
 Dados pessoais
 
@@ -886,38 +886,38 @@ CPF 027.902.311-17
 
 Formação acadêmica/titulação
 
-2020 - 2020 Especialização em Ensino de Matemática.
+2020 - 2020 Especialização em Ensino XXXX Matemática.
 
-Faculdade Única de Ipatinga, FUNIP, Ipatinga, Brasil
+FaculdaXXXX Única XXXX Ipatinga, FUNIP, Ipatinga, Brasil
 Título: -
 Orientador: -
 
 2009 Graduação em Licenciatura em Matemática.
 
-Instituto Federal Goiano, IF Goiano, Goiania, Brasil
+Instituto FeXXXXral Goiano, IF Goiano, Goiania, Brasil
 
 2012 - 2014 Graduação em Matemática.
 
-Universidade Paulista, UNIP, Sao Paulo, Brasil
+UniversidaXXXX Paulista, UNIP, Sao Paulo, Brasil
 Título: DISCALCULIA: A EXCLUSÃO SILENCIOSA NO ENSINO-APRENDIZAGEM EM MATEMÁTICA,
 Orientador: Ana Chiummo
 
 2005 - 2007 Ensino Médio (2o grau) .
 
-Colegio Sagrado Coração de Jesus., CSCJ, Brasil
+Colegio Sagrado Coração XXXX Jesus., CSCJ, Brasil
 
 2001 - 2004 Ensino Fundamental (1o grau) .
 
-Colegio Sagrado Coração de Jesus., CSCJ, Brasil
+Colegio Sagrado Coração XXXX Jesus., CSCJ, Brasil
 
 Atuação profissional
 
-1. Instituto Federal de Educação, Ciência e Tecnologia de Goiás - IFG
+1. Instituto FeXXXXral XXXX Educação, Ciência e Tecnologia XXXX Goiás - IFG
 
 Vínculo
 institucional
 
-2017 - Atual Vínculo: Servidor público , Enquadramento funcional: Auxiliar de Biblioteca , Carga horária: 40, Regime:
+2017 - Atual Vínculo: Servidor público , Enquadramento funcional: Auxiliar XXXX Biblioteca , Carga horária: 40, Regime:
 
 Integral
 
@@ -932,22 +932,22 @@ Lattes	-	XXXX
 Assunto: Lattes	-	XXXX
 Assinado	por: Thiago	Bastos
 
-Tipo	do	Documento: Gestão	de	Pessoas
+Tipo	do	Documento: Gestão	XXXX	Pessoas
 
 Situação: Finalizado
 
-Nível	de	Acesso: Público
+Nível	XXXX	Acesso: Público
 Tipo	do	Conferência: Cópia	Simples
 
 Documento	assinado	eletronicamente	por:
 
-Thiago	de	Almeida	Bastos,	GERENTE	-	CD4	-	GGP-UR,	em	01/03/2024	12:02:44.
+Thiago	XXXX	Almeida	Bastos,	GERENTE	-	CD4	-	GGP-UR,	em	01/03/2024	12:02:44.
 
 Este	 documento	 foi	 armazenado	 no	 SUAP	 em	 01/03/2024.	 Para	 comprovar	 sua	
 
-integridade,	 faça	 a	
+integridaXXXX,	 faça	 a	
 
-leitura	 do	 QRCode	 ao	
+leitura	 do	 QRCoXXXX	 ao	
 
 lado	 ou	 acesse
 
@@ -957,43 +957,43 @@ Código	Verificador:
 
 580520
 
-Código	de	Autenticação:
+Código	XXXX	Autenticação:
 
 283f1414c1
 
-​SERVIÇO	PÚBLICO	FEDERAL
+​SERVIÇO	PÚBLICO	FEXXXXRAL
 
 MINISTÉRIO	DA	EDUCAÇÃO
 
-SECRETARIA	DE	EDUCAÇÃO	PROFISSIONAL	E	TECNOLÓGICA
+SECRETARIA	XXXX	EDUCAÇÃO	PROFISSIONAL	E	TECNOLÓGICA
 
-INSTITUTO	FEDERAL	DE	EDUCAÇÃO,	CIÊNCIA	E	TECNOLOGIA	GOIANO
+INSTITUTO	FEXXXXRAL	XXXX	EDUCAÇÃO,	CIÊNCIA	E	TECNOLOGIA	GOIANO
 
-Declaração	nº	40/2024	-	GGP-UR/DAP-UR/CMPURT/IFGOIANO
+XXXXclaração	nº	40/2024	-	GGP-UR/DAP-UR/CMPURT/IFGOIANO
 
-DECLARAÇÃO
+XXXXCLARAÇÃO
 
-Declaro	que:
+XXXXclaro	que:
 
-(x)	Não	há	concurso	público	em	andamento	ou	vigente	para	preenchimento	do	cargo	de	Auxiliar	de
-Biblioteca	no	Instituto	Federal	de	Educação,	Ciência	e	Tecnologia	Goiano.
+(x)	Não	há	concurso	público	em	andamento	ou	vigente	para	preenchimento	do	cargo	XXXX	Auxiliar	XXXX
+Biblioteca	no	Instituto	FeXXXXral	XXXX	Educação,	Ciência	e	Tecnologia	Goiano.
 
-(x)	A	redistribuição	pretendida	não	acarretará	impacto	no	Quadro	de	Referência	dos	Servidores	da
-Carreira	TAE	(QRSTAE)	do	Instituto	Federal	de	Educação,	Ciência	e	Tecnologia	Goiano.
+(x)	A	redistribuição	pretendida	não	acarretará	impacto	no	Quadro	XXXX	Referência	dos	Servidores	da
+Carreira	TAE	(QRSTAE)	do	Instituto	FeXXXXral	XXXX	Educação,	Ciência	e	Tecnologia	Goiano.
 
-Por	ser	a	expressão	da	verdade,	firmo	a	presente	declaração	para	que	surta	seus	efeitos	legais.
+Por	ser	a	expressão	da	verdaXXXX,	firmo	a	presente	XXXXclaração	para	que	surta	seus	efeitos	legais.
 
-Urutaí,	1	de	março	de	2024
+Urutaí,	1	XXXX	março	XXXX	2024
 
 (Assinado	Eletronicamente)
-Thiago	de	Almeida	Bastos
-Gerente	de	Gestão	de	Pessoas
+Thiago	XXXX	Almeida	Bastos
+Gerente	XXXX	Gestão	XXXX	Pessoas
 
 Rodovia	Geraldo	Silva	Nascimento,	Km	2.5,	SN,	Zona	Rural,	URUTAÍ	/	GO,	CEP	75790-000
 
 (64)	3465-1900
 
-INSTITUTO	FEDERAL	GOIANO
+INSTITUTO	FEXXXXRAL	GOIANO
 
 Campus	Urutaí
 
@@ -1003,127 +1003,127 @@ Campus	Urutaí
 ​
 ​
 ​
-SERVIÇO	PÚBLICO	FEDERAL
+SERVIÇO	PÚBLICO	FEXXXXRAL
 
 MINISTÉRIO	DA	EDUCAÇÃO
 
-SECRETARIA	DE	EDUCAÇÃO	PROFISSIONAL	E	TECNOLÓGICA
+SECRETARIA	XXXX	EDUCAÇÃO	PROFISSIONAL	E	TECNOLÓGICA
 
-INSTITUTO	FEDERAL	DE	EDUCAÇÃO,	CIÊNCIA	E	TECNOLOGIA	GOIANO
+INSTITUTO	FEXXXXRAL	XXXX	EDUCAÇÃO,	CIÊNCIA	E	TECNOLOGIA	GOIANO
 
 Ofício	nº	41/2023	-	GGP-UR/DAP-UR/CMPURT/IFGOIANO
 
-À	Senhora	Ana	Maria	XXXX	de	Resende
-Diretora	de	Gestão	de	Pessoas
+À	Senhora	Ana	XXXX	XXXX	XXXX	ResenXXXX
+Diretora	XXXX	Gestão	XXXX	Pessoas
 Reitoria	do	IF	Goiano
 
 Assunto:	Solicita	autorização	para	remoção	interna.
 
 Senhora	Diretora,
 
-Urutaí,	12	de	junho	de	2023.
+Urutaí,	12	XXXX	junho	XXXX	2023.
 
 O	 IF	 Goiano	 –	 Campus	 Urutaí	 possui	 apenas	 100	 (cem)	 técnicos	 administrativos	 efetivos	 no
-quadro.	Este	quadro	reduzido	de	servidores	mantém	hoje	mais	de	50	tipos	diferentes	de	serviços	prestados	a
-comunidade	acadêmica	do	Campus,	além	dos	que	estão	diretamente	ligados	as	atividades	de	aulas,	tais	como,
-execução	financeira,	execução	orçamentária,	contabilidade,	compras	e	licitação,	gestão	de	pessoas,	projetos	e
+quadro.	Este	quadro	reduzido	XXXX	servidores	mantém	hoje	mais	XXXX	50	tipos	diferentes	XXXX	serviços	prestados	a
+comunidaXXXX	acadêmica	do	Campus,	além	dos	que	estão	diretamente	ligados	as	atividaXXXXs	XXXX	aulas,	tais	como,
+execução	financeira,	execução	orçamentária,	contabilidaXXXX,	compras	e	licitação,	gestão	XXXX	pessoas,	projetos	e
 obras,	 almoxarifado,	 patrimônio,	 transporte,	 tecnologia	 da	 informação,	 comunicação,	 protocolo,	 laboratórios
-educativos	 de	 produção,	 estação	 de	 tratamento	 de	 água,	 manutenção	 elétrica	 e	 predial,	 centro	 médico,
-refeitório,	 assistência	 estudantil,	 além	 de	 uma	 Fazenda	 Escola,	 um	 centro	 integrado	 de	 formação	 de
-treinadores	e	instrutores	de	cães-guia	e	um	programa	de	equoterapia.
+educativos	 XXXX	 produção,	 estação	 XXXX	 tratamento	 XXXX	 água,	 manutenção	 elétrica	 e	 predial,	 centro	 médico,
+refeitório,	 assistência	 estudantil,	 além	 XXXX	 uma	 Fazenda	 Escola,	 um	 centro	 integrado	 XXXX	 formação	 XXXX
+treinadores	e	instrutores	XXXX	cães-guia	e	um	programa	XXXX	equoterapia.
 
-O	 Campus	 Urutaí	 possui	 hoje	 quatro	 cursos	 técnicos	 de	 nível	 médio,	 treze	 cursos	 de	 graduação
-entre	as	modalidades	presencial	e	de	ensino	à	distância,	e	três	programas	de	mestrado	stricto-sensu,	com	cerca
-de	 2.300	 (dois	 mil	 e	 trezentos)	 estudantes	 matriculados	 anualmente.	 Além	 disso	 oferecemos	 a	 residência
-estudantil	com	suporte	completo	de	alojamento,	refeição,	higiene	e	cuidados	básicos	de	saúde,	tendo	hoje	cerca
-de	300	alunos	residindo	dentro	do	campus,	o	que	demanda	uma	carga	de	trabalho	e	de	pessoal	enorme	para
+O	 Campus	 Urutaí	 possui	 hoje	 quatro	 cursos	 técnicos	 XXXX	 nível	 médio,	 treze	 cursos	 XXXX	 graduação
+entre	as	modalidaXXXXs	presencial	e	XXXX	ensino	à	distância,	e	três	programas	XXXX	mestrado	stricto-sensu,	com	cerca
+XXXX	 2.300	 (dois	 mil	 e	 trezentos)	 estudantes	 matriculados	 anualmente.	 Além	 disso	 oferecemos	 a	 residência
+estudantil	com	suporte	completo	XXXX	alojamento,	refeição,	higiene	e	cuidados	básicos	XXXX	saúXXXX,	tendo	hoje	cerca
+XXXX	300	alunos	residindo	XXXXntro	do	campus,	o	que	XXXXmanda	uma	carga	XXXX	trabalho	e	XXXX	pessoal	enorme	para
 sua	manutenção.
 
-Localizado	na	zona	rural	o	Campus	Urutaí	é	uma	escola	agrícola	de	setenta	anos	de	fundação	com
-um	quadro	de	pessoal,	em	grande	parte,	ocupado	por	servidores	em	final	de	carreira	em	cargos	já	extintos,	o
-que	impossibilita	a	contratação	de	novos	servidores.	Só	nos	últimos	dois	anos	perdemos	cerca	de	seis	códigos
-de	 vaga.	 Dia	 após	 dia	 a	 Gestão	 do	 Campus	 se	 esforça	 para	 manter	 os	 serviços	 prestados	 com	 nível	 técnico	 e
+Localizado	na	zona	rural	o	Campus	Urutaí	é	uma	escola	agrícola	XXXX	setenta	anos	XXXX	fundação	com
+um	quadro	XXXX	pessoal,	em	granXXXX	parte,	ocupado	por	servidores	em	final	XXXX	carreira	em	cargos	já	extintos,	o
+que	impossibilita	a	contratação	XXXX	novos	servidores.	Só	nos	últimos	dois	anos	perXXXXmos	cerca	XXXX	seis	códigos
+XXXX	 vaga.	 Dia	 após	 dia	 a	 Gestão	 do	 Campus	 se	 esforça	 para	 manter	 os	 serviços	 prestados	 com	 nível	 técnico	 e
 operacional	sem	que	haja	prejuízos	aos	setores.	
 
 No	ano	passado	recebemos	em	colaboração	técnica	a	servidora	XXXX	XXXX	Campus	do	Instituto
-Federal	de	Goiás	no	período	12/05/2022	a	12/05/2023.	A	servidora	atuou,	neste	período,	no	setor	de	licitações	e
-contratos.	 Sua	 presença	 foi	 primordial	 para	 o	 desenvolvimento	 de	 demandas	 do	 setor.	 Junto	 da	 equipe	 a
-servidora	passou	por	constante	processo	de	capacitação	e	atualização	das	normas,	demonstrando	aptidão	para
+FeXXXXral	XXXX	Goiás	no	período	12/05/2022	a	12/05/2023.	A	servidora	atuou,	neste	período,	no	setor	XXXX	licitações	e
+contratos.	 Sua	 presença	 foi	 primordial	 para	 o	 XXXXsenvolvimento	 XXXX	 XXXXmandas	 do	 setor.	 Junto	 da	 equipe	 a
+servidora	passou	por	constante	processo	XXXX	capacitação	e	atualização	das	normas,	XXXXmonstrando	aptidão	para
 os	trabalhos	exercidos	e	ótimos	resultados	para	o	setor.
 
-A	 servidora	 XXXX	 XXXX	 e	 natural	 da	 cidade	 de	 Pires	 do	 Rio/GO,	 localizado	 a	 18	 km	 de	 Urutaí,
-possui	família	nesta	cidade	e	desde	2012	quando	foi	concedida	a	colaboração	técnica	se	mudou	para	cá	com	a
-família.	Desde	este	período	a	gestão	do	Campus	Urutaí	tenta	uma	forma	de	traze-la	em	redistribuição	para	o
-quadro	 de	 servidores	 de	 Urutaí,	 porém,	 sem	 sucesso.	 A	 servidora	 e	 Auxiliar	 de	 Biblioteca,	 cargo	 com
-provimento	vedado,	o	que	impede	a	sua	redistribuição	pelo	mesmo	código	de	vaga	em	contrapartida.
+A	 servidora	 XXXX	 XXXX	 e	 natural	 da	 cidaXXXX	 XXXX	 Pires	 do	 Rio/GO,	 localizado	 a	 18	 km	 XXXX	 Urutaí,
+possui	família	nesta	cidaXXXX	e	XXXXsXXXX	2012	quando	foi	concedida	a	colaboração	técnica	se	mudou	para	cá	com	a
+família.	XXXXsXXXX	este	período	a	gestão	do	Campus	Urutaí	tenta	uma	forma	XXXX	traze-la	em	redistribuição	para	o
+quadro	 XXXX	 servidores	 XXXX	 Urutaí,	 porém,	 sem	 sucesso.	 A	 servidora	 e	 Auxiliar	 XXXX	 Biblioteca,	 cargo	 com
+provimento	vedado,	o	que	impeXXXX	a	sua	redistribuição	pelo	mesmo	código	XXXX	vaga	em	contrapartida.
 
-O	Campus	Urutai	não	possui	atualmente	código	de	vaga	de	Auxiliar	de	Biblioteca	disponível,	tão
-pouco	servidores	com	interesse	na	redistribuição	para	o	IF	Goiás.	No	entanto	foi	identificado	uma	demanda	da
+O	Campus	Urutai	não	possui	atualmente	código	XXXX	vaga	XXXX	Auxiliar	XXXX	Biblioteca	disponível,	tão
+pouco	servidores	com	interesse	na	redistribuição	para	o	IF	Goiás.	No	entanto	foi	iXXXXntificado	uma	XXXXmanda	da
 
-servidora	 Hiannka	 Nunes	 Carvalho,	 matrícula	 SIAPE	 nº	 1122035,	 ocupante	 do	 cargo	 de	 ASSISTENTE	 DE
-ALUNO,	 lotada	 no	 Instituto	 Federal	 Goiano	 –	 Campus	 Ipameri.	 A	 servidora	 Hiannka	 tem	 interesse	 na
-redistribuição	 por	 permuta	 com	 a	 servidora	 XXXX.	 A	 redistribuição	 em	 tela	 atende	 os	 requisitos
-estabelecidos	pela	Portaria	SEGRT/MGI	nº	619,	de	10/03/2023:
+servidora	 Hiannka	 Nunes	 Carvalho,	 matrícula	 SIAPE	 nº	 1122035,	 ocupante	 do	 cargo	 XXXX	 ASSISTENTE	 XXXX
+ALUNO,	 lotada	 no	 Instituto	 FeXXXXral	 Goiano	 –	 Campus	 Ipameri.	 A	 servidora	 Hiannka	 tem	 interesse	 na
+redistribuição	 por	 permuta	 com	 a	 servidora	 XXXX.	 A	 redistribuição	 em	 tela	 atenXXXX	 os	 requisitos
+estabelecidos	pela	Portaria	SEGRT/MGI	nº	619,	XXXX	10/03/2023:
 
-Art.	6º	Os	órgãos	e	entidades	deverão	instruir	o	processo	administrativo,	observados
+Art.	6º	Os	órgãos	e	entidaXXXXs	XXXXverão	instruir	o	processo	administrativo,	observados
 os	seguintes	requisitos:
 I	-	interesse	da	administração;
-II	-	equivalência	de	vencimentos;
+II	-	equivalência	XXXX	vencimentos;
 III	-	manutenção	da	essência	das	atribuições	do	cargo;
-IV	-	vinculação	entre	os	graus	de	responsabilidade	e	complexidade	das	atividades;
-V	-	mesmo	nível	de	escolaridade,	especialidade	ou	habilitação	profissional;	e
-VI	-	compatibilidade	entre	as	atribuições	do	cargo	e	as	finalidades	institucionais	do
-órgão	ou	entidade.
+IV	-	vinculação	entre	os	graus	XXXX	responsabilidaXXXX	e	complexidaXXXX	das	atividaXXXXs;
+V	-	mesmo	nível	XXXX	escolaridaXXXX,	especialidaXXXX	ou	habilitação	profissional;	e
+VI	-	compatibilidaXXXX	entre	as	atribuições	do	cargo	e	as	finalidaXXXXs	institucionais	do
+órgão	ou	entidaXXXX.
 
-Para	 que	 seja	 possível	 dar	 continuidade	 no	 processo	 de	 redistribuição	 por	 permuta	 entre	 as
-servidoras,	e	necessário	que	haja	uma	colaboração	entre	os	campi	Urutaí	e	Avançado	de	Ipameri,	uma	vez	que
+Para	 que	 seja	 possível	 dar	 continuidaXXXX	 no	 processo	 XXXX	 redistribuição	 por	 permuta	 entre	 as
+servidoras,	e	necessário	que	haja	uma	colaboração	entre	os	campi	Urutaí	e	Avançado	XXXX	Ipameri,	uma	vez	que
 a	 servidora	 XXXX	 tem	 interesse	 em	 ir	 para	 o	 Campus	 Urutaí	 e	 a	 servidora	 Hiannka	 pertence	 ao	 Campus
-Avançado	de	Ipameri.	O	campus	Urutaí	possui	um	código	de	vaga	disponível	de	Assistente	em	Administração,	e
-tem	 interesse	 em	 oferece-lo	 em	 contrapartida	 ao	 Campus	 Ipameri.	 Esta	 alternativa	 ate	 foi	 considerada	 no
-processo	 de	 redistribuição,	 mas	 a	 Portaria	 SEGRT/MGI	 nº	 619,	 de	 10/03/2023,	 veda	 o	 tramite	 entre	 cargos	 de
+Avançado	XXXX	Ipameri.	O	campus	Urutaí	possui	um	código	XXXX	vaga	disponível	XXXX	Assistente	em	Administração,	e
+tem	 interesse	 em	 oferece-lo	 em	 contrapartida	 ao	 Campus	 Ipameri.	 Esta	 alternativa	 ate	 foi	 consiXXXXrada	 no
+processo	 XXXX	 redistribuição,	 mas	 a	 Portaria	 SEGRT/MGI	 nº	 619,	 XXXX	 10/03/2023,	 veda	 o	 tramite	 entre	 cargos	 XXXX
 níveis	diferentes.
 
-Ao	 consultar	 o	 Sistema	 de	 Movimentação	 de	 Servidores,	 é	 possível	 notar	 que	 atualmente
-(maio/2023)	não	existem	demandas	nos	Campus	Urutaí	e	para	o	Campus	Avançado	de	Ipameri	para	os	cargos
-mencionados:	 Auxiliar	 de	 Biblioteca	 e	 Assistente	 de	 Alunos,	 (consultas	 em	 anexo).	 E	 que	 o	 código	 de	 vaga
-0349365	-	Assistente	em	Administração	 já	passou	em	consulta	ao	sistema	 de	movimentação	e	está	disponível
+Ao	 consultar	 o	 Sistema	 XXXX	 Movimentação	 XXXX	 Servidores,	 é	 possível	 notar	 que	 atualmente
+(maio/2023)	não	existem	XXXXmandas	nos	Campus	Urutaí	e	para	o	Campus	Avançado	XXXX	Ipameri	para	os	cargos
+mencionados:	 Auxiliar	 XXXX	 Biblioteca	 e	 Assistente	 XXXX	 Alunos,	 (consultas	 em	 anexo).	 E	 que	 o	 código	 XXXX	 vaga
+0349365	-	Assistente	em	Administração	 já	passou	em	consulta	ao	sistema	 XXXX	movimentação	e	está	disponível
 para	utilização	(anexo).
 
 Logo,	tendo	em	vista	que:
 
 1.	O	Campus	Urutaí	tem	interesse	em	receber	a	servidora	XXXX	XXXX	XXXX;
 2.	Que	a	servidora	Hiannka	Nunes	Carvalho	tem	interesse	em	redistribuir	para	o	IF	Goiás;
-3.	Que	não	existem	interessados	na	movimentação	para	o	Campus	Avançado	de	Ipameri	e	para	o	Campus
-Urutaí	para	o	cargo	de	Assistente	de	Alunos;
-4.	Que	não	existem	interessados	na	movimentação	para	o	Campus	Avançado	de	Ipameri	e	para	o	Campus
-Urutaí	para	o	cargo	de	Auxiliar	de	Biblioteca;
-5.	Que	o	código	de	vaga	0349365	-	Assistente	em	Administração	esta	disponível	para	utilização;
-6.	Que	o	Campus	Avançado	de	Ipameri	tem	interesse	em	receber	o	código	de	vaga	0349365	em	contrapartida	a
+3.	Que	não	existem	interessados	na	movimentação	para	o	Campus	Avançado	XXXX	Ipameri	e	para	o	Campus
+Urutaí	para	o	cargo	XXXX	Assistente	XXXX	Alunos;
+4.	Que	não	existem	interessados	na	movimentação	para	o	Campus	Avançado	XXXX	Ipameri	e	para	o	Campus
+Urutaí	para	o	cargo	XXXX	Auxiliar	XXXX	Biblioteca;
+5.	Que	o	código	XXXX	vaga	0349365	-	Assistente	em	Administração	esta	disponível	para	utilização;
+6.	Que	o	Campus	Avançado	XXXX	Ipameri	tem	interesse	em	receber	o	código	XXXX	vaga	0349365	em	contrapartida	a
 servidora	Hiannka	Nunes	Carvalho.
-7.	Que	não	haverá	prejuízos	em	face	do	regulamento	de	Movimentação	de	Servidores,	uma	vez	que	os	códigos
-de	vagas	envolvidos	não	despertou	interesse	em	outros	servidores	do	órgão,	haja	vista	o	relatório	de	inscrições
+7.	Que	não	haverá	prejuízos	em	face	do	regulamento	XXXX	Movimentação	XXXX	Servidores,	uma	vez	que	os	códigos
+XXXX	vagas	envolvidos	não	XXXXspertou	interesse	em	outros	servidores	do	órgão,	haja	vista	o	relatório	XXXX	inscrições
 do	sistema.	
 
-Solicitamos	 autorização	 para	 tramitar	 o	 processo	 de	 redistribuição	 entre	 as	 servidoras	 XXXX
+Solicitamos	 autorização	 para	 tramitar	 o	 processo	 XXXX	 redistribuição	 entre	 as	 servidoras	 XXXX
 XXXX	 XXXX	 e	 Hiannka	 Nunes	 Carvalho,	 condicionado	 a	 posterior	 e	 imediata	 remoção	 interna	 da
-servidora	 XXXX	 XXXX	 XXXX	 do	 Campus	 Avançado	 de	 Ipameri	 ao	 Campus	 Urutaí	 em	 contrapartida	 ao
-código	de	vaga	0349365	-	Assistente	em	Administração.	Certos	de	contarmos	com	o	apoio	e	colaboração	de	V.
-Sª.,	agradecemos.
+servidora	 XXXX	 XXXX	 XXXX	 do	 Campus	 Avançado	 XXXX	 Ipameri	 ao	 Campus	 Urutaí	 em	 contrapartida	 ao
+código	XXXX	vaga	0349365	-	Assistente	em	Administração.	Certos	XXXX	contarmos	com	o	apoio	e	colaboração	XXXX	V.
+Sª.,	agraXXXXcemos.
 
 																						Respeitosamente,
 
-De	acordo:	
+XXXX	acordo:	
 
 (Assinado	Eletronicamente)
-Thiago	de	Almeida	Bastos
-Gerente	de	Gestão	de	Pessoas
+Thiago	XXXX	Almeida	Bastos
+Gerente	XXXX	Gestão	XXXX	Pessoas
 
 (Assinado	Eletronicamente)
 Paulo	Cesar	Ribeiro	da	Cunha
 Diretor-Geral	do	Campus	Urutai
 
 (Assinado	Eletronicamente)
-Juliana	Cristina	da	Costa	Fernandes
+Juliana	Cristina	da	Costa	FernanXXXXs
 Diretora-Geral	do	Campus	Avancado
 Ipameri
 
@@ -1131,76 +1131,76 @@ Rodovia	Geraldo	Silva	Nascimento,	Km	2.5,	SN,	Zona	Rural,	URUTAÍ	/	GO,	CEP	7579
 
 (64)	3465-1900
 
-INSTITUTO	FEDERAL	GOIANO
+INSTITUTO	FEXXXXRAL	GOIANO
 
 Campus	Urutaí
 
-SERVIÇO	PÚBLICO	FEDERAL
+SERVIÇO	PÚBLICO	FEXXXXRAL
 
 MINISTÉRIO	DA	EDUCAÇÃO
 
-SECRETARIA	DE	EDUCAÇÃO	PROFISSIONAL	E	TECNOLÓGICA
+SECRETARIA	XXXX	EDUCAÇÃO	PROFISSIONAL	E	TECNOLÓGICA
 
-INSTITUTO	FEDERAL	DE	EDUCAÇÃO,	CIÊNCIA	E	TECNOLOGIA	GOIANO
+INSTITUTO	FEXXXXRAL	XXXX	EDUCAÇÃO,	CIÊNCIA	E	TECNOLOGIA	GOIANO
 
 Ofício	nº	158/2024	-	DGAB-REI/IFGOIANO
 
 À	Senhora
 Oneida	Cristina	Gomes	Barcelos	Irigon
-Reitora	do	Instituto	Federal	de	Educação,	Ciência	e	Tecnologia	de	Goiás
+Reitora	do	Instituto	FeXXXXral	XXXX	Educação,	Ciência	e	Tecnologia	XXXX	Goiás
 Rua	C-198,	500,	Jardim	América
 CEP	74270-040	/	Goiânia	–	GO
 
-Goiânia,	20	de	março	de	2024.
+Goiânia,	20	XXXX	março	XXXX	2024.
 
 Assunto:	Redistribuição
 
 Senhora	Reitora,
 
-1.	 	 Solicitamos	 que	 seja	 estudada	 a	 possibilidade	 de	 autorização	 da	 redistribuição	 da	 servidora	 XXXX
-XXXX	XXXX,	ocupante	do	cargo	de	Auxiliar	de	Biblioteca,	SIAPE	 ,	lotado	nesse	Instituto	Federal
-de	Goiás	-	Campus	Cidade	de	Goiás	para	o	Instituto	Federal	Goiano	-	Campus	Urutaí.	Para	tanto,	oferecemos	em
-contrapartida	o	código	de	vaga	desocupado	0830381,	do	mesmo	cargo.
+1.	 	 Solicitamos	 que	 seja	 estudada	 a	 possibilidaXXXX	 XXXX	 autorização	 da	 redistribuição	 da	 servidora	 XXXX
+XXXX	XXXX,	ocupante	do	cargo	XXXX	Auxiliar	XXXX	Biblioteca,	SIAPE	 ,	lotado	nesse	Instituto	FeXXXXral
+XXXX	Goiás	-	Campus	CidaXXXX	XXXX	Goiás	para	o	Instituto	FeXXXXral	Goiano	-	Campus	Urutaí.	Para	tanto,	oferecemos	em
+contrapartida	o	código	XXXX	vaga	XXXXsocupado	0830381,	do	mesmo	cargo.
 
-2.	 	 Informamos	 que	 de	 acordo	 com	 a	 Portaria	 SEGRT/MGI	 nº	 619,	 de	 9	 de	 março	 de	 2023,	 no	 momento	 não
-existe	concurso	público	em	andamento	ou	em	vigência	no	Instituto	Federal	Goiano	para	o	cargo	de	Auxiliar	de
+2.	 	 Informamos	 que	 XXXX	 acordo	 com	 a	 Portaria	 SEGRT/MGI	 nº	 619,	 XXXX	 9	 XXXX	 março	 XXXX	 2023,	 no	 momento	 não
+existe	concurso	público	em	andamento	ou	em	vigência	no	Instituto	FeXXXXral	Goiano	para	o	cargo	XXXX	Auxiliar	XXXX
 Biblioteca	(cargo	ocupado	e	envolvido	na	redistribuição).
 
-3.		Informamos	que	esta	reitoria	manifesta	seu	interesse	na	realização	da	redistribuição	a	fim	de	suprir	nova
-demanda	 do	 cargo,	 para	 as	 quais	 o	 servidor	 que	 será	 recebido	 em	 redistribuição	 possui	 habilidades	 e
-experiências	 comprovadas	 por	 meio	 do	 currículo,	 bem	 como	 sua	 inclusão	 no	 quadro	 de	 pessoal	 desta
-instituição	 contribuirá	 significativamente	 para	 as	 atividades	 pedagógicas,	 reorganizando	 o	 quadro	 docente
-conforme	a	demanda	e	as	necessidades	deste	campus,	como	também	ratificamos	as	justificativas	de	interesse
-mencionadas	no	Despacho	nº	5/2024	-	GGP-UR/DAP-UR/CMPURT/IFGOIANO,	assim,	a	situação	exposta	evidencia
-o	interesse	da	Administração,	uma	vez	que	atende	às	necessidades	da	instituição.
+3.		Informamos	que	esta	reitoria	manifesta	seu	interesse	na	realização	da	redistribuição	a	fim	XXXX	suprir	nova
+XXXXmanda	 do	 cargo,	 para	 as	 quais	 o	 servidor	 que	 será	 recebido	 em	 redistribuição	 possui	 habilidaXXXXs	 e
+experiências	 comprovadas	 por	 meio	 do	 currículo,	 bem	 como	 sua	 inclusão	 no	 quadro	 XXXX	 pessoal	 XXXXsta
+instituição	 contribuirá	 significativamente	 para	 as	 atividaXXXXs	 pedagógicas,	 reorganizando	 o	 quadro	 docente
+conforme	a	XXXXmanda	e	as	necessidaXXXXs	XXXXste	campus,	como	também	ratificamos	as	justificativas	XXXX	interesse
+mencionadas	no	XXXXspacho	nº	5/2024	-	GGP-UR/DAP-UR/CMPURT/IFGOIANO,	assim,	a	situação	exposta	eviXXXXncia
+o	interesse	da	Administração,	uma	vez	que	atenXXXX	às	necessidaXXXXs	da	instituição.
 
-4.	 	 Destacamos	 que	 o	 código	 de	 vaga	 oferecido	 em	 contrapartida	 pertence	 ao	 mesmo	 nível	 de	 escolaridade	 e
-mesmo	 nível	 de	 classificação.	 Desta	 forma,	 fica	 fundamentada	 e	 garantida	 a	 equivalência	 de	 vencimentos,	 a
-manutenção	da	essência	das	atribuições,	a	vinculação	entre	os	graus	de	responsabilidade	e	complexidade	das
-atividades,	o	mesmo	nível	de	escolaridade,	especialidade	ou	habilitação	profissional	e	compatibilidade	entre	as
-atribuições	do	cargo	e	as	finalidades	institucionais	do	órgão	ou	entidade,	atendendo,	assim,	ao	que	dispõem	os
-incisos	II	ao	VI	da	Portaria	SEGRT/MGI	nº	619,	de	10/03/2023.
+4.	 	 XXXXstacamos	 que	 o	 código	 XXXX	 vaga	 oferecido	 em	 contrapartida	 pertence	 ao	 mesmo	 nível	 XXXX	 escolaridaXXXX	 e
+mesmo	 nível	 XXXX	 classificação.	 XXXXsta	 forma,	 fica	 fundamentada	 e	 garantida	 a	 equivalência	 XXXX	 vencimentos,	 a
+manutenção	da	essência	das	atribuições,	a	vinculação	entre	os	graus	XXXX	responsabilidaXXXX	e	complexidaXXXX	das
+atividaXXXXs,	o	mesmo	nível	XXXX	escolaridaXXXX,	especialidaXXXX	ou	habilitação	profissional	e	compatibilidaXXXX	entre	as
+atribuições	do	cargo	e	as	finalidaXXXXs	institucionais	do	órgão	ou	entidaXXXX,	atenXXXXndo,	assim,	ao	que	dispõem	os
+incisos	II	ao	VI	da	Portaria	SEGRT/MGI	nº	619,	XXXX	10/03/2023.
 
 5.	
-	 Por	 fim,	 tendo	 em	 vista	 a	 Portaria	 SEGRT/MGI	 nº	 619,	 de	 10/03/2023,	 a	 Nota	 Técnica	 nº
-70/2023/MOV/COLEP/CGGP/SAA	 e	 considerando	 a	 equivalência	 dos	 cargos,	 esclarecemos	 que,	 no	 presente
-processo	 administrativo,	 consta	 toda	 documentação	 exigida.	 Declaramos	 que	 a	 redistribuição	 pretendida
-não	 acarretará	 impacto	 no	 Quadro	 de	 Referência	 dos	 Servidores	 da	 Carreira	 TAE	 (QRSTAE)	 do	 IF
-Goiano.	 Dessa	 forma,	 entendemos	 que	 a	 solicitação	 não	 fere	 a	 legislação	 vigente,	 como	 também	 não	 trará
+	 Por	 fim,	 tendo	 em	 vista	 a	 Portaria	 SEGRT/MGI	 nº	 619,	 XXXX	 10/03/2023,	 a	 Nota	 Técnica	 nº
+70/2023/MOV/COLEP/CGGP/SAA	 e	 consiXXXXrando	 a	 equivalência	 dos	 cargos,	 esclarecemos	 que,	 no	 presente
+processo	 administrativo,	 consta	 toda	 documentação	 exigida.	 XXXXclaramos	 que	 a	 redistribuição	 pretendida
+não	 acarretará	 impacto	 no	 Quadro	 XXXX	 Referência	 dos	 Servidores	 da	 Carreira	 TAE	 (QRSTAE)	 do	 IF
+Goiano.	 XXXXssa	 forma,	 entenXXXXmos	 que	 a	 solicitação	 não	 fere	 a	 legislação	 vigente,	 como	 também	 não	 trará
 prejuízos	a	esta	IFES.
 
-6.		Outrossim,	em	havendo	concordância,	solicitamos	a	inclusão	de	toda	documentação	do	servidor	exigida	na
-Portaria	 SEGRT/MGI	 nº	 619,	 de	 10/03/2023	 e	 o	 envio	 do	 presente	 processo	 à	 Coordenação-Geral	 de	 Gestão	 de
+6.		Outrossim,	em	havendo	concordância,	solicitamos	a	inclusão	XXXX	toda	documentação	do	servidor	exigida	na
+Portaria	 SEGRT/MGI	 nº	 619,	 XXXX	 10/03/2023	 e	 o	 envio	 do	 presente	 processo	 à	 CoorXXXXnação-Geral	 XXXX	 Gestão	 XXXX
 
 Pessoas	do	MEC,	para	análise	e	conclusão.
 
 																					Atenciosamente,
 
 (Assinado	Eletronicamente)
-Elias	de	Pádua	Monteiro
+Elias	XXXX	Pádua	Monteiro
 Reitor
 
-INSTITUTO	FEDERAL	GOIANO
+INSTITUTO	FEXXXXRAL	GOIANO
 
 Reitoria
 
@@ -1208,7 +1208,7 @@ Rua	88,	310,	Setor	Sul,	GOIANIA	/	GO,	CEP	74.085-010
 
 None
 
-Cópia de documento digital impresso por Bruna Frazao (1971392) em 24/09/2024 12:33.
+Cópia XXXX documento digital impresso por Bruna Frazao (1971392) em 24/09/2024 12:33.
 
 Documento Digitalizado Restrito
 
@@ -1222,7 +1222,7 @@ Tipo do Documento: Documentos
 
 Situação: Finalizado
 
-Nível de Acesso: Restrito
+Nível XXXX Acesso: Restrito
 
 Hipótese Legal: Informação Pessoal (Art. 31 da Lei no 12.527/2011)
 
@@ -1232,7 +1232,7 @@ Documento assinado eletronicamente por:
 
 Taina Ferreira Hermano, AUX EM ADMINISTRACAO, em 04/04/2024 15:53:09.
 
-Este  documento  foi  armazenado  no  SUAP  em  04/04/2024.  Para  comprovar  sua  integridade,  faça  a  leitura  do  QRCode  ao  lado  ou  acesse
+Este  documento  foi  armazenado  no  SUAP  em  04/04/2024.  Para  comprovar  sua  integridaXXXX,  faça  a  leitura  do  QRCoXXXX  ao  lado  ou  acesse
 
 https://suap.ifg.edu.br/verificar-documento-externo/ e forneça os dados abaixo:
 
@@ -1240,78 +1240,78 @@ Código Verificador:
 
 563779
 
-Código de Autenticação:
+Código XXXX Autenticação:
 
 24aac36975
 
-Página 1 de 1
+Página 1 XXXX 1
 
-SERVIÇO	PÚBLICO	FEDERAL
+SERVIÇO	PÚBLICO	FEXXXXRAL
 
 MINISTÉRIO	DA	EDUCAÇÃO
 
-SECRETARIA	DE	EDUCAÇÃO	PROFISSIONAL	E	TECNOLÓGICA
+SECRETARIA	XXXX	EDUCAÇÃO	PROFISSIONAL	E	TECNOLÓGICA
 
-INSTITUTO	FEDERAL	DE	EDUCAÇÃO,	CIÊNCIA	E	TECNOLOGIA	GOIANO
+INSTITUTO	FEXXXXRAL	XXXX	EDUCAÇÃO,	CIÊNCIA	E	TECNOLOGIA	GOIANO
 
 Ofício	nº	158/2024	-	DGAB-REI/IFGOIANO
 
 À	Senhora
 Oneida	Cristina	Gomes	Barcelos	Irigon
-Reitora	do	Instituto	Federal	de	Educação,	Ciência	e	Tecnologia	de	Goiás
+Reitora	do	Instituto	FeXXXXral	XXXX	Educação,	Ciência	e	Tecnologia	XXXX	Goiás
 Rua	C-198,	500,	Jardim	América
 CEP	74270-040	/	Goiânia	–	GO
 
-Goiânia,	20	de	março	de	2024.
+Goiânia,	20	XXXX	março	XXXX	2024.
 
 Assunto:	Redistribuição
 
 Senhora	Reitora,
 
-1.	 	 Solicitamos	 que	 seja	 estudada	 a	 possibilidade	 de	 autorização	 da	 redistribuição	 da	 servidora	 XXXX
-XXXX	XXXX,	ocupante	do	cargo	de	Auxiliar	de	Biblioteca,	SIAPE	 ,	lotado	nesse	Instituto	Federal
-de	Goiás	-	Campus	Cidade	de	Goiás	para	o	Instituto	Federal	Goiano	-	Campus	Urutaí.	Para	tanto,	oferecemos	em
-contrapartida	o	código	de	vaga	desocupado	0830381,	do	mesmo	cargo.
+1.	 	 Solicitamos	 que	 seja	 estudada	 a	 possibilidaXXXX	 XXXX	 autorização	 da	 redistribuição	 da	 servidora	 XXXX
+XXXX	XXXX,	ocupante	do	cargo	XXXX	Auxiliar	XXXX	Biblioteca,	SIAPE	 ,	lotado	nesse	Instituto	FeXXXXral
+XXXX	Goiás	-	Campus	CidaXXXX	XXXX	Goiás	para	o	Instituto	FeXXXXral	Goiano	-	Campus	Urutaí.	Para	tanto,	oferecemos	em
+contrapartida	o	código	XXXX	vaga	XXXXsocupado	0830381,	do	mesmo	cargo.
 
-2.	 	 Informamos	 que	 de	 acordo	 com	 a	 Portaria	 SEGRT/MGI	 nº	 619,	 de	 9	 de	 março	 de	 2023,	 no	 momento	 não
-existe	concurso	público	em	andamento	ou	em	vigência	no	Instituto	Federal	Goiano	para	o	cargo	de	Auxiliar	de
+2.	 	 Informamos	 que	 XXXX	 acordo	 com	 a	 Portaria	 SEGRT/MGI	 nº	 619,	 XXXX	 9	 XXXX	 março	 XXXX	 2023,	 no	 momento	 não
+existe	concurso	público	em	andamento	ou	em	vigência	no	Instituto	FeXXXXral	Goiano	para	o	cargo	XXXX	Auxiliar	XXXX
 Biblioteca	(cargo	ocupado	e	envolvido	na	redistribuição).
 
-3.		Informamos	que	esta	reitoria	manifesta	seu	interesse	na	realização	da	redistribuição	a	fim	de	suprir	nova
-demanda	 do	 cargo,	 para	 as	 quais	 o	 servidor	 que	 será	 recebido	 em	 redistribuição	 possui	 habilidades	 e
-experiências	 comprovadas	 por	 meio	 do	 currículo,	 bem	 como	 sua	 inclusão	 no	 quadro	 de	 pessoal	 desta
-instituição	 contribuirá	 significativamente	 para	 as	 atividades	 pedagógicas,	 reorganizando	 o	 quadro	 docente
-conforme	a	demanda	e	as	necessidades	deste	campus,	como	também	ratificamos	as	justificativas	de	interesse
-mencionadas	no	Despacho	nº	5/2024	-	GGP-UR/DAP-UR/CMPURT/IFGOIANO,	assim,	a	situação	exposta	evidencia
-o	interesse	da	Administração,	uma	vez	que	atende	às	necessidades	da	instituição.
+3.		Informamos	que	esta	reitoria	manifesta	seu	interesse	na	realização	da	redistribuição	a	fim	XXXX	suprir	nova
+XXXXmanda	 do	 cargo,	 para	 as	 quais	 o	 servidor	 que	 será	 recebido	 em	 redistribuição	 possui	 habilidaXXXXs	 e
+experiências	 comprovadas	 por	 meio	 do	 currículo,	 bem	 como	 sua	 inclusão	 no	 quadro	 XXXX	 pessoal	 XXXXsta
+instituição	 contribuirá	 significativamente	 para	 as	 atividaXXXXs	 pedagógicas,	 reorganizando	 o	 quadro	 docente
+conforme	a	XXXXmanda	e	as	necessidaXXXXs	XXXXste	campus,	como	também	ratificamos	as	justificativas	XXXX	interesse
+mencionadas	no	XXXXspacho	nº	5/2024	-	GGP-UR/DAP-UR/CMPURT/IFGOIANO,	assim,	a	situação	exposta	eviXXXXncia
+o	interesse	da	Administração,	uma	vez	que	atenXXXX	às	necessidaXXXXs	da	instituição.
 
-4.	 	 Destacamos	 que	 o	 código	 de	 vaga	 oferecido	 em	 contrapartida	 pertence	 ao	 mesmo	 nível	 de	 escolaridade	 e
-mesmo	 nível	 de	 classificação.	 Desta	 forma,	 fica	 fundamentada	 e	 garantida	 a	 equivalência	 de	 vencimentos,	 a
-manutenção	da	essência	das	atribuições,	a	vinculação	entre	os	graus	de	responsabilidade	e	complexidade	das
-atividades,	o	mesmo	nível	de	escolaridade,	especialidade	ou	habilitação	profissional	e	compatibilidade	entre	as
-atribuições	do	cargo	e	as	finalidades	institucionais	do	órgão	ou	entidade,	atendendo,	assim,	ao	que	dispõem	os
-incisos	II	ao	VI	da	Portaria	SEGRT/MGI	nº	619,	de	10/03/2023.
+4.	 	 XXXXstacamos	 que	 o	 código	 XXXX	 vaga	 oferecido	 em	 contrapartida	 pertence	 ao	 mesmo	 nível	 XXXX	 escolaridaXXXX	 e
+mesmo	 nível	 XXXX	 classificação.	 XXXXsta	 forma,	 fica	 fundamentada	 e	 garantida	 a	 equivalência	 XXXX	 vencimentos,	 a
+manutenção	da	essência	das	atribuições,	a	vinculação	entre	os	graus	XXXX	responsabilidaXXXX	e	complexidaXXXX	das
+atividaXXXXs,	o	mesmo	nível	XXXX	escolaridaXXXX,	especialidaXXXX	ou	habilitação	profissional	e	compatibilidaXXXX	entre	as
+atribuições	do	cargo	e	as	finalidaXXXXs	institucionais	do	órgão	ou	entidaXXXX,	atenXXXXndo,	assim,	ao	que	dispõem	os
+incisos	II	ao	VI	da	Portaria	SEGRT/MGI	nº	619,	XXXX	10/03/2023.
 
 5.	
-	 Por	 fim,	 tendo	 em	 vista	 a	 Portaria	 SEGRT/MGI	 nº	 619,	 de	 10/03/2023,	 a	 Nota	 Técnica	 nº
-70/2023/MOV/COLEP/CGGP/SAA	 e	 considerando	 a	 equivalência	 dos	 cargos,	 esclarecemos	 que,	 no	 presente
-processo	 administrativo,	 consta	 toda	 documentação	 exigida.	 Declaramos	 que	 a	 redistribuição	 pretendida
-não	 acarretará	 impacto	 no	 Quadro	 de	 Referência	 dos	 Servidores	 da	 Carreira	 TAE	 (QRSTAE)	 do	 IF
-Goiano.	 Dessa	 forma,	 entendemos	 que	 a	 solicitação	 não	 fere	 a	 legislação	 vigente,	 como	 também	 não	 trará
+	 Por	 fim,	 tendo	 em	 vista	 a	 Portaria	 SEGRT/MGI	 nº	 619,	 XXXX	 10/03/2023,	 a	 Nota	 Técnica	 nº
+70/2023/MOV/COLEP/CGGP/SAA	 e	 consiXXXXrando	 a	 equivalência	 dos	 cargos,	 esclarecemos	 que,	 no	 presente
+processo	 administrativo,	 consta	 toda	 documentação	 exigida.	 XXXXclaramos	 que	 a	 redistribuição	 pretendida
+não	 acarretará	 impacto	 no	 Quadro	 XXXX	 Referência	 dos	 Servidores	 da	 Carreira	 TAE	 (QRSTAE)	 do	 IF
+Goiano.	 XXXXssa	 forma,	 entenXXXXmos	 que	 a	 solicitação	 não	 fere	 a	 legislação	 vigente,	 como	 também	 não	 trará
 prejuízos	a	esta	IFES.
 
-6.		Outrossim,	em	havendo	concordância,	solicitamos	a	inclusão	de	toda	documentação	do	servidor	exigida	na
-Portaria	 SEGRT/MGI	 nº	 619,	 de	 10/03/2023	 e	 o	 envio	 do	 presente	 processo	 à	 Coordenação-Geral	 de	 Gestão	 de
+6.		Outrossim,	em	havendo	concordância,	solicitamos	a	inclusão	XXXX	toda	documentação	do	servidor	exigida	na
+Portaria	 SEGRT/MGI	 nº	 619,	 XXXX	 10/03/2023	 e	 o	 envio	 do	 presente	 processo	 à	 CoorXXXXnação-Geral	 XXXX	 Gestão	 XXXX
 
 Pessoas	do	MEC,	para	análise	e	conclusão.
 
 																					Atenciosamente,
 
 (Assinado	Eletronicamente)
-Elias	de	Pádua	Monteiro
+Elias	XXXX	Pádua	Monteiro
 Reitor
 
-INSTITUTO	FEDERAL	GOIANO
+INSTITUTO	FEXXXXRAL	GOIANO
 
 Reitoria
 
@@ -1319,7 +1319,7 @@ Rua	88,	310,	Setor	Sul,	GOIANIA	/	GO,	CEP	74.085-010
 
 None
 
-Cópia de documento digital impresso por Bruna Frazao (1971392) em 24/09/2024 12:33.
+Cópia XXXX documento digital impresso por Bruna Frazao (1971392) em 24/09/2024 12:33.
 
 Documento Digitalizado Restrito
 
@@ -1333,7 +1333,7 @@ Tipo do Documento: Ofício
 
 Situação: Finalizado
 
-Nível de Acesso: Restrito
+Nível XXXX Acesso: Restrito
 
 Hipótese Legal: Informação Pessoal (Art. 31 da Lei no 12.527/2011)
 
@@ -1343,7 +1343,7 @@ Documento assinado eletronicamente por:
 
 Taina Ferreira Hermano, AUX EM ADMINISTRACAO, em 04/04/2024 15:54:00.
 
-Este  documento  foi  armazenado  no  SUAP  em  04/04/2024.  Para  comprovar  sua  integridade,  faça  a  leitura  do  QRCode  ao  lado  ou  acesse
+Este  documento  foi  armazenado  no  SUAP  em  04/04/2024.  Para  comprovar  sua  integridaXXXX,  faça  a  leitura  do  QRCoXXXX  ao  lado  ou  acesse
 
 https://suap.ifg.edu.br/verificar-documento-externo/ e forneça os dados abaixo:
 
@@ -1351,61 +1351,61 @@ Código Verificador:
 
 563781
 
-Código de Autenticação:
+Código XXXX Autenticação:
 
 432e8e7433
 
-Página 1 de 1
+Página 1 XXXX 1
 
 MINISTÉRIO DA EDUCAÇÃO
 MINISTÉRIO DA EDUCAÇÃO
-SECRETARIA DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
-SECRETARIA DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
-INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE GOIÁS
-INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE GOIÁS
+SECRETARIA XXXX EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
+SECRETARIA XXXX EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
+INSTITUTO FEXXXXRAL XXXX EDUCAÇÃO, CIÊNCIA E TECNOLOGIA XXXX GOIÁS
+INSTITUTO FEXXXXRAL XXXX EDUCAÇÃO, CIÊNCIA E TECNOLOGIA XXXX GOIÁS
 REITORIA
 REITORIA
 
-DESPACHO 529/2024 - REI-CGP/REI-DDRH/REI-PRODI/REITORIA/IFG
-DESPACHO 529/2024 - REI-CGP/REI-DDRH/REI-PRODI/REITORIA/IFG
+XXXXSPACHO 529/2024 - REI-CGP/REI-DDRH/REI-PRODI/REITORIA/IFG
+XXXXSPACHO 529/2024 - REI-CGP/REI-DDRH/REI-PRODI/REITORIA/IFG
 
-DESPACHO ADMINISTRATIVO
-DESPACHO ADMINISTRATIVO
+XXXXSPACHO ADMINISTRATIVO
+XXXXSPACHO ADMINISTRATIVO
 
 Processo eletrônico n° 23372.000786/2024-18
 
-Interessado: XXXX XXXX XXXX
+Interessado: XXXX XXXX
 
 Assunto: Redistribuição
 
-Goiânia, 04 de abril de 2024.
+Goiânia, 04 XXXX abril XXXX 2024.
 
-Trata o presente processo de solicitação de redistribuição da servidora XXXX XXXX XXXX, ocupante do
+Trata o presente processo XXXX solicitação XXXX redistribuição da servidora XXXX XXXX, ocupante do
 
-cargo  de Auxiliar  de  Biblioteca,  matrícula  SIAPE  nº   ,  lotada  no  Câmpus Cidade  de  Goiás  do  Instituto
+cargo  XXXX Auxiliar  XXXX  Biblioteca,  matrícula  SIAPE  nº   ,  lotada  no  Câmpus CidaXXXX  XXXX  Goiás  do  Instituto
 
-Federal  de  Educação,  Ciência  e  Tecnologia  de  Goiás  -  IFG  para o  Câmpus Urutaí  do  Instituto  Federal  de
+FeXXXXral  XXXX  Educação,  Ciência  e  Tecnologia  XXXX  Goiás  -  IFG  para o  Câmpus Urutaí  do  Instituto  FeXXXXral  XXXX
 
 Educação, Ciência e Tecnologia Goiano - IFGOIANO.
 
-A  contrapartida  ofertada  pelo  IFGOIANO é  o  código de  vaga  nº  0830381  de  mesmo  nível,  do  cargo de
+A  contrapartida  ofertada  pelo  IFGOIANO é  o  código XXXX  vaga  nº  0830381  XXXX  mesmo  nível,  do  cargo XXXX
 
-Assistente de Aluno, conforme OFÍCIO 158/2024 - DGAB-REI/IFGOIANO, de 20 de março de 2024.
+Assistente XXXX Aluno, conforme OFÍCIO 158/2024 - DGAB-REI/IFGOIANO, XXXX 20 XXXX março XXXX 2024.
 
-Encaminhe-se  o  presente  processo  para  a  Diretoria-Geral  do  Câmpus Cidade  de  Goiás  para  análise  e
+Encaminhe-se  o  presente  processo  para  a  Diretoria-Geral  do  Câmpus CidaXXXX  XXXX  Goiás  para  análise  e
 
 parecer do pleito em questão.
 
-Em  atendimento  à  Portaria  SEGRT/MGI  nº  619/2023,  em  caso  de  parecer  favorável,  solicitamos  que  no
+Em  atendimento  à  Portaria  SEGRT/MGI  nº  619/2023,  em  caso  XXXX  parecer  favorável,  solicitamos  que  no
 
-parecer  da  Diretoria-Geral  do  Câmpus Cidade  de  Goiás  conste  as  razões  que  fundamentam  o  interesse  da
+parecer  da  Diretoria-Geral  do  Câmpus CidaXXXX  XXXX  Goiás  conste  as  razões  que  fundamentam  o  interesse  da
 
-Administração e/ou ausência de prejuízos com a movimentação ora requerida.
+Administração e/ou ausência XXXX prejuízos com a movimentação ora requerida.
 
 (assinado eletronicamente)
 
 Fabrícia Umeno Ferreira
-Diretora de Desenvolvimento de Recursos Humanos
+Diretora XXXX XXXXsenvolvimento XXXX Recursos Humanos
 
 Documento assinado eletronicamente por:
 
@@ -1414,143 +1414,143 @@ Fabricia Umeno Ferreira
 
 DIRETOR(A) - CD3 - REI-DDRH, em 04/04/2024 16:44:56.
 
-Este  documento  foi  emi(cid:62)do  pelo  SUAP  em  04/04/2024.  Para  comprovar  sua  auten(cid:62)cidade,  faça  a  leitura  do  QRCode  ao  lado  ou  acesse
+Este  documento  foi  emi(cid:62)do  pelo  SUAP  em  04/04/2024.  Para  comprovar  sua  auten(cid:62)cidaXXXX,  faça  a  leitura  do  QRCoXXXX  ao  lado  ou  acesse
 https://suap.ifg.edu.br/autenticar-documento/ e forneça os dados abaixo:
 
 Código Verificador:
-Código de Autenticação:
+Código XXXX Autenticação:
 
 525340
 
 12384f3b86
 
-Instituto Federal de Educação, Ciência e Tecnologia de Goiás
-Instituto Federal de Educação, Ciência e Tecnologia de Goiás
+Instituto FeXXXXral XXXX Educação, Ciência e Tecnologia XXXX Goiás
+Instituto FeXXXXral XXXX Educação, Ciência e Tecnologia XXXX Goiás
 Rua C-198, Quadra 500, None, Jardim América, GOIÂNIA / GO, CEP 74270-040
 (62) 3612-2244 (ramal: 2244), (62) 3612-2243 (ramal: 2243)
 
 MINISTÉRIO DA EDUCAÇÃO
 MINISTÉRIO DA EDUCAÇÃO
-SECRETARIA DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
-SECRETARIA DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
-INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE GOIÁS
-INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE GOIÁS
-CÂMPUS CIDADE DE GOIÁS
-CÂMPUS CIDADE DE GOIÁS
+SECRETARIA XXXX EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
+SECRETARIA XXXX EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
+INSTITUTO FEXXXXRAL XXXX EDUCAÇÃO, CIÊNCIA E TECNOLOGIA XXXX GOIÁS
+INSTITUTO FEXXXXRAL XXXX EDUCAÇÃO, CIÊNCIA E TECNOLOGIA XXXX GOIÁS
+CÂMPUS CIDAXXXX XXXX GOIÁS
+CÂMPUS CIDAXXXX XXXX GOIÁS
 
-DECLARAÇÃO DE CONCORDÂNCIA COM A REDISTRIBUIÇÃO
-DECLARAÇÃO DE CONCORDÂNCIA COM A REDISTRIBUIÇÃO
+XXXXCLARAÇÃO XXXX CONCORDÂNCIA COM A REDISTRIBUIÇÃO
+XXXXCLARAÇÃO XXXX CONCORDÂNCIA COM A REDISTRIBUIÇÃO
 
-Eu,  XXXX  XXXX  XXXX,  ocupante  do  cargo  de  Auxiliar  de  Biblioteca,  Matrícula  SIAPE
- , CPF nº 027.902.311-17 lotada no Câmpus Cidade de Goiás do Ins(cid:64)tuto Federal de Educação, Ciência e
-Tecnologia  de  Goiás,  manifesto  concordância  com  minha  redistribuição  para  o  Câmpus  Urutaí  do  Ins(cid:64)tuto
-Federal de Educação, Ciência e Tecnologia Goiano, nos termos do Processo nº 23372.000786/2024-18
+Eu,  XXXX  XXXX  XXXX,  ocupante  do  cargo  XXXX  Auxiliar  XXXX  Biblioteca,  Matrícula  SIAPE
+ , CPF nº 027.902.311-17 lotada no Câmpus CidaXXXX XXXX Goiás do Ins(cid:64)tuto FeXXXXral XXXX Educação, Ciência e
+Tecnologia  XXXX  Goiás,  manifesto  concordância  com  minha  redistribuição  para  o  Câmpus  Urutaí  do  Ins(cid:64)tuto
+FeXXXXral XXXX Educação, Ciência e Tecnologia Goiano, nos termos do Processo nº 23372.000786/2024-18
 
-Por ser verdade, firmo a presente declaração para que surta seus efeitos legais.
+Por ser verdaXXXX, firmo a presente XXXXclaração para que surta seus efeitos legais.
 
-Cidade de Goiás, 17 de abril de 2024.
+CidaXXXX XXXX Goiás, 17 XXXX abril XXXX 2024.
 
 (assinado eletronicamente)
-XXXX XXXX XXXX
+XXXX XXXX
 
 Documento assinado eletronicamente por:
 
-XXXX XXXX XXXX, AUXILIAR DE BIBLIOTECA
-XXXX XXXX XXXX
+XXXX XXXX, AUXILIAR XXXX BIBLIOTECA
+XXXX XXXX
 
-AUXILIAR DE BIBLIOTECA, em 17/04/2024 12:09:51.
+AUXILIAR XXXX BIBLIOTECA, em 17/04/2024 12:09:51.
 
-Este  documento  foi  emi(cid:64)do  pelo  SUAP  em  17/04/2024.  Para  comprovar  sua  auten(cid:64)cidade,  faça  a  leitura  do  QRCode  ao  lado  ou  acesse
+Este  documento  foi  emi(cid:64)do  pelo  SUAP  em  17/04/2024.  Para  comprovar  sua  auten(cid:64)cidaXXXX,  faça  a  leitura  do  QRCoXXXX  ao  lado  ou  acesse
 https://suap.ifg.edu.br/autenticar-documento/ e forneça os dados abaixo:
 
 Código Verificador:
-Código de Autenticação:
+Código XXXX Autenticação:
 
 527927
 
 c4898fdced
 
-Instituto Federal de Educação, Ciência e Tecnologia de Goiás
-Instituto Federal de Educação, Ciência e Tecnologia de Goiás
-Rua 02, Quadra 10, Lote 01 a 15, Residencial Bauman, None, Centro, CIDADE DE GOIÁS / GO, CEP 76600-000
+Instituto FeXXXXral XXXX Educação, Ciência e Tecnologia XXXX Goiás
+Instituto FeXXXXral XXXX Educação, Ciência e Tecnologia XXXX Goiás
+Rua 02, Quadra 10, Lote 01 a 15, ResiXXXXncial Bauman, None, Centro, CIDAXXXX XXXX GOIÁS / GO, CEP 76600-000
 (62) 3442-0217 (ramal: 0217)
 
 MINISTÉRIO DA EDUCAÇÃO
 MINISTÉRIO DA EDUCAÇÃO
-SECRETARIA DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
-SECRETARIA DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
-INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE GOIÁS
-INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE GOIÁS
-CÂMPUS CIDADE DE GOIÁS
-CÂMPUS CIDADE DE GOIÁS
+SECRETARIA XXXX EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
+SECRETARIA XXXX EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
+INSTITUTO FEXXXXRAL XXXX EDUCAÇÃO, CIÊNCIA E TECNOLOGIA XXXX GOIÁS
+INSTITUTO FEXXXXRAL XXXX EDUCAÇÃO, CIÊNCIA E TECNOLOGIA XXXX GOIÁS
+CÂMPUS CIDAXXXX XXXX GOIÁS
+CÂMPUS CIDAXXXX XXXX GOIÁS
 
-DECLARAÇÃO
-DECLARAÇÃO
+XXXXCLARAÇÃO
+XXXXCLARAÇÃO
 
-Declaramos para os devidos ﬁns e a pedido que a Sra. XXXX XXXX XXXX
+XXXXclaramos para os XXXXvidos ﬁns e a pedido que a Sra. XXXX XXXX
 
-XXXX XXXX XXXX, portadora do CPF nº.
-027.902.311-17 e RG nº 5268650 - SPTC-GO, é servidora efe(cid:63)va desta Ins(cid:63)tuição, ocupante do cargo de Auxiliar
-de Biblioteca, Matrícula SIAPE nº.  , nomeada pela Portaria IFG nº 696, de 12 de abril de 2017, publicada
-no Diário Oﬁcial da União de 13 de abril de 2017, empossada em 11 de maio de 2017 e com início de exercício
-em 22 de maio de 2017, em Regime de Trabalho de 40h, lotada no Câmpus Cidade de Goiás do Instituto Federal
-de Educação, Ciência e Tecnologia de Goiás.
+XXXX XXXX, portadora do CPF nº.
+027.902.311-17 e RG nº 5268650 - SPTC-GO, é servidora efe(cid:63)va XXXXsta Ins(cid:63)tuição, ocupante do cargo XXXX Auxiliar
+XXXX Biblioteca, Matrícula SIAPE nº.  , nomeada pela Portaria IFG nº 696, XXXX 12 XXXX abril XXXX 2017, publicada
+no Diário Oﬁcial da União XXXX 13 XXXX abril XXXX 2017, empossada em 11 XXXX maio XXXX 2017 e com início XXXX exercício
+em 22 XXXX maio XXXX 2017, em Regime XXXX Trabalho XXXX 40h, lotada no Câmpus CidaXXXX XXXX Goiás do Instituto FeXXXXral
+XXXX Educação, Ciência e Tecnologia XXXX Goiás.
 
-Declaramos,  por  ﬁm,  que  a  servidora  não  se  encontra,  atualmente,  em  gozo  de  licença  ou
+XXXXclaramos,  por  ﬁm,  que  a  servidora  não  se  encontra,  atualmente,  em  gozo  XXXX  licença  ou
 
-afastamento e nem se encontra pleiteando qualquer direito dessa natureza junto à instituição.
+afastamento e nem se encontra pleiteando qualquer direito XXXXssa natureza junto à instituição.
 
-Por ser verdade, firmamos a presente.
+Por ser verdaXXXX, firmamos a presente.
 
-Cidade de Goiás, 17 de abril de 2024.
+CidaXXXX XXXX Goiás, 17 XXXX abril XXXX 2024.
 
 (assinado eletronicamente)
-LUCAS MANOEL ANDRADE
-Coordenador de Recursos Humanos e Assistência ao Servidor do Câmpus Cidade de Goiás do IFG 
+LUCAS MANOEL ANDRAXXXX
+CoorXXXXnador XXXX Recursos Humanos e Assistência ao Servidor do Câmpus CidaXXXX XXXX Goiás do IFG 
 
 Documento assinado eletronicamente por:
 
-Lucas Manoel Andrade, COORDENADOR(A) - FG2 - GOI-CRHAS
-Lucas Manoel Andrade
+Lucas Manoel AndraXXXX, COORXXXXNADOR(A) - FG2 - GOI-CRHAS
+Lucas Manoel AndraXXXX
 
-COORDENADOR(A) - FG2 - GOI-CRHAS, em 17/04/2024 13:06:35.
+COORXXXXNADOR(A) - FG2 - GOI-CRHAS, em 17/04/2024 13:06:35.
 
-Este  documento  foi  emi(cid:63)do  pelo  SUAP  em  17/04/2024.  Para  comprovar  sua  auten(cid:63)cidade,  faça  a  leitura  do  QRCode  ao  lado  ou  acesse
+Este  documento  foi  emi(cid:63)do  pelo  SUAP  em  17/04/2024.  Para  comprovar  sua  auten(cid:63)cidaXXXX,  faça  a  leitura  do  QRCoXXXX  ao  lado  ou  acesse
 https://suap.ifg.edu.br/autenticar-documento/ e forneça os dados abaixo:
 
 Código Verificador:
-Código de Autenticação:
+Código XXXX Autenticação:
 
 527969
 
 07b5153488
 
-Instituto Federal de Educação, Ciência e Tecnologia de Goiás
-Instituto Federal de Educação, Ciência e Tecnologia de Goiás
-Rua 02, Quadra 10, Lote 01 a 15, Residencial Bauman, None, Centro, CIDADE DE GOIÁS / GO, CEP 76600-000
+Instituto FeXXXXral XXXX Educação, Ciência e Tecnologia XXXX Goiás
+Instituto FeXXXXral XXXX Educação, Ciência e Tecnologia XXXX Goiás
+Rua 02, Quadra 10, Lote 01 a 15, ResiXXXXncial Bauman, None, Centro, CIDAXXXX XXXX GOIÁS / GO, CEP 76600-000
 (62) 3442-0217 (ramal: 0217)
 
-INSTITUTO FEDERAL DE GOIAS                                   PAGINA :         2
-SIAPECAD - SISTEMA DE ADMINISTRACAO DE PESSOAL               EMISSAO: 17ABR2024
+INSTITUTO FEXXXXRAL XXXX GOIAS                                   PAGINA :         2
+SIAPECAD - SISTEMA XXXX ADMINISTRACAO XXXX PESSOAL               EMISSAO: 17ABR2024
 DOSSIE DO RH                                                 HORA   :     13:49
 -------------------------------------------------------------------------------
-   NOME: XXXX XXXX XXXX
+   NOME: XXXX XXXX
    CPF : 027.902.311-17
 -------------------------------------------------------------------------------
-   SEXO         : F DATA DE NASCIMENTO : 26JAN1990   GRUPO SANGUINEO: B  +
+   SEXO         : F DATA XXXX NASCIMENTO : 26JAN1990   GRUPO SANGUINEO: B  +
    NOME DO PAI  : REMI JOSE XXXX
    NOME DA MAE  : ILMA XXXX LOPES XXXX
-   NATURALIDADE : PIRES DO RIO                                       UF: GO
-   ESCOLARIDADE : 10 ENSINO SUPERIOR
+   NATURALIDAXXXX : PIRES DO RIO                                       UF: GO
+   ESCOLARIDAXXXX : 10 ENSINO SUPERIOR
    ESTADO CIVIL : 02 CASADO
    COR/ORIGEM ETNICA : 01 BRANCA
-   PESSOA COM DEFICIENCIA:
-   QTDE DEPENDENTES ECONOMICAMENTE:
+   PESSOA COM XXXXFICIENCIA:
+   QTXXXX XXXXPENXXXXNTES ECONOMICAMENTE:
    SIT NACIONAL : 1  BRASILEIRO NATO
 
 -- DOCUMENTOS PESSOAIS --------------------------------------------------------
 
-   IDENTIDADE----> NUMERO: 5268650         ORGAO EXPEDIDOR: SPTC
+   IXXXXNTIDAXXXX----> NUMERO: 5268650         ORGAO EXPEDIDOR: SPTC
                    UF: GO  DATA EXPEDICAO: 17NOV2005
    TIT.ELEITORAL-> NUMERO: 057349431066  UF: GO
                    ZONA: 027  SECAO : 0046  EMISSAO : 20ABR2012
@@ -1560,49 +1560,49 @@ DOSSIE DO RH                                                 HORA   :     13:49
 
    DATA DO PRIMEIRO EMPREGO: 11MAI2017
 
--- ENDERECO RESIDENCIAL -------------------------------------------------------
+-- ENXXXXRECO RESIXXXXNCIAL -------------------------------------------------------
 
-   LOGRADOURO : BENEDITO GONCALVES DE ARAUJO             NUMERO : 182
+   LOGRADOURO : BENEDITO GONCALVES XXXX ARAUJO             NUMERO : 182
    COMPLEMENTO:                       BAIRRO: CENTRO
    MUNICIPIO  : PIRES DO RIO                                       UF: GO
    PAIS       : BRASIL
    CEP        : 75200000  CAIXA POSTAL: 000000
    TELEFONE   : DDD: 00064 FONE: 34611637  RAMAL:
    FAX        : DDD:       FONE:
-   ENDERECO ELETRONICO: GC.XXXX@HOTMAIL.COM
+   ENXXXXRECO ELETRONICO: GC.XXXX@HOTMAIL.COM
 
 -- IMPEDIMENTOS DO RH ---------------------------------------------------------
 
-INSTITUTO FEDERAL DE GOIAS                                   PAGINA :         3
-SIAPECAD - SISTEMA DE ADMINISTRACAO DE PESSOAL               EMISSAO: 17ABR2024
+INSTITUTO FEXXXXRAL XXXX GOIAS                                   PAGINA :         3
+SIAPECAD - SISTEMA XXXX ADMINISTRACAO XXXX PESSOAL               EMISSAO: 17ABR2024
 DOSSIE DO RH                                                 HORA   :     13:49
 -------------------------------------------------------------------------------
-   NOME: XXXX XXXX XXXX
+   NOME: XXXX XXXX
    CPF : 027.902.311-17
 -------------------------------------------------------------------------------
 -- DADOS BANCARIOS ------------------------------------------------------------
 
-   CONTA CORRENTE PARA DEPOSITO DO PAGAMENTO DA MATRICULA 02147232
+   CONTA CORRENTE PARA XXXXPOSITO DO PAGAMENTO DA MATRICULA 02147232
    TIPO DA CONTA   : 04
    BANCO/AGENCIA/DV: 341/01464/7       BANCO ITAU S.A.
    NUMERO DA CONTA : 0000000358645      LUZIANIA
 -- DADOS BANCARIOS FGTS -------------------------------------------------------
 
-   CONTA CORRENTE PARA DEPOSITO DO FGTS DA MATRICULA 02147232
+   CONTA CORRENTE PARA XXXXPOSITO DO FGTS DA MATRICULA 02147232
    BANCO/AGENCIA/DV:
    NUMERO DA CONTA :
 
-   DATA DE OPCAO PELO FGTS:
+   DATA XXXX OPCAO PELO FGTS:
 
-INSTITUTO FEDERAL DE GOIAS                                   PAGINA :         4
-SIAPECAD - SISTEMA DE ADMINISTRACAO DE PESSOAL               EMISSAO: 17ABR2024
+INSTITUTO FEXXXXRAL XXXX GOIAS                                   PAGINA :         4
+SIAPECAD - SISTEMA XXXX ADMINISTRACAO XXXX PESSOAL               EMISSAO: 17ABR2024
 DOSSIE DO RH                                                 HORA   :     13:49
 -------------------------------------------------------------------------------
-   NOME: XXXX XXXX XXXX
+   NOME: XXXX XXXX
    CPF : 027.902.311-17
 -------------------------------------------------------------------------------
 
--- CODIGOS E MATRICULAS DE IDENTIFICACAO --------------------------------------
+-- CODIGOS E MATRICULAS XXXX IXXXXNTIFICACAO --------------------------------------
 
    CONTROLE SIAPECAD: 01918500
 
@@ -1611,52 +1611,52 @@ DOSSIE DO RH                                                 HORA   :     13:49
    INGRESSO NO ORGAO   :  22MAI2017 OCOR.INGR: 100 NOMEACAO CARATER EFETIVO,ART
    INGRESSO SERV. PUB. :  11MAI2017 OCOR.INGR: 100 NOMEACAO CARATER EFETIVO,ART
    INGRESSO CARGO ATUAL:            OCOR.INGR:
-   GRAT DESEMP(PONTOS) :            TIT ASSIST SAUDE SUPL: SIM  FERIAS ESP: NAO
+   GRAT XXXXSEMP(PONTOS) :            TIT ASSIST SAUXXXX SUPL: SIM  FERIAS ESP: NAO
    END. ELETRONICO CORPORATIVO:
 XXXX.XXXX@IFG.EDU.BR
    ULTIMA INTEGRACAO COM SIAPE: 06MAR2024 14:10:04
-   INTEGRACAO PENDENTE  ? NAO
+   INTEGRACAO PENXXXXNTE  ? NAO
 
-INSTITUTO FEDERAL DE GOIAS                                   PAGINA :         5
-SIAPECAD - SISTEMA DE ADMINISTRACAO DE PESSOAL               EMISSAO: 17ABR2024
+INSTITUTO FEXXXXRAL XXXX GOIAS                                   PAGINA :         5
+SIAPECAD - SISTEMA XXXX ADMINISTRACAO XXXX PESSOAL               EMISSAO: 17ABR2024
 DOSSIE DO RH                                                 HORA   :     13:49
 -------------------------------------------------------------------------------
-   NOME: XXXX XXXX XXXX
+   NOME: XXXX XXXX
    CPF : 027.902.311-17
 -------------------------------------------------------------------------------
 -- FORMACOES DO RH ------------------------------------------------------------
 
-   FORMACAO          : 2965 ENSINO DE MATEMATICA
+   FORMACAO          : 2965 ENSINO XXXX MATEMATICA
    TITULACAO         : 25 ESPECIALIZACAO NIVEL SUPERIOR
-   ESTAB. DE ENSINO  : FACULDADE UNICA DE IPATINGA
+   ESTAB. XXXX ENSINO  : FACULDAXXXX UNICA XXXX IPATINGA
    MUNICIPIO         : 4625  IPATINGA
    PAIS(EXTERIOR)    :
    CONCLUIDO EM      :      CARGA HORARIA:
 
    FORMACAO          : 0049 MATEMATICA
    TITULACAO         : 23 GRADUACAO (NIVEL SUPERIOR COMPLETO)
-   ESTAB. DE ENSINO  : UNIVERSIDADE PAULISTA
+   ESTAB. XXXX ENSINO  : UNIVERSIDAXXXX PAULISTA
    MUNICIPIO         : 9545  PIRES DO RIO
    PAIS(EXTERIOR)    :
    CONCLUIDO EM      : 2014 CARGA HORARIA:
 
    FORMACAO          : 1317 MATEMATICA
    TITULACAO         : 23 GRADUACAO (NIVEL SUPERIOR COMPLETO)
-   ESTAB. DE ENSINO  : UNIVERSIDADE PAULISTA
+   ESTAB. XXXX ENSINO  : UNIVERSIDAXXXX PAULISTA
    MUNICIPIO         : 9545  PIRES DO RIO
    PAIS(EXTERIOR)    :
    CONCLUIDO EM      : 2015 CARGA HORARIA:
 
    FORMACAO          : 2293 ENSINO FUNDAMENTAL
    TITULACAO         : 46 ENSINO FUNDAMENTAL
-   ESTAB. DE ENSINO  : COLEGIO SAGRADO CORACAO DE JESUS
+   ESTAB. XXXX ENSINO  : COLEGIO SAGRADO CORACAO XXXX JESUS
    MUNICIPIO         : 9545  PIRES DO RIO
    PAIS(EXTERIOR)    :
    CONCLUIDO EM      : 2008 CARGA HORARIA:
 
--- DEPENDENTES ---------------------------------------------------------------
+-- XXXXPENXXXXNTES ---------------------------------------------------------------
 
-   NOME/GRAU DE PARENTESCO/INCIDENCIAS-BENEFICIOS          PERIODO DE VIGENCIA
+   NOME/GRAU XXXX PARENTESCO/INCIXXXXNCIAS-BENEFICIOS          PERIODO XXXX VIGENCIA
    REMI JOSE XXXX
    11 PAIS
       11 ACOMPANHAM PESSOA DA FAMILIA                      22MAI2017
@@ -1665,69 +1665,69 @@ DOSSIE DO RH                                                 HORA   :     13:49
       11 ACOMPANHAM PESSOA DA FAMILIA                      22MAI2017
    JULIA XXXX NUNES
    08 FILHO(A)
-      05 ASSIST A SAUDE SUPLEMENTAR                        01JUN2018
-      09 AUXILIO NATALIDADE                                06JUL2017 26OUT2020
+      05 ASSIST A SAUXXXX SUPLEMENTAR                        01JUN2018
+      09 AUXILIO NATALIDAXXXX                                06JUL2017 26OUT2020
       11 ACOMPANHAM PESSOA DA FAMILIA                      06JUL2017
-   FRANTIHESCO LAURIEL FERNANDES NUNES
+   FRANTIHESCO LAURIEL FERNANXXXXS NUNES
    05 CONJUGE
-      05 ASSIST A SAUDE SUPLEMENTAR                        01JUN2018
+      05 ASSIST A SAUXXXX SUPLEMENTAR                        01JUN2018
       11 ACOMPANHAM PESSOA DA FAMILIA                      01ABR2022
 
-INSTITUTO FEDERAL DE GOIAS                                   PAGINA :         6
-SIAPECAD - SISTEMA DE ADMINISTRACAO DE PESSOAL               EMISSAO: 17ABR2024
+INSTITUTO FEXXXXRAL XXXX GOIAS                                   PAGINA :         6
+SIAPECAD - SISTEMA XXXX ADMINISTRACAO XXXX PESSOAL               EMISSAO: 17ABR2024
 DOSSIE DO RH                                                 HORA   :     13:49
 -------------------------------------------------------------------------------
-   NOME: XXXX XXXX XXXX
+   NOME: XXXX XXXX
    CPF : 027.902.311-17
 -------------------------------------------------------------------------------
 
--- DEPENDENTES ---------------------------------------------------------------
+-- XXXXPENXXXXNTES ---------------------------------------------------------------
 
-   NOME/GRAU DE PARENTESCO/INCIDENCIAS-BENEFICIOS          PERIODO DE VIGENCIA
+   NOME/GRAU XXXX PARENTESCO/INCIXXXXNCIAS-BENEFICIOS          PERIODO XXXX VIGENCIA
    GIOVANA XXXX NUNES
    08 FILHO(A)
       01 AUXILIO-PRE ESCOLA - INDIRETA                     01JUN2019 25MAI2023
-      05 ASSIST A SAUDE SUPLEMENTAR                        10JUL2019 25MAI2023
-      05 ASSIST A SAUDE SUPLEMENTAR                        20JUN2023
-      09 AUXILIO NATALIDADE                                18MAI2019 26OUT2020
+      05 ASSIST A SAUXXXX SUPLEMENTAR                        10JUL2019 25MAI2023
+      05 ASSIST A SAUXXXX SUPLEMENTAR                        20JUN2023
+      09 AUXILIO NATALIDAXXXX                                18MAI2019 26OUT2020
       11 ACOMPANHAM PESSOA DA FAMILIA                      18MAI2019
 
-INSTITUTO FEDERAL DE GOIAS                                   PAGINA :         7
-SIAPECAD - SISTEMA DE ADMINISTRACAO DE PESSOAL               EMISSAO: 17ABR2024
+INSTITUTO FEXXXXRAL XXXX GOIAS                                   PAGINA :         7
+SIAPECAD - SISTEMA XXXX ADMINISTRACAO XXXX PESSOAL               EMISSAO: 17ABR2024
 DOSSIE DO RH                                                 HORA   :     13:49
 -------------------------------------------------------------------------------
-   NOME: XXXX XXXX XXXX
+   NOME: XXXX XXXX
    CPF : 027.902.311-17
 -------------------------------------------------------------------------------
-                        REGISTROS DE PROVIMENTO DE CARGO
+                        REGISTROS XXXX PROVIMENTO XXXX CARGO
 -------------------------------------------------------------------------------
 
    MATRICULA: 02147232     PCA: 001
 
-   CARGO             : 701409  AUXILIAR DE BIBLIOTECA
+   CARGO             : 701409  AUXILIAR XXXX BIBLIOTECA
    SITUACAO DO PCA   : VIGENTE
    PERIODO DO PCA    : 11MAI2017 A           POSSE:           EXERC.: 22MAI2017
    ESTAGIO PROBATORIO: NAO EXISTE
 
-   ULTIMA UORG DE LOTACAO  : 000024  DIRECAO GERAL CAMPUS CIDADE DE GOIAS
-   ULTIMA UORG DE EXERCICIO: 000582  GOI-COORD. AQUISICOES E CONTRATOS
+   ULTIMA UORG XXXX LOTACAO  : 000024  DIRECAO GERAL CAMPUS CIDAXXXX XXXX GOIAS
+   ULTIMA UORG XXXX EXERCICIO: 000582  GOI-COORD. AQUISICOES E CONTRATOS
    ULTIMA UORG LOC. FISICA : 000582  GOI-COORD. AQUISICOES E CONTRATOS
 
--- DADOS DE ENTRADA NO CARGO --------------------------------------------------
+-- DADOS XXXX ENTRADA NO CARGO --------------------------------------------------
 
-   FORMA DE ENTRADA: 009 POSSE DE NOMEADO PARA CARGO EFETIVO
+   FORMA XXXX ENTRADA: 009 POSSE XXXX NOMEADO PARA CARGO EFETIVO
    NUM. FICHA TCU  : FICHA TCU NAO EMITIDA
-   DL DE ENTRADA   : PORT 000696/2017, REITORIA PUB: DO 13ABR2017
+   DL XXXX ENTRADA   : PORT 000696/2017, REITORIA PUB: DO 13ABR2017
 
 -- DADOS SOBRE A VAGA UTILIZADA -----------------------------------------------
 
-   DL DE CRIACAO : PORT 270,
+   DL XXXX CRIACAO : PORT 270,
    CODIGO DA VAGA: 0961326
 
 -- REGIMES JURIDICOS DO PCA ---------------------------------------------------
 
    02  RJU - REGIME JURIDICO UNICO                        11MAI2017 A
-   INDICE DE CORRECAO DO REGIME -   1,0000
+   INDICE XXXX CORRECAO DO REGIME -   1,0000
 
 -- JORNADAS TRABALHO DO PCA ---------------------------------------------------
 
@@ -1745,19 +1745,19 @@ DOSSIE DO RH                                                 HORA   :     13:49
    PROGMANUAL    PORT 000750/2020, REITORIA PUB: BP 30JUN2020
    TAB:701 NIVEL:NI CLASSE:C PADRAO:303              25MAI2020 A 21NOV2021
    PROGMANUAL    PORT 000863/2020, REITORIA PUB: BP 31JUL2020
-   TAB:701 NIVEL:NI CLASSE:C PADRAO:304              22NOV2021 A 16DEZ2021
-   PROGMANUAL    PORT 001883/2021, REI-PRODI PUB: BP 31DEZ2021
-   TAB:701 NIVEL:NI CLASSE:C PADRAO:404              17DEZ2021 A 21MAI2023
-   PROGMANUAL    PORT 002206/2021, REI-PRODI PUB: BP 27DEZ2021
+   TAB:701 NIVEL:NI CLASSE:C PADRAO:304              22NOV2021 A 16XXXXZ2021
+   PROGMANUAL    PORT 001883/2021, REI-PRODI PUB: BP 31XXXXZ2021
+   TAB:701 NIVEL:NI CLASSE:C PADRAO:404              17XXXXZ2021 A 21MAI2023
+   PROGMANUAL    PORT 002206/2021, REI-PRODI PUB: BP 27XXXXZ2021
 
-INSTITUTO FEDERAL DE GOIAS                                   PAGINA :         8
-SIAPECAD - SISTEMA DE ADMINISTRACAO DE PESSOAL               EMISSAO: 17ABR2024
+INSTITUTO FEXXXXRAL XXXX GOIAS                                   PAGINA :         8
+SIAPECAD - SISTEMA XXXX ADMINISTRACAO XXXX PESSOAL               EMISSAO: 17ABR2024
 DOSSIE DO RH                                                 HORA   :     13:49
 -------------------------------------------------------------------------------
-   NOME: XXXX XXXX XXXX
+   NOME: XXXX XXXX
    CPF : 027.902.311-17
 -------------------------------------------------------------------------------
-                        REGISTROS DE PROVIMENTO DE CARGO
+                        REGISTROS XXXX PROVIMENTO XXXX CARGO
 -------------------------------------------------------------------------------
 
    MATRICULA: 02147232     PCA: 001
@@ -1765,105 +1765,105 @@ DOSSIE DO RH                                                 HORA   :     13:49
    TAB:701 NIVEL:NI CLASSE:C PADRAO:405              22MAI2023 A
    PROGMANUAL    PORT 001364/2023, REITORIA PUB: BP 15JUN2023
 
-INSTITUTO FEDERAL DE GOIAS                                   PAGINA :         9
-SIAPECAD - SISTEMA DE ADMINISTRACAO DE PESSOAL               EMISSAO: 17ABR2024
+INSTITUTO FEXXXXRAL XXXX GOIAS                                   PAGINA :         9
+SIAPECAD - SISTEMA XXXX ADMINISTRACAO XXXX PESSOAL               EMISSAO: 17ABR2024
 DOSSIE DO RH                                                 HORA   :     13:49
 -------------------------------------------------------------------------------
-   NOME: XXXX XXXX XXXX
+   NOME: XXXX XXXX
    CPF : 027.902.311-17
 -------------------------------------------------------------------------------
-     REGISTROS DE LOTACOES / LOCALIZACOES DE EXERCICIO / LOCALIZACAO FISICA
+     REGISTROS XXXX LOTACOES / LOCALIZACOES XXXX EXERCICIO / LOCALIZACAO FISICA
 -------------------------------------------------------------------------------
 
    MATRICULA: 02147232     PCA: 001
 
 -- LOTACOES -------------------------------------------------------------------
 
-   ORGAO        : 26429 INSTITUTO FEDERAL DE GOIAS
-   UORG         : 000024 - DIRECAO GERAL CAMPUS CIDADE DE GOIAS
+   ORGAO        : 26429 INSTITUTO FEXXXXRAL XXXX GOIAS
+   UORG         : 000024 - DIRECAO GERAL CAMPUS CIDAXXXX XXXX GOIAS
    PERIODO      : 21AGO2023 A
-   FORMA ENTRADA: 028 REMOCAO COLETIVA DE OFICIO
-   DL DE ENTRADA: PORTARIA Nº 2104 - REITORIA/IFG, DE 21 DE AGOSTO DE 2023
+   FORMA ENTRADA: 028 REMOCAO COLETIVA XXXX OFICIO
+   DL XXXX ENTRADA: PORTARIA Nº 2104 - REITORIA/IFG, XXXX 21 XXXX AGOSTO XXXX 2023
    SITUACAO     : LOTACAO VIGENTE
    ----------------------------------------------------------------------------
-   ORGAO        : 26429 INSTITUTO FEDERAL DE GOIAS
+   ORGAO        : 26429 INSTITUTO FEXXXXRAL XXXX GOIAS
    UORG         : 000330 - DIRECAO GERAL CAMPUS SENADOR CANEDO
    PERIODO      : 22MAI2017 A 20AGO2023
-   FORMA ENTRADA: 009 POSSE DE NOMEADO PARA CARGO EFETIVO
-   DL DE ENTRADA: PORT 000696/2017, REITORIA PUB: DO 13ABR2017
+   FORMA ENTRADA: 009 POSSE XXXX NOMEADO PARA CARGO EFETIVO
+   DL XXXX ENTRADA: PORT 000696/2017, REITORIA PUB: DO 13ABR2017
    SITUACAO     : LOTACAO ENCERRADA
    ----------------------------------------------------------------------------
 
--- LOCALIZACOES DE EXERCICIO --------------------------------------------------
+-- LOCALIZACOES XXXX EXERCICIO --------------------------------------------------
 
    UORG         : 000582 - GOI-COORD. AQUISICOES E CONTRATOS
    PERIODO      : 01MAR2024 A
    FORMA ENTRADA: 029 LOCALIZAR EXERCICIO INTERNO
-   DL DE ENTRADA: MEMO 000027/2024, GOI-CG PUB: NEFP 05MAR2024
+   DL XXXX ENTRADA: MEMO 000027/2024, GOI-CG PUB: NEFP 05MAR2024
    ----------------------------------------------------------------------------
-   UORG         : 000080 - GOI-COORD. DE ADM. ACAD. APOIO AO ENSINO
+   UORG         : 000080 - GOI-COORD. XXXX ADM. ACAD. APOIO AO ENSINO
    PERIODO      : 05SET2023 A 29FEV2024
    FORMA ENTRADA: 029 LOCALIZAR EXERCICIO INTERNO
-   DL DE ENTRADA: PORTARIA Nº 2104 -REITORIA/IFG- DE 21/08/2023.
+   DL XXXX ENTRADA: PORTARIA Nº 2104 -REITORIA/IFG- XXXX 21/08/2023.
    FORMA SAIDA  : 029 LOCALIZAR EXERCICIO INTERNO
-   DL DE SAIDA  : MEMO 000027/2024, GOI-CG PUB: NEFP 05MAR2024
+   DL XXXX SAIDA  : MEMO 000027/2024, GOI-CG PUB: NEFP 05MAR2024
    ----------------------------------------------------------------------------
-   UORG         : 000298 - GOI-COORDENACAO DE BIBLIOTECA
+   UORG         : 000298 - GOI-COORXXXXNACAO XXXX BIBLIOTECA
    PERIODO      : 21AGO2023 A 04SET2023
-   FORMA ENTRADA: 028 REMOCAO COLETIVA DE OFICIO
-   DL DE ENTRADA: PORTARIA Nº 2104 - REITORIA/IFG, DE 21 DE AGOSTO DE 2023
+   FORMA ENTRADA: 028 REMOCAO COLETIVA XXXX OFICIO
+   DL XXXX ENTRADA: PORTARIA Nº 2104 - REITORIA/IFG, XXXX 21 XXXX AGOSTO XXXX 2023
    FORMA SAIDA  : 029 LOCALIZAR EXERCICIO INTERNO
-   DL DE SAIDA  : PORTARIA Nº 2104 -REITORIA/IFG- DE 21/08/2023.
+   DL XXXX SAIDA  : PORTARIA Nº 2104 -REITORIA/IFG- XXXX 21/08/2023.
    ----------------------------------------------------------------------------
-   UORG         : 000386 - SEN-COORDENACAO DE BIBLIOTECA
+   UORG         : 000386 - SEN-COORXXXXNACAO XXXX BIBLIOTECA
    PERIODO      : 12MAI2023 A 20AGO2023
-   FORMA ENTRADA: 051 RETORNO DE SERVIDOR EM EXERCICIO EXTERNO
-   DL DE ENTRADA: PORTARIA Nº 1.305 - REITORIA/IFG, DE 11 DE MAIO DE 2022
-   FORMA SAIDA  : 028 REMOCAO COLETIVA DE OFICIO
-   DL DE SAIDA  : PORTARIA Nº 2104 - REITORIA/IFG, DE 21 DE AGOSTO DE 2023
+   FORMA ENTRADA: 051 RETORNO XXXX SERVIDOR EM EXERCICIO EXTERNO
+   DL XXXX ENTRADA: PORTARIA Nº 1.305 - REITORIA/IFG, XXXX 11 XXXX MAIO XXXX 2022
+   FORMA SAIDA  : 028 REMOCAO COLETIVA XXXX OFICIO
+   DL XXXX SAIDA  : PORTARIA Nº 2104 - REITORIA/IFG, XXXX 21 XXXX AGOSTO XXXX 2023
    ----------------------------------------------------------------------------
 
-INSTITUTO FEDERAL DE GOIAS                                   PAGINA :        10
-SIAPECAD - SISTEMA DE ADMINISTRACAO DE PESSOAL               EMISSAO: 17ABR2024
+INSTITUTO FEXXXXRAL XXXX GOIAS                                   PAGINA :        10
+SIAPECAD - SISTEMA XXXX ADMINISTRACAO XXXX PESSOAL               EMISSAO: 17ABR2024
 DOSSIE DO RH                                                 HORA   :     13:49
 -------------------------------------------------------------------------------
-   NOME: XXXX XXXX XXXX
+   NOME: XXXX XXXX
    CPF : 027.902.311-17
 -------------------------------------------------------------------------------
-     REGISTROS DE LOTACOES / LOCALIZACOES DE EXERCICIO / LOCALIZACAO FISICA
+     REGISTROS XXXX LOTACOES / LOCALIZACOES XXXX EXERCICIO / LOCALIZACAO FISICA
 -------------------------------------------------------------------------------
 
    MATRICULA: 02147232     PCA: 001
 
--- LOCALIZACOES DE EXERCICIO --------------------------------------------------
+-- LOCALIZACOES XXXX EXERCICIO --------------------------------------------------
 
-   ORGAO        :  26407 - INSTITUTO FEDERAL GOIANO
+   ORGAO        :  26407 - INSTITUTO FEXXXXRAL GOIANO
    PERIODO      : 12MAI2022 A 11MAI2023
    FORMA ENTRADA: 050 EXERCICIO EXTERNO AO ORGAO
-   DL DE ENTRADA: PORTARIA Nº 1305/2022 - REITORIA/IFG, DE 11 DE MAIO DE 2022
-   FORMA SAIDA  : 051 RETORNO DE SERVIDOR EM EXERCICIO EXTERNO
-   DL DE SAIDA  : PORTARIA Nº 1.305 - REITORIA/IFG, DE 11 DE MAIO DE 2022
+   DL XXXX ENTRADA: PORTARIA Nº 1305/2022 - REITORIA/IFG, XXXX 11 XXXX MAIO XXXX 2022
+   FORMA SAIDA  : 051 RETORNO XXXX SERVIDOR EM EXERCICIO EXTERNO
+   DL XXXX SAIDA  : PORTARIA Nº 1.305 - REITORIA/IFG, XXXX 11 XXXX MAIO XXXX 2022
    PREV. RETORNO: 12MAI2023
    OCOR. AFASTAM: 00035 Afas. Prestar Colaboração, PCCTAE - Magi
    FUNCAO EXERC.:
    NUM. PROCESSO:
    ----------------------------------------------------------------------------
-   UORG         : 000386 - SEN-COORDENACAO DE BIBLIOTECA
+   UORG         : 000386 - SEN-COORXXXXNACAO XXXX BIBLIOTECA
    PERIODO      : 22MAI2017 A 11MAI2022
-   FORMA ENTRADA: 009 POSSE DE NOMEADO PARA CARGO EFETIVO
-   DL DE ENTRADA: PORT 000696/2017, REITORIA PUB: DO 13ABR2017
+   FORMA ENTRADA: 009 POSSE XXXX NOMEADO PARA CARGO EFETIVO
+   DL XXXX ENTRADA: PORT 000696/2017, REITORIA PUB: DO 13ABR2017
    FORMA SAIDA  : 050 EXERCICIO EXTERNO AO ORGAO
-   DL DE SAIDA  : PORTARIA Nº 1305/2022 - REITORIA/IFG, DE 11 DE MAIO DE 2022
+   DL XXXX SAIDA  : PORTARIA Nº 1305/2022 - REITORIA/IFG, XXXX 11 XXXX MAIO XXXX 2022
    ----------------------------------------------------------------------------
 
-INSTITUTO FEDERAL DE GOIAS                                   PAGINA :        11
-SIAPECAD - SISTEMA DE ADMINISTRACAO DE PESSOAL               EMISSAO: 17ABR2024
+INSTITUTO FEXXXXRAL XXXX GOIAS                                   PAGINA :        11
+SIAPECAD - SISTEMA XXXX ADMINISTRACAO XXXX PESSOAL               EMISSAO: 17ABR2024
 DOSSIE DO RH                                                 HORA   :     13:49
 -------------------------------------------------------------------------------
-   NOME: XXXX XXXX XXXX
+   NOME: XXXX XXXX
    CPF : 027.902.311-17
 -------------------------------------------------------------------------------
-                     OCORRENCIAS DE AFASTAMENTO DO SERVIDOR
+                     OCORRENCIAS XXXX AFASTAMENTO DO SERVIDOR
 -------------------------------------------------------------------------------
 
    MATRICULA: 26429- 
@@ -1873,40 +1873,40 @@ DOSSIE DO RH                                                 HORA   :     13:49
 
    0035  Afas. Prestar Colaboração, PCCTAE -      12MAI2022 11MAI2023
 
-   0073  Lic. Gestante Prorrogação - EST          01NOV2017 30DEZ2017
+   0073  Lic. Gestante Prorrogação - EST          01NOV2017 30XXXXZ2017
 
    0073  Lic. Gestante Prorrogação - EST          04SET2019 02NOV2019
 
    0074  Lic. Gestante  ( Concedida Administ      04JUL2017 31OUT2017
 
-   0084  LIC. TRATAMENTO DE SAUDE - EST           19JUN2017 03JUL2017
+   0084  LIC. TRATAMENTO XXXX SAUXXXX - EST           19JUN2017 03JUL2017
 
-   0084  LIC. TRATAMENTO DE SAUDE - EST           14ABR2022 14ABR2022
+   0084  LIC. TRATAMENTO XXXX SAUXXXX - EST           14ABR2022 14ABR2022
 
-   0084  LIC. TRATAMENTO DE SAUDE - EST           20ABR2022 20ABR2022
+   0084  LIC. TRATAMENTO XXXX SAUXXXX - EST           20ABR2022 20ABR2022
 
-   0084  LIC. TRATAMENTO DE SAUDE - EST           29ABR2022 29ABR2022
+   0084  LIC. TRATAMENTO XXXX SAUXXXX - EST           29ABR2022 29ABR2022
 
-   0084  LIC. TRATAMENTO DE SAUDE - EST           14SET2023 13OUT2023
+   0084  LIC. TRATAMENTO XXXX SAUXXXX - EST           14SET2023 13OUT2023
 
-   0084  LIC. TRATAMENTO DE SAUDE - EST           14OUT2023 12NOV2023
+   0084  LIC. TRATAMENTO XXXX SAUXXXX - EST           14OUT2023 12NOV2023
 
-   0084  LIC. TRATAMENTO DE SAUDE - EST           21NOV2023 22NOV2023
+   0084  LIC. TRATAMENTO XXXX SAUXXXX - EST           21NOV2023 22NOV2023
 
-   0090  Lic. por Motivo de Doença em Pessoa      05ABR2018 05ABR2018
+   0090  Lic. por Motivo XXXX Doença em Pessoa      05ABR2018 05ABR2018
 
-   0090  Lic. por Motivo de Doença em Pessoa      05ABR2022 06ABR2022
+   0090  Lic. por Motivo XXXX Doença em Pessoa      05ABR2022 06ABR2022
 
-   0090  Lic. por Motivo de Doença em Pessoa      08ABR2022 08ABR2022
+   0090  Lic. por Motivo XXXX Doença em Pessoa      08ABR2022 08ABR2022
 
-INSTITUTO FEDERAL DE GOIAS                                   PAGINA :        12
-SIAPECAD - SISTEMA DE ADMINISTRACAO DE PESSOAL               EMISSAO: 17ABR2024
+INSTITUTO FEXXXXRAL XXXX GOIAS                                   PAGINA :        12
+SIAPECAD - SISTEMA XXXX ADMINISTRACAO XXXX PESSOAL               EMISSAO: 17ABR2024
 DOSSIE DO RH                                                 HORA   :     13:49
 -------------------------------------------------------------------------------
-   NOME: XXXX XXXX XXXX
+   NOME: XXXX XXXX
    CPF : 027.902.311-17
 -------------------------------------------------------------------------------
-                     OCORRENCIAS DE AFASTAMENTO DO SERVIDOR
+                     OCORRENCIAS XXXX AFASTAMENTO DO SERVIDOR
 -------------------------------------------------------------------------------
 
    MATRICULA: 26429- 
@@ -1914,132 +1914,132 @@ DOSSIE DO RH                                                 HORA   :     13:49
 -------------------------------------------------------------------------------
      COD NOME DO AFASTAMENTO                      INICIO    TERMINO
 
-   0090  Lic. por Motivo de Doença em Pessoa      11ABR2022 11ABR2022
+   0090  Lic. por Motivo XXXX Doença em Pessoa      11ABR2022 11ABR2022
 
    0261  Lic. Gestante (Concedida SIASS) - E      07MAI2019 03SET2019
 
-   0270  LICENCA TRATAMENTO SAUDE INFERIOR 1      26MAI2017 26MAI2017
+   0270  LICENCA TRATAMENTO SAUXXXX INFERIOR 1      26MAI2017 26MAI2017
 
-   0270  LICENCA TRATAMENTO SAUDE INFERIOR 1      14JUN2017 14JUN2017
+   0270  LICENCA TRATAMENTO SAUXXXX INFERIOR 1      14JUN2017 14JUN2017
 
-   0270  LICENCA TRATAMENTO SAUDE INFERIOR 1      21NOV2018 21NOV2018
+   0270  LICENCA TRATAMENTO SAUXXXX INFERIOR 1      21NOV2018 21NOV2018
 
-   0270  LICENCA TRATAMENTO SAUDE INFERIOR 1      16ABR2019 17ABR2019
+   0270  LICENCA TRATAMENTO SAUXXXX INFERIOR 1      16ABR2019 17ABR2019
 
-   0270  LICENCA TRATAMENTO SAUDE INFERIOR 1      02MAI2019 03MAI2019
+   0270  LICENCA TRATAMENTO SAUXXXX INFERIOR 1      02MAI2019 03MAI2019
 
-   0270  LICENCA TRATAMENTO SAUDE INFERIOR 1      06MAR2022 08MAR2022
+   0270  LICENCA TRATAMENTO SAUXXXX INFERIOR 1      06MAR2022 08MAR2022
 
-   0270  LICENCA TRATAMENTO SAUDE INFERIOR 1      09MAR2022 11MAR2022
+   0270  LICENCA TRATAMENTO SAUXXXX INFERIOR 1      09MAR2022 11MAR2022
 
    0387  TRABALHO REMOTO COVID-19                 01MAI2020 28JUN2020
 
-   0387  TRABALHO REMOTO COVID-19                 11JUL2020 06DEZ2020
+   0387  TRABALHO REMOTO COVID-19                 11JUL2020 06XXXXZ2020
 
-   0387  TRABALHO REMOTO COVID-19                 25DEZ2020 30NOV2021
+   0387  TRABALHO REMOTO COVID-19                 25XXXXZ2020 30NOV2021
 
-   0387  TRABALHO REMOTO COVID-19                 31DEZ2021 02MAR2022
+   0387  TRABALHO REMOTO COVID-19                 31XXXXZ2021 02MAR2022
 
-INSTITUTO FEDERAL DE GOIAS                                   PAGINA :        13
-SIAPECAD - SISTEMA DE ADMINISTRACAO DE PESSOAL               EMISSAO: 17ABR2024
+INSTITUTO FEXXXXRAL XXXX GOIAS                                   PAGINA :        13
+SIAPECAD - SISTEMA XXXX ADMINISTRACAO XXXX PESSOAL               EMISSAO: 17ABR2024
 DOSSIE DO RH                                                 HORA   :     13:49
 -------------------------------------------------------------------------------
-   NOME: XXXX XXXX XXXX
+   NOME: XXXX XXXX
    CPF : 027.902.311-17
 -------------------------------------------------------------------------------
-                        HISTORICO DE FERIAS DO SERVIDOR
+                        HISTORICO XXXX FERIAS DO SERVIDOR
 -------------------------------------------------------------------------------
    MATRICULA: 02147232
 -------------------------------------------------------------------------------
 
-   EXERCICIO    : 2024     PER.BASE DE CALCULO: 01JAN2024 A 31DEZ2024
-   TOTAL DE DIAS:   30     PERIODO PROGRAMACAO: 01JAN2024 A 31DEZ2025
-   QTDE PARCELAS:    3
+   EXERCICIO    : 2024     PER.BASE XXXX CALCULO: 01JAN2024 A 31XXXXZ2024
+   TOTAL XXXX DIAS:   30     PERIODO PROGRAMACAO: 01JAN2024 A 31XXXXZ2025
+   QTXXXX PARCELAS:    3
 
-   PARCELA  1 : PERIODO DE FERIAS: 04MAR2024 A 13MAR2024    QTDE DE DIAS: 010
+   PARCELA  1 : PERIODO XXXX FERIAS: 04MAR2024 A 13MAR2024    QTXXXX XXXX DIAS: 010
                 ADIANT.SAL.FERIAS: NAO  GRAT.NATALINA:  ABONO PECUN : NAO
 
-   PARCELA  2 : PERIODO DE FERIAS: 10JUN2024 A 19JUN2024    QTDE DE DIAS: 010
+   PARCELA  2 : PERIODO XXXX FERIAS: 10JUN2024 A 19JUN2024    QTXXXX XXXX DIAS: 010
                 ADIANT.SAL.FERIAS: NAO  GRAT.NATALINA:  ABONO PECUN : NAO
 
-   PARCELA  3 : PERIODO DE FERIAS: 01JUL2024 A 10JUL2024    QTDE DE DIAS: 010
-                ADIANT.SAL.FERIAS: NAO  GRAT.NATALINA:  ABONO PECUN : NAO
-   ---------------------------------------------------------------------------
-
-   EXERCICIO    : 2023     PER.BASE DE CALCULO: 01JAN2023 A 31DEZ2023
-   TOTAL DE DIAS:   30     PERIODO PROGRAMACAO: 01JAN2023 A 31DEZ2024
-   QTDE PARCELAS:    1
-
-   PARCELA  1 : PERIODO DE FERIAS: 29MAI2023 A 27JUN2023    QTDE DE DIAS: 030
+   PARCELA  3 : PERIODO XXXX FERIAS: 01JUL2024 A 10JUL2024    QTXXXX XXXX DIAS: 010
                 ADIANT.SAL.FERIAS: NAO  GRAT.NATALINA:  ABONO PECUN : NAO
    ---------------------------------------------------------------------------
 
-   EXERCICIO    : 2022     PER.BASE DE CALCULO: 01JAN2022 A 31DEZ2022
-   TOTAL DE DIAS:   30     PERIODO PROGRAMACAO: 01JAN2022 A 31DEZ2023
-   QTDE PARCELAS:    2
+   EXERCICIO    : 2023     PER.BASE XXXX CALCULO: 01JAN2023 A 31XXXXZ2023
+   TOTAL XXXX DIAS:   30     PERIODO PROGRAMACAO: 01JAN2023 A 31XXXXZ2024
+   QTXXXX PARCELAS:    1
 
-   PARCELA  1 : PERIODO DE FERIAS: 21MAR2022 A 01ABR2022    QTDE DE DIAS: 012
-                ADIANT.SAL.FERIAS: NAO  GRAT.NATALINA:  ABONO PECUN : NAO
-
-   PARCELA  2 : PERIODO DE FERIAS: 02JAN2023 A 19JAN2023    QTDE DE DIAS: 018
+   PARCELA  1 : PERIODO XXXX FERIAS: 29MAI2023 A 27JUN2023    QTXXXX XXXX DIAS: 030
                 ADIANT.SAL.FERIAS: NAO  GRAT.NATALINA:  ABONO PECUN : NAO
    ---------------------------------------------------------------------------
 
-   EXERCICIO    : 2021     PER.BASE DE CALCULO: 01JAN2021 A 31DEZ2021
-   TOTAL DE DIAS:   30     PERIODO PROGRAMACAO: 01JAN2021 A 31DEZ2022
-   QTDE PARCELAS:    1
+   EXERCICIO    : 2022     PER.BASE XXXX CALCULO: 01JAN2022 A 31XXXXZ2022
+   TOTAL XXXX DIAS:   30     PERIODO PROGRAMACAO: 01JAN2022 A 31XXXXZ2023
+   QTXXXX PARCELAS:    2
 
-   PARCELA  1 : PERIODO DE FERIAS: 01DEZ2021 A 30DEZ2021    QTDE DE DIAS: 030
+   PARCELA  1 : PERIODO XXXX FERIAS: 21MAR2022 A 01ABR2022    QTXXXX XXXX DIAS: 012
+                ADIANT.SAL.FERIAS: NAO  GRAT.NATALINA:  ABONO PECUN : NAO
+
+   PARCELA  2 : PERIODO XXXX FERIAS: 02JAN2023 A 19JAN2023    QTXXXX XXXX DIAS: 018
                 ADIANT.SAL.FERIAS: NAO  GRAT.NATALINA:  ABONO PECUN : NAO
    ---------------------------------------------------------------------------
 
-INSTITUTO FEDERAL DE GOIAS                                   PAGINA :        14
-SIAPECAD - SISTEMA DE ADMINISTRACAO DE PESSOAL               EMISSAO: 17ABR2024
+   EXERCICIO    : 2021     PER.BASE XXXX CALCULO: 01JAN2021 A 31XXXXZ2021
+   TOTAL XXXX DIAS:   30     PERIODO PROGRAMACAO: 01JAN2021 A 31XXXXZ2022
+   QTXXXX PARCELAS:    1
+
+   PARCELA  1 : PERIODO XXXX FERIAS: 01XXXXZ2021 A 30XXXXZ2021    QTXXXX XXXX DIAS: 030
+                ADIANT.SAL.FERIAS: NAO  GRAT.NATALINA:  ABONO PECUN : NAO
+   ---------------------------------------------------------------------------
+
+INSTITUTO FEXXXXRAL XXXX GOIAS                                   PAGINA :        14
+SIAPECAD - SISTEMA XXXX ADMINISTRACAO XXXX PESSOAL               EMISSAO: 17ABR2024
 DOSSIE DO RH                                                 HORA   :     13:49
 -------------------------------------------------------------------------------
-   NOME: XXXX XXXX XXXX
+   NOME: XXXX XXXX
    CPF : 027.902.311-17
 -------------------------------------------------------------------------------
-                        HISTORICO DE FERIAS DO SERVIDOR
+                        HISTORICO XXXX FERIAS DO SERVIDOR
 -------------------------------------------------------------------------------
    MATRICULA: 02147232
 -------------------------------------------------------------------------------
 
-   EXERCICIO    : 2020     PER.BASE DE CALCULO: 01JAN2020 A 31DEZ2020
-   TOTAL DE DIAS:   30     PERIODO PROGRAMACAO: 01JAN2020 A 31DEZ2021
-   QTDE PARCELAS:    2
+   EXERCICIO    : 2020     PER.BASE XXXX CALCULO: 01JAN2020 A 31XXXXZ2020
+   TOTAL XXXX DIAS:   30     PERIODO PROGRAMACAO: 01JAN2020 A 31XXXXZ2021
+   QTXXXX PARCELAS:    2
 
-   PARCELA  1 : PERIODO DE FERIAS: 29JUN2020 A 10JUL2020    QTDE DE DIAS: 012
+   PARCELA  1 : PERIODO XXXX FERIAS: 29JUN2020 A 10JUL2020    QTXXXX XXXX DIAS: 012
                 ADIANT.SAL.FERIAS: NAO  GRAT.NATALINA:  ABONO PECUN : NAO
 
-   PARCELA  2 : PERIODO DE FERIAS: 07DEZ2020 A 24DEZ2020    QTDE DE DIAS: 018
-                ADIANT.SAL.FERIAS: NAO  GRAT.NATALINA:  ABONO PECUN : NAO
-   ---------------------------------------------------------------------------
-
-   EXERCICIO    : 2019     PER.BASE DE CALCULO: 01JAN2019 A 31DEZ2019
-   TOTAL DE DIAS:   30     PERIODO PROGRAMACAO: 01JAN2019 A 31DEZ2020
-   QTDE PARCELAS:    1
-
-   PARCELA  1 : PERIODO DE FERIAS: 28NOV2019 A 27DEZ2019    QTDE DE DIAS: 030
+   PARCELA  2 : PERIODO XXXX FERIAS: 07XXXXZ2020 A 24XXXXZ2020    QTXXXX XXXX DIAS: 018
                 ADIANT.SAL.FERIAS: NAO  GRAT.NATALINA:  ABONO PECUN : NAO
    ---------------------------------------------------------------------------
 
-   EXERCICIO    : 2018     PER.BASE DE CALCULO: 11MAI2017 A 10MAI2018
-   TOTAL DE DIAS:   30     PERIODO PROGRAMACAO: 11MAI2018 A 31DEZ2019
-   QTDE PARCELAS:    2
+   EXERCICIO    : 2019     PER.BASE XXXX CALCULO: 01JAN2019 A 31XXXXZ2019
+   TOTAL XXXX DIAS:   30     PERIODO PROGRAMACAO: 01JAN2019 A 31XXXXZ2020
+   QTXXXX PARCELAS:    1
 
-   PARCELA  1 : PERIODO DE FERIAS: 16JUL2018 A 30JUL2018    QTDE DE DIAS: 015
-                ADIANT.SAL.FERIAS: NAO  GRAT.NATALINA:  ABONO PECUN : NAO
-
-   PARCELA  2 : PERIODO DE FERIAS: 31OUT2018 A 14NOV2018    QTDE DE DIAS: 015
+   PARCELA  1 : PERIODO XXXX FERIAS: 28NOV2019 A 27XXXXZ2019    QTXXXX XXXX DIAS: 030
                 ADIANT.SAL.FERIAS: NAO  GRAT.NATALINA:  ABONO PECUN : NAO
    ---------------------------------------------------------------------------
 
-INSTITUTO FEDERAL DE GOIAS                                   PAGINA :        15
-SIAPECAD - SISTEMA DE ADMINISTRACAO DE PESSOAL               EMISSAO: 17ABR2024
+   EXERCICIO    : 2018     PER.BASE XXXX CALCULO: 11MAI2017 A 10MAI2018
+   TOTAL XXXX DIAS:   30     PERIODO PROGRAMACAO: 11MAI2018 A 31XXXXZ2019
+   QTXXXX PARCELAS:    2
+
+   PARCELA  1 : PERIODO XXXX FERIAS: 16JUL2018 A 30JUL2018    QTXXXX XXXX DIAS: 015
+                ADIANT.SAL.FERIAS: NAO  GRAT.NATALINA:  ABONO PECUN : NAO
+
+   PARCELA  2 : PERIODO XXXX FERIAS: 31OUT2018 A 14NOV2018    QTXXXX XXXX DIAS: 015
+                ADIANT.SAL.FERIAS: NAO  GRAT.NATALINA:  ABONO PECUN : NAO
+   ---------------------------------------------------------------------------
+
+INSTITUTO FEXXXXRAL XXXX GOIAS                                   PAGINA :        15
+SIAPECAD - SISTEMA XXXX ADMINISTRACAO XXXX PESSOAL               EMISSAO: 17ABR2024
 DOSSIE DO RH                                                 HORA   :     13:49
 -------------------------------------------------------------------------------
-   NOME: XXXX XXXX XXXX
+   NOME: XXXX XXXX
    CPF : 027.902.311-17
 -------------------------------------------------------------------------------
 
@@ -2047,77 +2047,77 @@ DOSSIE DO RH                                                 HORA   :     13:49
 
          (  ) HA FOLHAS QUE COMPLEMENTAM ESTE DOSSIE
 
-         FONTES DE PESQUISA:
+         FONTES XXXX PESQUISA:
 
-         (  ) REGISTRO DE FREQUENCIA
+         (  ) REGISTRO XXXX FREQUENCIA
          (  ) FICHA FINANCEIRA
-         (  ) FOLHA DE PAGAMENTO
+         (  ) FOLHA XXXX PAGAMENTO
 
-         ESTE DOSSIE E' CONSTITUIDO DE ____ FOLHAS, INCLUIDOS
+         ESTE DOSSIE E' CONSTITUIDO XXXX ____ FOLHAS, INCLUIDOS
          OS TERMOS ADITIVOS, SE FOR O CASO.
 
-                   ______________________,____ DE _______________ DE _______
+                   ______________________,____ XXXX _______________ XXXX _______
 
                    _________________________________________________________
                    AUTENTICACAO (DATAR, CARIMBAR E ASSINAR)
 
- SIAPE - SISTEMA INTEGRADO DE ADMINISTRACAO DE PESSOAL      EMISSAO: 17ABR2024
+ SIAPE - SISTEMA INTEGRADO XXXX ADMINISTRACAO XXXX PESSOAL      EMISSAO: 17ABR2024
 +------------------------------------------+----------------------------------+
-¦ INSTITUTO FEDERAL DE GOIAS               ¦                                  ¦
-¦ REI-PRO-REITORIA DE DES. INST E REC. HUM ¦     MAPA DE TEMPO DE SERVICO     ¦
+¦ INSTITUTO FEXXXXRAL XXXX GOIAS               ¦                                  ¦
+¦ REI-PRO-REITORIA XXXX XXXXS. INST E REC. HUM ¦     MAPA XXXX TEMPO XXXX SERVICO     ¦
 ¦                                          ¦        PARA APOSENTADORIA        ¦
 ¦                                          ¦                                  ¦
 ¦                                          ¦      REFERENCIA: 17ABR2024       ¦
 ¦                                          ¦                                  ¦
 +------------------------------------------+----------------------------------+
- 1 - IDENTIFICACAO DO SERVIDOR
+ 1 - IXXXXNTIFICACAO DO SERVIDOR
 +-----------------------------------------------------------------------------+
 ¦                                                                             ¦
-¦    XXXX XXXX XXXX                                 CPF: 027.902.311-17 ¦
+¦    XXXX XXXX                                 CPF: 027.902.311-17 ¦
 ¦    DATA NASCIMENTO: 26JAN1990   MATR.SIAPE:   MATR.SIAPEcad: 02147232 ¦
-¦    CARGO: AUXILIAR DE BIBLIOTECA                    CODIGO DO CARGO: 701409 ¦
+¦    CARGO: AUXILIAR XXXX BIBLIOTECA                    CODIGO DO CARGO: 701409 ¦
 ¦    POSICIONAMENTO: TAB:701 NIVEL:NI CLASSE:C PADRAO:405                     ¦
 ¦                                                                             ¦
 +-----------------------------------------------------------------------------+
- 2 - TEMPO LIQUIDO DE SERVICO                                       QTDE. DIAS
+ 2 - TEMPO LIQUIDO XXXX SERVICO                                       QTXXXX. DIAS
 +-----------------------------------------------------------------------------+
 ¦                                                                             ¦
-¦    PERIODO CONSIDERADO: 22MAI2017  A 16ABR2024                              ¦
+¦    PERIODO CONSIXXXXRADO: 22MAI2017  A 16ABR2024                              ¦
 ¦                                                                             ¦
 ¦    ANUENIO       :   0 ANOS  0 MESES  0 DIAS (LIQUIDO) .......            0 ¦
 ¦    APOSENTADORIA :   6 ANOS 11 MESES  2 DIAS (LIQUIDO) .......         2522 ¦
 ¦                                                                             ¦
 +-----------------------------------------------------------------------------+
- 3 - AVERBACOES ANTERIORES E APOSENTADORIAS REVERTIDAS              QTDE. DIAS
+ 3 - AVERBACOES ANTERIORES E APOSENTADORIAS REVERTIDAS              QTXXXX. DIAS
 +-----------------------------------------------------------------------------+
 ¦                                                                             ¦
-¦    PERIODO CONSIDERADO:            A                                        ¦
+¦    PERIODO CONSIXXXXRADO:            A                                        ¦
 ¦                                                                             ¦
 ¦    ANUENIO       :   0 ANOS  0 MESES  0 DIAS (LIQUIDO) .......            0 ¦
 ¦                                                                             ¦
 ¦    APOSENTADORIA :   0 ANOS  0 MESES  0 DIAS (LIQUIDO) .........          0 ¦
 ¦                                                                             ¦
 +-----------------------------------------------------------------------------+
- 4 - CONTAGEM DE TEMPO DE SERVICO EM DOBRO                          QTDE. DIAS
+ 4 - CONTAGEM XXXX TEMPO XXXX SERVICO EM DOBRO                          QTXXXX. DIAS
 +-----------------------------------------------------------------------------+
 ¦                                                                             ¦
 ¦    LICENCA ESPECIAL NAO GOZADA:                                             ¦
 ¦                      0 ANOS  0 MESES  0 DIAS (LIQUIDO) .........          0 ¦
 ¦                                                                             ¦
 +-----------------------------------------------------------------------------+
- 5 - TEMPO DE SERVICO GERAL                                         QTDE. DIAS
+ 5 - TEMPO XXXX SERVICO GERAL                                         QTXXXX. DIAS
 +-----------------------------------------------------------------------------+
 ¦                                                                             ¦
-¦    PERIODO CONSIDERADO: 22MAI2017  A 16ABR2024                              ¦
+¦    PERIODO CONSIXXXXRADO: 22MAI2017  A 16ABR2024                              ¦
 ¦                                                                             ¦
 ¦    ANUENIO       :  0  ANOS  0 MESES  0 DIAS (LIQUIDO) .........          0 ¦
 ¦                                                                             ¦
 ¦    APOSENTADORIA :  6  ANOS 11 MESES  2 DIAS (LIQUIDO) .........       2522 ¦
 ¦                                                                             ¦
-¦    QUANTIDADE DE ANUENIOS CONCEDIDOS:  0                                    ¦
+¦    QUANTIDAXXXX XXXX ANUENIOS CONCEDIDOS:  0                                    ¦
 ¦                                                                             ¦
 +-----------------------------------------------------------------------------+
- AUTORIDADE RESPONSAVEL
+ AUTORIDAXXXX RESPONSAVEL
 +-----------------------------------------------------------------------------+
 ¦                                                                             ¦
 ¦                                                                             ¦
@@ -2126,8 +2126,8 @@ DOSSIE DO RH                                                 HORA   :     13:49
 ¦                                                                             ¦
 +-----------------------------------------------------------------------------+
 
-INSTITUTO FEDERAL DE GOIAS                                   PAGINA :         2
-SIAPECAD - SISTEMA DE ADMINISTRACAO DE PESSOAL               EMISSAO: 17ABR2024
+INSTITUTO FEXXXXRAL XXXX GOIAS                                   PAGINA :         2
+SIAPECAD - SISTEMA XXXX ADMINISTRACAO XXXX PESSOAL               EMISSAO: 17ABR2024
 DOSSIE DO RH                                                 HORA   :     13:49
 -------------------------------------------------------------------------------
 
@@ -2139,23 +2139,23 @@ DOSSIE DO RH                                                 HORA   :     13:49
        4. OCORRENCIAS DA MATRICULA 02147232 ............................   11
        5. FERIAS DA MATRICULA 02147232 .................................   13
        6. OBSERVACOES ........................................ .........   15
-       7. MAPA DE TEMPO DE SERVICO DA MATRICULA 02147232 ...............
+       7. MAPA XXXX TEMPO XXXX SERVICO DA MATRICULA 02147232 ...............
 
-Cópia de documento digital impresso por Bruna Frazao (1971392) em 24/09/2024 12:33.
+Cópia XXXX documento digital impresso por Bruna Frazao (1971392) em 24/09/2024 12:33.
 
 Documento Digitalizado Restrito
 
-Dossiê Funcional - XXXX XXXX XXXX
+Dossiê Funcional - XXXX XXXX
 
-Assunto: Dossiê Funcional - XXXX XXXX XXXX
+Assunto: Dossiê Funcional - XXXX XXXX
 
-Assinado por: Lucas Andrade
+Assinado por: Lucas AndraXXXX
 
 Tipo do Documento: Documentos
 
 Situação: Finalizado
 
-Nível de Acesso: Restrito
+Nível XXXX Acesso: Restrito
 
 Hipótese Legal: Informação Pessoal (Art. 31 da Lei no 12.527/2011)
 
@@ -2163,9 +2163,9 @@ Tipo do Conferência: Cópia Simples
 
 Documento assinado eletronicamente por:
 
-Lucas Manoel Andrade, TECNICO EM ASSUNTOS EDUCACIONAIS, em 17/04/2024 13:54:13.
+Lucas Manoel AndraXXXX, TECNICO EM ASSUNTOS EDUCACIONAIS, em 17/04/2024 13:54:13.
 
-Este  documento  foi  armazenado  no  SUAP  em  17/04/2024.  Para  comprovar  sua  integridade,  faça  a  leitura  do  QRCode  ao  lado  ou  acesse
+Este  documento  foi  armazenado  no  SUAP  em  17/04/2024.  Para  comprovar  sua  integridaXXXX,  faça  a  leitura  do  QRCoXXXX  ao  lado  ou  acesse
 
 https://suap.ifg.edu.br/verificar-documento-externo/ e forneça os dados abaixo:
 
@@ -2173,36 +2173,36 @@ Código Verificador:
 
 566689
 
-Código de Autenticação:
+Código XXXX Autenticação:
 
 42a96c37e5
 
-Página 1 de 1
+Página 1 XXXX 1
 
 CONTROLADORIA-GERAL DA UNIÃO
 
 Certidão negativa correcional - Agentes Públicos (ePAD e CGU-PAD)
 
-Consultado: XXXX XXXX XXXX
+Consultado: XXXX XXXX
 
 CPF/CNPJ: 027.902.311-17
 
-Certifica-se que, em consulta aos sistemas ePAD e CGU-PAD, NÃO CONSTAM registros de 
-penalidades vigentes relativas ao CPF consultado.
+Certifica-se que, em consulta aos sistemas ePAD e CGU-PAD, NÃO CONSTAM registros XXXX 
+penalidaXXXXs vigentes relativas ao CPF consultado.
 
-Destaca-se que, nos termos da legislação vigente, os sistemas ePAD e CGU-PAD consolidam informações prestadas pelas 
-unidades do Poder Executivo federal supervisionadas pela Controladoria-Geral da União, e não substituem as informações 
+XXXXstaca-se que, nos termos da legislação vigente, os sistemas ePAD e CGU-PAD consolidam informações prestadas pelas 
+unidaXXXXs do PoXXXXr Executivo feXXXXral supervisionadas pela Controladoria-Geral da União, e não substituem as informações 
 constantes dos assentamentos funcionais.
 
-O Sistema de Gestão de Processos Disciplinares (CGU-PAD) e o Sistema ePAD consolidam informações sobre os 
-procedimentos disciplinares no âmbito dos órgãos, entidades, empresas públicas e sociedades de economia mista do Poder 
-Executivo Federal.
+O Sistema XXXX Gestão XXXX Processos Disciplinares (CGU-PAD) e o Sistema ePAD consolidam informações sobre os 
+procedimentos disciplinares no âmbito dos órgãos, entidaXXXXs, empresas públicas e sociedaXXXXs XXXX economia mista do PoXXXXr 
+Executivo FeXXXXral.
 
-Certidão emitida às 14:23:24 do dia 16/04/2024 , com validade até o dia 16/05/2024.
+Certidão emitida às 14:23:24 do dia 16/04/2024 , com validaXXXX até o dia 16/05/2024.
 
 Link para consulta da verificação da certidão https://certidoes.cgu.gov.br/
 
-Código de controle da certidão: YYVYnELsftyuIRWimqfw
+Código XXXX controle da certidão: YYVYnELsftyuIRWimqfw
 
 Qualquer rasura ou emenda invalidará este documento.
 
@@ -2211,21 +2211,21 @@ Qualquer rasura ou emenda invalidará este documento.
  
  
  
-Cópia de documento digital impresso por Bruna Frazao (1971392) em 24/09/2024 12:33.
+Cópia XXXX documento digital impresso por Bruna Frazao (1971392) em 24/09/2024 12:33.
 
 Documento Digitalizado Restrito
 
-Declaração Unidade Correicional
+XXXXclaração UnidaXXXX Correicional
 
-Assunto: Declaração Unidade Correicional
+Assunto: XXXXclaração UnidaXXXX Correicional
 
-Assinado por: Lucas Andrade
+Assinado por: Lucas AndraXXXX
 
-Tipo do Documento: Declaração
+Tipo do Documento: XXXXclaração
 
 Situação: Finalizado
 
-Nível de Acesso: Restrito
+Nível XXXX Acesso: Restrito
 
 Hipótese Legal: Informação Pessoal (Art. 31 da Lei no 12.527/2011)
 
@@ -2233,9 +2233,9 @@ Tipo do Conferência: Cópia Simples
 
 Documento assinado eletronicamente por:
 
-Lucas Manoel Andrade, TECNICO EM ASSUNTOS EDUCACIONAIS, em 17/04/2024 13:57:27.
+Lucas Manoel AndraXXXX, TECNICO EM ASSUNTOS EDUCACIONAIS, em 17/04/2024 13:57:27.
 
-Este  documento  foi  armazenado  no  SUAP  em  17/04/2024.  Para  comprovar  sua  integridade,  faça  a  leitura  do  QRCode  ao  lado  ou  acesse
+Este  documento  foi  armazenado  no  SUAP  em  17/04/2024.  Para  comprovar  sua  integridaXXXX,  faça  a  leitura  do  QRCoXXXX  ao  lado  ou  acesse
 
 https://suap.ifg.edu.br/verificar-documento-externo/ e forneça os dados abaixo:
 
@@ -2243,11 +2243,11 @@ Código Verificador:
 
 566692
 
-Código de Autenticação:
+Código XXXX Autenticação:
 
 f2e5bc2855
 
-Página 1 de 1
+Página 1 XXXX 1
 
  __ SIAPE,ADMINIST,VAGABASE,ADVAGACAR,ADCOVAGA ( CONSULTA DADOS DA VAGA )______
  DATA: 17ABR2024    HORA: 13:51:18    USUARIO: LUCAS                   PRODUCAO
@@ -2258,21 +2258,21 @@ Página 1 de 1
 
  ORGAO ANTERIOR  : 15000            MINISTERIO DA EDUCACAO
 
- ORGAO ATUAL     : 26429            INSTITUTO FEDERAL DE GOIAS
- UORG            : 000.000.024      DIRECAO GERAL CAMPUS CIDADE DE GOIAS
+ ORGAO ATUAL     : 26429            INSTITUTO FEXXXXRAL XXXX GOIAS
+ UORG            : 000.000.024      DIRECAO GERAL CAMPUS CIDAXXXX XXXX GOIAS
  DISTRIBUICAO    : 27ABR2017
 
- GRUPO/CARGO     : 701.409  C 405   AUXILIAR DE BIBLIOTECA
+ GRUPO/CARGO     : 701.409  C 405   AUXILIAR XXXX BIBLIOTECA
  ORIGEM DA VAGA  : 13               POSSE EM OUTRO CARGO INACUMULAVEL
  DL ORIGEM - COD : 04               PORTARIA
       DATA / NUM :            270
 
- OCUPANTE ATUAL  :            XXXX XXXX XXXX
- DATA DE OCUPACAO: 22MAI2017
+ OCUPANTE ATUAL  :            XXXX XXXX
+ DATA XXXX OCUPACAO: 22MAI2017
 
- HISTORICO :  VAGA CRIADA PARA ATENDER O DISPOSTO NO ART. 1, INCISO III,
+ HISTORICO :  VAGA CRIADA PARA ATENXXXXR O DISPOSTO NO ART. 1, INCISO III,
 
-              LEI 12.677 DE 25/06/12
+              LEI 12.677 XXXX 25/06/12
 
              MATR./NOME OCUPANTE        DATA  DA        DATA   D
              ANTERIOR                   OCUPACAO        LIBERACA
@@ -2282,29 +2282,29 @@ Página 1 de 1
 
                  **  F I N A L     D O     R E L A T O R I O  **
 
-Cópia de documento digital impresso por Bruna Frazao (1971392) em 24/09/2024 12:33.
+Cópia XXXX documento digital impresso por Bruna Frazao (1971392) em 24/09/2024 12:33.
 
 Documento Digitalizado Público
 
-Consulta Código de Vaga
+Consulta Código XXXX Vaga
 
-Assunto: Consulta Código de Vaga
+Assunto: Consulta Código XXXX Vaga
 
-Assinado por: Lucas Andrade
+Assinado por: Lucas AndraXXXX
 
 Tipo do Documento: Relatório
 
 Situação: Finalizado
 
-Nível de Acesso: Público
+Nível XXXX Acesso: Público
 
 Tipo do Conferência: Cópia Simples
 
 Documento assinado eletronicamente por:
 
-Lucas Manoel Andrade, TECNICO EM ASSUNTOS EDUCACIONAIS, em 17/04/2024 13:58:23.
+Lucas Manoel AndraXXXX, TECNICO EM ASSUNTOS EDUCACIONAIS, em 17/04/2024 13:58:23.
 
-Este  documento  foi  armazenado  no  SUAP  em  17/04/2024.  Para  comprovar  sua  integridade,  faça  a  leitura  do  QRCode  ao  lado  ou  acesse
+Este  documento  foi  armazenado  no  SUAP  em  17/04/2024.  Para  comprovar  sua  integridaXXXX,  faça  a  leitura  do  QRCoXXXX  ao  lado  ou  acesse
 
 https://suap.ifg.edu.br/verificar-documento-externo/ e forneça os dados abaixo:
 
@@ -2312,29 +2312,29 @@ Código Verificador:
 
 566694
 
-Código de Autenticação:
+Código XXXX Autenticação:
 
 bdf8dd520d
 
-Página 1 de 1
+Página 1 XXXX 1
 
 MINISTÉRIO DA EDUCAÇÃO
 MINISTÉRIO DA EDUCAÇÃO
-SECRETARIA DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
-SECRETARIA DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
-INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE GOIÁS
-INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE GOIÁS
-CÂMPUS CIDADE DE GOIÁS
-CÂMPUS CIDADE DE GOIÁS
+SECRETARIA XXXX EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
+SECRETARIA XXXX EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
+INSTITUTO FEXXXXRAL XXXX EDUCAÇÃO, CIÊNCIA E TECNOLOGIA XXXX GOIÁS
+INSTITUTO FEXXXXRAL XXXX EDUCAÇÃO, CIÊNCIA E TECNOLOGIA XXXX GOIÁS
+CÂMPUS CIDAXXXX XXXX GOIÁS
+CÂMPUS CIDAXXXX XXXX GOIÁS
 
-FORMULÁRIO DE NADA CONSTA/PENDÊNCIAS ADMINISTRATIVAS
-FORMULÁRIO DE NADA CONSTA/PENDÊNCIAS ADMINISTRATIVAS
+FORMULÁRIO XXXX NADA CONSTA/PENDÊNCIAS ADMINISTRATIVAS
+FORMULÁRIO XXXX NADA CONSTA/PENDÊNCIAS ADMINISTRATIVAS
 
 PARA SERVIDOR LOTADO NO CÂMPUS
 
 SERVIDOR:
 
-XXXX XXXX XXXX
+XXXX XXXX
 
 SIAPE:
 
@@ -2342,7 +2342,7 @@ SIAPE:
 
 CARGO:
 
-Auxiliar de Biblioteca
+Auxiliar XXXX Biblioteca
 
 CPF:
 
@@ -2350,17 +2350,17 @@ CPF:
 
 LOTAÇÃO:
 
-Coordenação de Aquisições e Contratos
+CoorXXXXnação XXXX Aquisições e Contratos
 
-DATA: data de assinatura do documento
+DATA: data XXXX assinatura do documento
 
 (assinado eletronicamente)
-XXXX XXXX XXXX
+XXXX XXXX
 
-CHEFIA DE GABINETE
-CHEFIA DE GABINETE
+CHEFIA XXXX GABINETE
+CHEFIA XXXX GABINETE
 
-Informamos que o servidor não possui débitos referentes a prestação de contas de diárias e passagens emitidas pelo
+Informamos que o servidor não possui débitos referentes a prestação XXXX contas XXXX diárias e passagens emitidas pelo
 Câmpus.
 
 DATA: data da assinatura do documento
@@ -2368,20 +2368,20 @@ DATA: data da assinatura do documento
 (assinado eletronicamente)
 RUSLANA TAVARES ALVES
 
-COORDENAÇÃO DE ALMOXARIFADO E PATRIMÔNIO
-COORDENAÇÃO DE ALMOXARIFADO E PATRIMÔNIO
+COORXXXXNAÇÃO XXXX ALMOXARIFADO E PATRIMÔNIO
+COORXXXXNAÇÃO XXXX ALMOXARIFADO E PATRIMÔNIO
 
-Informamos que o servidor não possui chaves ou carga patrimonial sob sua responsabilidade.
+Informamos que o servidor não possui chaves ou carga patrimonial sob sua responsabilidaXXXX.
 
 DATA: data da assinatura do documento
 
 (assinado eletronicamente)
 THIAGO FERRAZ DO NASCIMENTO
 
-GERÊNCIA DE ADMINISTRAÇÃO
-GERÊNCIA DE ADMINISTRAÇÃO
+GERÊNCIA XXXX ADMINISTRAÇÃO
+GERÊNCIA XXXX ADMINISTRAÇÃO
 
-Informamos que o servidor não possui débitos referentes à prestação de contas pela utilização de recursos de programas do
+Informamos que o servidor não possui débitos referentes à prestação XXXX contas pela utilização XXXX recursos XXXX programas do
 câmpus.
 
 DATA: data da assinatura do documento
@@ -2389,36 +2389,36 @@ DATA: data da assinatura do documento
 (assinado eletronicamente)
 PAULO HENRIQUE PEREIRA FREITAS
 
-GERÊNCIA DE PESQUISA, PÓS-GRADUAÇÃO E EXTENSÃO
-GERÊNCIA DE PESQUISA, PÓS-GRADUAÇÃO E EXTENSÃO
+GERÊNCIA XXXX PESQUISA, PÓS-GRADUAÇÃO E EXTENSÃO
+GERÊNCIA XXXX PESQUISA, PÓS-GRADUAÇÃO E EXTENSÃO
 
-Informamos que o servidor não possui débitos referentes a prestação de contas nos programas geridos pela GEPPEX.
+Informamos que o servidor não possui débitos referentes a prestação XXXX contas nos programas geridos pela GEPPEX.
 
 DATA: data da assinatura do documento
 
 (assinado eletronicamente)
 FABRICIO CARDOSO DA SILVA
 
-COORDENAÇÃO DE BIBLIOTECA
-COORDENAÇÃO DE BIBLIOTECA
+COORXXXXNAÇÃO XXXX BIBLIOTECA
+COORXXXXNAÇÃO XXXX BIBLIOTECA
 
-Informamos que o servidor não possui itens do acervo e multas sob sua responsabilidade.
+Informamos que o servidor não possui itens do acervo e multas sob sua responsabilidaXXXX.
 
 DATA: data da assinatura do documento
 
 (assinado eletronicamente)
 FLÁVIA LOPES SCHMIDT
 
-COORDENAÇÃO DE RECURSOS HUMANOS E ASSISTÊNCIA AO SERVIDOR
-COORDENAÇÃO DE RECURSOS HUMANOS E ASSISTÊNCIA AO SERVIDOR
+COORXXXXNAÇÃO XXXX RECURSOS HUMANOS E ASSISTÊNCIA AO SERVIDOR
+COORXXXXNAÇÃO XXXX RECURSOS HUMANOS E ASSISTÊNCIA AO SERVIDOR
 
-Informamos que o servidor não possui pendências em seu assentamento funcional referentes a prestação de contas de
+Informamos que o servidor não possui pendências em seu assentamento funcional referentes a prestação XXXX contas XXXX
 auxílios, benefícios, licenças e afastamentos.
 
 DATA: data da assinatura do documento
 
 (assinado eletronicamente)
-LUCAS MANOEL ANDRADE
+LUCAS MANOEL ANDRAXXXX
 
 CHEFIA IMEDIATA DO SERVIDOR
 CHEFIA IMEDIATA DO SERVIDOR
@@ -2436,193 +2436,193 @@ Documento assinado eletronicamente por:
 
 GERENTE - CD4 - GOI-GA, em 17/04/2024 11:35:12.
 
-CHEFE DE GABINETE - FG1 - GOI-CG, em 17/04/2024 09:33:20.
-COORDENADOR(A) - FG2 - GOI-CRHAS, em 17/04/2024 09:25:23.
+CHEFE XXXX GABINETE - FG1 - GOI-CG, em 17/04/2024 09:33:20.
+COORXXXXNADOR(A) - FG2 - GOI-CRHAS, em 17/04/2024 09:25:23.
 
 Paulo Henrique Pereira Freitas
 Paulo Henrique Pereira Freitas , GERENTE - CD4 - GOI-GA
-Ruslana Tavares Alves, CHEFE DE GABINETE - FG1 - GOI-CG
+Ruslana Tavares Alves, CHEFE XXXX GABINETE - FG1 - GOI-CG
 Ruslana Tavares Alves
-Lucas Manoel Andrade
-Lucas Manoel Andrade, COORDENADOR(A) - FG2 - GOI-CRHAS
+Lucas Manoel AndraXXXX
+Lucas Manoel AndraXXXX, COORXXXXNADOR(A) - FG2 - GOI-CRHAS
 Fabricio Cardoso da Silva
 Fabricio Cardoso da Silva, GERENTE - CD4 - GOI-GPPGE
 Flavia Lopes Schmidt
 Flavia Lopes Schmidt, BIBLIOTECARIO-DOCUMENTALISTA
 Thiago Ferraz do Nascimento
-Thiago Ferraz do Nascimento, COORDENADOR(A) - FG2 - GOI-CAP
-XXXX XXXX XXXX, AUXILIAR DE BIBLIOTECA
-XXXX XXXX XXXX
+Thiago Ferraz do Nascimento, COORXXXXNADOR(A) - FG2 - GOI-CAP
+XXXX XXXX, AUXILIAR XXXX BIBLIOTECA
+XXXX XXXX
 
 GERENTE - CD4 - GOI-GPPGE, em 17/04/2024 09:11:16.
 BIBLIOTECARIO-DOCUMENTALISTA, em 16/04/2024 15:44:55.
 
-AUXILIAR DE BIBLIOTECA, em 16/04/2024 12:41:49.
+AUXILIAR XXXX BIBLIOTECA, em 16/04/2024 12:41:49.
 
-COORDENADOR(A) - FG2 - GOI-CAP, em 16/04/2024 14:10:10.
+COORXXXXNADOR(A) - FG2 - GOI-CAP, em 16/04/2024 14:10:10.
 
-Este  documento  foi  emi(cid:80)do  pelo  SUAP  em  16/04/2024.  Para  comprovar  sua  auten(cid:80)cidade,  faça  a  leitura  do  QRCode  ao  lado  ou  acesse
+Este  documento  foi  emi(cid:80)do  pelo  SUAP  em  16/04/2024.  Para  comprovar  sua  auten(cid:80)cidaXXXX,  faça  a  leitura  do  QRCoXXXX  ao  lado  ou  acesse
 https://suap.ifg.edu.br/autenticar-documento/ e forneça os dados abaixo:
 
 Código Verificador:
-Código de Autenticação:
+Código XXXX Autenticação:
 
 527722
 
 2a330dc9a5
 
-Instituto Federal de Educação, Ciência e Tecnologia de Goiás
-Instituto Federal de Educação, Ciência e Tecnologia de Goiás
+Instituto FeXXXXral XXXX Educação, Ciência e Tecnologia XXXX Goiás
+Instituto FeXXXXral XXXX Educação, Ciência e Tecnologia XXXX Goiás
 
-Rua 02, Quadra 10, Lote 01 a 15, Residencial Bauman, None, Centro, CIDADE DE GOIÁS / GO, CEP 76600-000
+Rua 02, Quadra 10, Lote 01 a 15, ResiXXXXncial Bauman, None, Centro, CIDAXXXX XXXX GOIÁS / GO, CEP 76600-000
 (62) 3442-0217 (ramal: 0217)
 
 MINISTÉRIO DA EDUCAÇÃO
 MINISTÉRIO DA EDUCAÇÃO
-SECRETARIA DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
-SECRETARIA DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
-INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE GOIÁS
-INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE GOIÁS
-CÂMPUS CIDADE DE GOIÁS
-CÂMPUS CIDADE DE GOIÁS
+SECRETARIA XXXX EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
+SECRETARIA XXXX EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
+INSTITUTO FEXXXXRAL XXXX EDUCAÇÃO, CIÊNCIA E TECNOLOGIA XXXX GOIÁS
+INSTITUTO FEXXXXRAL XXXX EDUCAÇÃO, CIÊNCIA E TECNOLOGIA XXXX GOIÁS
+CÂMPUS CIDAXXXX XXXX GOIÁS
+CÂMPUS CIDAXXXX XXXX GOIÁS
 
 PARECER 9/2024 - GOI-CG/CP-GOIAS/IFG
 
 Processo:
 23372.000786/2024-18
 Processo: 23372.000786/2024-18
-XXXX XXXX XXXX
-Interessado: : XXXX XXXX XXXX
+XXXX XXXX
+Interessado: : XXXX XXXX
 Interessado:
 Redistribuição
 Assunto: Redistribuição
 Assunto:
 
-Trata  o  presente  processo  de  solicitação  de  redistribuição  da  servidora XXXX  XXXX  XXXX,
-ocupante do cargo de Auxiliar de Biblioteca, matrícula SIAPE nº  , lotada no Câmpus Cidade de Goiás do
-Ins(cid:68)tuto Federal de Educação, Ciência e Tecnologia de Goiás - IFG para o Câmpus Urutaí do Ins(cid:68)tuto Federal
+Trata  o  presente  processo  XXXX  solicitação  XXXX  redistribuição  da  servidora XXXX  XXXX  XXXX,
+ocupante do cargo XXXX Auxiliar XXXX Biblioteca, matrícula SIAPE nº  , lotada no Câmpus CidaXXXX XXXX Goiás do
+Ins(cid:68)tuto FeXXXXral XXXX Educação, Ciência e Tecnologia XXXX Goiás - IFG para o Câmpus Urutaí do Ins(cid:68)tuto FeXXXXral
 Goiano - IFGOIANO.
 
-Vale ressaltar que, conforme consta no processo, a contrapar(cid:68)da ofertada pelo Ins(cid:68)tuto Federal
-Goiano  é  o  código  de  vaga  nº 0830381, de  mesmo  nível, do  cargo de Assistente  de Aluno,  conforme  OFÍCIO
-158/2024 - DGAB-REI/IFGOIANO, de 20 de março de 2024.
+Vale ressaltar que, conforme consta no processo, a contrapar(cid:68)da ofertada pelo Ins(cid:68)tuto FeXXXXral
+Goiano  é  o  código  XXXX  vaga  nº 0830381, XXXX  mesmo  nível, do  cargo XXXX Assistente  XXXX Aluno,  conforme  OFÍCIO
+158/2024 - DGAB-REI/IFGOIANO, XXXX 20 XXXX março XXXX 2024.
 
-Em  atendimento  às  disposições  da  PORTARIA  SEGRT/MGI  Nº  619  de  9/3/2023,  o  IFG  aﬁrma  o
-interesse da Administração na referida redistribuição. Isto porque, considerando que a contrapar(cid:68)da ofertada
-pelo IFGOIANO é um código de vaga do mesmo nível de escolaridade e mesmo nível de classiﬁcação, o câmpus
-terá condições de renovar e dinamizar a sua força de trabalho, por meio de provimento do cargo de Assistente
-de Aluno que contribuirá para o atendimento das demandas acadêmicas e não acarretará prejuízos à unidade.
+Em  atendimento  às  disposições  da  PORTARIA  SEGRT/MGI  Nº  619  XXXX  9/3/2023,  o  IFG  aﬁrma  o
+interesse da Administração na referida redistribuição. Isto porque, consiXXXXrando que a contrapar(cid:68)da ofertada
+pelo IFGOIANO é um código XXXX vaga do mesmo nível XXXX escolaridaXXXX e mesmo nível XXXX classiﬁcação, o câmpus
+terá condições XXXX renovar e dinamizar a sua força XXXX trabalho, por meio XXXX provimento do cargo XXXX Assistente
+XXXX Aluno que contribuirá para o atendimento das XXXXmandas acadêmicas e não acarretará prejuízos à unidaXXXX.
 
-Desta maneira, considerando os documentos apensados aos autos, esta Diretoria-Geral manifesta-
+XXXXsta maneira, consiXXXXrando os documentos apensados aos autos, esta Diretoria-Geral manifesta-
 s e favorável  à  Redistribuição
-favorável  à  Redistribuição  para  o  Ins(cid:68)tuto  Federal  Goiano  -  Câmpus  Urutaí,  da  servidora XXXX  XXXX
-XXXX, ocupante do cargo de Auxiliar de Biblioteca, matrícula no SIAPE nº 2342634, lotada no Câmpus Cidade
-de Goiás, do Instituto Federal de Educação, Ciência e Tecnologia de Goiás.
+favorável  à  Redistribuição  para  o  Ins(cid:68)tuto  FeXXXXral  Goiano  -  Câmpus  Urutaí,  da  servidora XXXX  XXXX
+XXXX, ocupante do cargo XXXX Auxiliar XXXX Biblioteca, matrícula no SIAPE nº 2342634, lotada no Câmpus CidaXXXX
+XXXX Goiás, do Instituto FeXXXXral XXXX Educação, Ciência e Tecnologia XXXX Goiás.
 
 Ante  o  exposto,  encaminhamos  o  presente  para  os  trâmites  necessários  para  a  formalização  da
 
 referida redistribuição da servidora.
 
-SANDRO RAMOS DE LIMA
+SANDRO RAMOS XXXX LIMA
 Diretor-Geral
 
 Documento assinado eletronicamente por:
 
-Sandro Ramos de Lima, DIRETOR(A) GERAL - CD2 - CP-GOIAS
-Sandro Ramos de Lima
+Sandro Ramos XXXX Lima, DIRETOR(A) GERAL - CD2 - CP-GOIAS
+Sandro Ramos XXXX Lima
 
 DIRETOR(A) GERAL - CD2 - CP-GOIAS , em 18/04/2024 10:06:47.
 
-Este  documento  foi  emi(cid:68)do  pelo  SUAP  em  16/04/2024.  Para  comprovar  sua  auten(cid:68)cidade,  faça  a  leitura  do  QRCode  ao  lado  ou  acesse
+Este  documento  foi  emi(cid:68)do  pelo  SUAP  em  16/04/2024.  Para  comprovar  sua  auten(cid:68)cidaXXXX,  faça  a  leitura  do  QRCoXXXX  ao  lado  ou  acesse
 https://suap.ifg.edu.br/autenticar-documento/ e forneça os dados abaixo:
 
 Código Verificador:
-Código de Autenticação:
+Código XXXX Autenticação:
 
 527665
 
 e0b0ac1946
 
-Instituto Federal de Educação, Ciência e Tecnologia de Goiás
-Instituto Federal de Educação, Ciência e Tecnologia de Goiás
-Rua 02, Quadra 10, Lote 01 a 15, Residencial Bauman, None, Centro, CIDADE DE GOIÁS / GO, CEP 76600-000
+Instituto FeXXXXral XXXX Educação, Ciência e Tecnologia XXXX Goiás
+Instituto FeXXXXral XXXX Educação, Ciência e Tecnologia XXXX Goiás
+Rua 02, Quadra 10, Lote 01 a 15, ResiXXXXncial Bauman, None, Centro, CIDAXXXX XXXX GOIÁS / GO, CEP 76600-000
 (62) 3442-0206 (ramal: 0206)
 
-Cópia de despacho #395600 digital impresso por Bruna Frazao (1971392) em 24/09/2024 12:33.
+Cópia XXXX XXXXspacho #395600 digital impresso por Bruna Frazao (1971392) em 24/09/2024 12:33.
 
 MINISTÉRIO DA EDUCAÇÃO
-SECRETARIA DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
-INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE GOIÁS
-CÂMPUS CIDADE DE GOIÁS
-GOI-CHEFIA DE GABINETE - GOI-CG
+SECRETARIA XXXX EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
+INSTITUTO FEXXXXRAL XXXX EDUCAÇÃO, CIÊNCIA E TECNOLOGIA XXXX GOIÁS
+CÂMPUS CIDAXXXX XXXX GOIÁS
+GOI-CHEFIA XXXX GABINETE - GOI-CG
 
-Despacho:
-Despacho:
+XXXXspacho:
+XXXXspacho:
 
 Encaminhamos o presente para os trâmites necessários para a formalização da referida redistribuição da servidora.
 
-Despacho assinado eletronicamente por:
+XXXXspacho assinado eletronicamente por:
 
-Ruslana Tavares Alves, CHEFE DE GABINETE - FG1 - GOI-CG, GOI-CG, em 18/04/2024 11:39:06.
+Ruslana Tavares Alves, CHEFE XXXX GABINETE - FG1 - GOI-CG, GOI-CG, em 18/04/2024 11:39:06.
 
-Instituto Federal de Educação, Ciência e Tecnologia de Goiás - CÂMPUS CIDADE DE GOIÁS
-Rua 02, Quadra 10, Lote 01 a 15, Residencial Bauman, None, Centro, CIDADE DE GOIÁS / GO, CEP 76600-000
+Instituto FeXXXXral XXXX Educação, Ciência e Tecnologia XXXX Goiás - CÂMPUS CIDAXXXX XXXX GOIÁS
+Rua 02, Quadra 10, Lote 01 a 15, ResiXXXXncial Bauman, None, Centro, CIDAXXXX XXXX GOIÁS / GO, CEP 76600-000
 (62) 3442-0206 (ramal: 0206)
 
 MINISTÉRIO DA EDUCAÇÃO
 MINISTÉRIO DA EDUCAÇÃO
-SECRETARIA DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
-SECRETARIA DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
-INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE GOIÁS
-INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE GOIÁS
+SECRETARIA XXXX EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
+SECRETARIA XXXX EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
+INSTITUTO FEXXXXRAL XXXX EDUCAÇÃO, CIÊNCIA E TECNOLOGIA XXXX GOIÁS
+INSTITUTO FEXXXXRAL XXXX EDUCAÇÃO, CIÊNCIA E TECNOLOGIA XXXX GOIÁS
 REITORIA
 REITORIA
 
-DECLARAÇÃO
+XXXXCLARAÇÃO
 
-Declaramos,  para  os  devidos  fins,  que XXXX XXXX XXXX,  matrícula  SIAPE  ,  ocupante  do  cargo  de
+XXXXclaramos,  para  os  XXXXvidos  fins,  que XXXX XXXX,  matrícula  SIAPE  ,  ocupante  do  cargo  XXXX
 
-Auxiliar de Biblioteca, lotada no Câmpus Cidade de Goiás do Instituto Federal de Educação, Ciência e Tecnologia
+Auxiliar XXXX Biblioteca, lotada no Câmpus CidaXXXX XXXX Goiás do Instituto FeXXXXral XXXX Educação, Ciência e Tecnologia
 
-de Goiás, não se encontra em gozo de licença ou afastamento na presente data e não foi redistribuída nos últimos
+XXXX Goiás, não se encontra em gozo XXXX licença ou afastamento na presente data e não foi redistribuída nos últimos
 três  anos. A  movimentação  pretendida  no  processo  SUAP  nº 23372.000786/2024-18, não  acarretará  impacto  no
 
-Quadro de Referência dos Servidores da Carreira de TAE (QRSTAE), em razão do IFG estar dentro dos limites de
+Quadro XXXX Referência dos Servidores da Carreira XXXX TAE (QRSTAE), em razão do IFG estar XXXXntro dos limites XXXX
 
-dimensionamento de força de trabalho estabelecido na Portaria MEC nº 713/2021.
+dimensionamento XXXX força XXXX trabalho estabelecido na Portaria MEC nº 713/2021.
 
-Declaramos,  ainda,  que  o  IFG  não  possui  concurso  público  vigente  com  cadastro  reserva  para  os  cargos  de
-Auxiliar de Biblioteca e nem de Assistente de Alunos.
+XXXXclaramos,  ainda,  que  o  IFG  não  possui  concurso  público  vigente  com  cadastro  reserva  para  os  cargos  XXXX
+Auxiliar XXXX Biblioteca e nem XXXX Assistente XXXX Alunos.
 
-Por ser expressão da verdade, firmo a presente declaração para que surta seus efeitos legais.
+Por ser expressão da verdaXXXX, firmo a presente XXXXclaração para que surta seus efeitos legais.
 
-Goiânia, 18 de abril de 2024.
+Goiânia, 18 XXXX abril XXXX 2024.
 
 (assinado eletronicamente)
 
-Bruna Borges Frazão Mendes
-Diretora de Desenvolvimento de Recursos Humanos em Substituição
-​Portaria nº 2310 - REITORIA/IFG, de 05 de setembro de 2022
+Bruna Borges Frazão MenXXXXs
+Diretora XXXX XXXXsenvolvimento XXXX Recursos Humanos em Substituição
+​Portaria nº 2310 - REITORIA/IFG, XXXX 05 XXXX setembro XXXX 2022
 
 Documento assinado eletronicamente por:
 
-Bruna Borges Frazao Mendes, DIRETOR(A) - SUB-CHEFIA - REI-PRODI
-Bruna Borges Frazao Mendes
+Bruna Borges Frazao MenXXXXs, DIRETOR(A) - SUB-CHEFIA - REI-PRODI
+Bruna Borges Frazao MenXXXXs
 
 DIRETOR(A) - SUB-CHEFIA - REI-PRODI, em 18/04/2024 12:59:20.
 
-Este  documento  foi  emi(cid:61)do  pelo  SUAP  em  18/04/2024.  Para  comprovar  sua  auten(cid:61)cidade,  faça  a  leitura  do  QRCode  ao  lado  ou  acesse
+Este  documento  foi  emi(cid:61)do  pelo  SUAP  em  18/04/2024.  Para  comprovar  sua  auten(cid:61)cidaXXXX,  faça  a  leitura  do  QRCoXXXX  ao  lado  ou  acesse
 https://suap.ifg.edu.br/autenticar-documento/ e forneça os dados abaixo:
 
 Código Verificador:
-Código de Autenticação:
+Código XXXX Autenticação:
 
 528204
 
 37ff38cd55
 
-Instituto Federal de Educação, Ciência e Tecnologia de Goiás
-Instituto Federal de Educação, Ciência e Tecnologia de Goiás
+Instituto FeXXXXral XXXX Educação, Ciência e Tecnologia XXXX Goiás
+Instituto FeXXXXral XXXX Educação, Ciência e Tecnologia XXXX Goiás
 Rua C-198, Quadra 500, None, Jardim América, GOIÂNIA / GO, CEP 74270-040
 (62) 3612-2246 (ramal: 2246)
 
@@ -2633,38 +2633,38 @@ Rua C-198, Quadra 500, None, Jardim América, GOIÂNIA / GO, CEP 74270-040
 ​
 MINISTÉRIO DA EDUCAÇÃO
 MINISTÉRIO DA EDUCAÇÃO
-SECRETARIA DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
-SECRETARIA DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
-INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE GOIÁS
-INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE GOIÁS
+SECRETARIA XXXX EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
+SECRETARIA XXXX EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
+INSTITUTO FEXXXXRAL XXXX EDUCAÇÃO, CIÊNCIA E TECNOLOGIA XXXX GOIÁS
+INSTITUTO FEXXXXRAL XXXX EDUCAÇÃO, CIÊNCIA E TECNOLOGIA XXXX GOIÁS
 REITORIA
 REITORIA
 
-DESPACHO 559/2024 - REI-CGP/REI-DDRH/REI-PRODI/REITORIA/IFG
-DESPACHO 559/2024 - REI-CGP/REI-DDRH/REI-PRODI/REITORIA/IFG
+XXXXSPACHO 559/2024 - REI-CGP/REI-DDRH/REI-PRODI/REITORIA/IFG
+XXXXSPACHO 559/2024 - REI-CGP/REI-DDRH/REI-PRODI/REITORIA/IFG
 
-DESPACHO ADMINISTRATIVO
-DESPACHO ADMINISTRATIVO
+XXXXSPACHO ADMINISTRATIVO
+XXXXSPACHO ADMINISTRATIVO
 
 Processo eletrônico n° 23372.000786/2024-18
 
-Interessado: Instituto Federal de Educação, Ciência e Tecnologia Goiano - IFGOIANO
+Interessado: Instituto FeXXXXral XXXX Educação, Ciência e Tecnologia Goiano - IFGOIANO
 
-Assunto: Redistribuição de XXXX XXXX XXXX
+Assunto: Redistribuição XXXX XXXX XXXX
 
-Goiânia, 18 de abril de 2024.
+Goiânia, 18 XXXX abril XXXX 2024.
 
-Trata o presente processo de solicitação de redistribuição do servidor XXXX XXXX XXXX, ocupante do cargo
+Trata o presente processo XXXX solicitação XXXX redistribuição do servidor XXXX XXXX, ocupante do cargo
 
-de Auxiliar de Biblioteca, matrícula SIAPE nº  , lotada no Câmpus Cidade de Goiás do Instituto Federal de
+XXXX Auxiliar XXXX Biblioteca, matrícula SIAPE nº  , lotada no Câmpus CidaXXXX XXXX Goiás do Instituto FeXXXXral XXXX
 
-Educação, Ciência e Tecnologia de Goiás - IFG para o Câmpus Urutaí do Instituto Federal de Educação, Ciência e
+Educação, Ciência e Tecnologia XXXX Goiás - IFG para o Câmpus Urutaí do Instituto FeXXXXral XXXX Educação, Ciência e
 
 Tecnologia Goiano - IFGOIANO.
 
-A solicitação de redistribuição da servidora está sendo feita mediante a oferta, como contrapartida, do código de
+A solicitação XXXX redistribuição da servidora está sendo feita mediante a oferta, como contrapartida, do código XXXX
 
-vaga nº 0830381 de mesmo nível, do cargo de Assistente de Aluno.
+vaga nº 0830381 XXXX mesmo nível, do cargo XXXX Assistente XXXX Aluno.
 
 Em  atenção  aos  requisitos  da Portaria SEGRT/MGI/ Nº619/2023 e  da  Nota  Técnica  nº  63/2023/GAB/SGA/SGA,
 
@@ -2672,122 +2672,122 @@ informamos:
 
 Interesse da Administração
 
-O interesse da administração na movimentação está demonstrado no PARECER 9/2024 - GOI-CG/CP-GOIAS/IFG,
+O interesse da administração na movimentação está XXXXmonstrado no PARECER 9/2024 - GOI-CG/CP-GOIAS/IFG,
 
-já  que a contrapartida ofertada pelo IFGOIANO é um código de vaga do mesmo nível de escolaridade e mesmo
+já  que a contrapartida ofertada pelo IFGOIANO é um código XXXX vaga do mesmo nível XXXX escolaridaXXXX e mesmo
 
-nível  de  classificação,  o  câmpus  terá  condições  de  renovar  e  dinamizar  a  sua  força  de  trabalho,  por  meio  de
+nível  XXXX  classificação,  o  câmpus  terá  condições  XXXX  renovar  e  dinamizar  a  sua  força  XXXX  trabalho,  por  meio  XXXX
 
-provimento do cargo de Assistente de Aluno que contribuirá para o atendimento das demandas acadêmicas e não
+provimento do cargo XXXX Assistente XXXX Aluno que contribuirá para o atendimento das XXXXmandas acadêmicas e não
 
-acarretará prejuízos à unidade.
+acarretará prejuízos à unidaXXXX.
 
-Equivalência  de  vencimentos;  compatibilidade  entre  as  atribuições  do  cargo  e  as  finalidades
+Equivalência  XXXX  vencimentos;  compatibilidaXXXX  entre  as  atribuições  do  cargo  e  as  finalidaXXXXs
 
-institucionais do órgão ou entidade
+institucionais do órgão ou entidaXXXX
 
-Em  se  tratando  de  redistribuição  de  cargo  ocupado,  com  a  oferta,  em contrapartida,  de  código  de  vaga  livre  do
+Em  se  tratando  XXXX  redistribuição  XXXX  cargo  ocupado,  com  a  oferta,  em contrapartida,  XXXX  código  XXXX  vaga  livre  do
 
-cargo de  Assistente  de  Aluno,  podemos  afirmar  a  manutenção  da  essência  das  atribuições,  equivalência  de
+cargo XXXX  Assistente  XXXX  Aluno,  poXXXXmos  afirmar  a  manutenção  da  essência  das  atribuições,  equivalência  XXXX
 
-vencimentos e compatibilidade entre as atribuições do cargo e as finalidades institucionais do órgão ou entidade.
+vencimentos e compatibilidaXXXX entre as atribuições do cargo e as finalidaXXXXs institucionais do órgão ou entidaXXXX.
 
-Existência  de  concurso  público  em  andamento  ou  vigente  para  preenchimento  do  respectivo
+Existência  XXXX  concurso  público  em  andamento  ou  vigente  para  preenchimento  do  respectivo
 
-cargo de mesma especialidade ou área do conhecimento
+cargo XXXX mesma especialidaXXXX ou área do conhecimento
 
-O IFG não possui concurso público em andamento ou vigente para o cargo de Assistente de Aluno.
+O IFG não possui concurso público em andamento ou vigente para o cargo XXXX Assistente XXXX Aluno.
 
-Impacto no Quadro de Referência dos Servidores da Carreira de TAE (QRSTAE)
+Impacto no Quadro XXXX Referência dos Servidores da Carreira XXXX TAE (QRSTAE)
 
-Esta  redistribuição  não  acarretará  impacto  no  Quadro  de  Referência  dos  Servidores  da  Carreira  de  TAE
+Esta  redistribuição  não  acarretará  impacto  no  Quadro  XXXX  Referência  dos  Servidores  da  Carreira  XXXX  TAE
 
-(QRSTAE),  uma  vez  que  a  redistribuição  visa  a  reposição  de  vaga  ocupada  até  o  ano  de  2024  e,  considerando
+(QRSTAE),  uma  vez  que  a  redistribuição  visa  a  reposição  XXXX  vaga  ocupada  até  o  ano  XXXX  2024  e,  consiXXXXrando
 
-ainda, que o IFG está dentro dos limites de provimento, conforme dimensionamento da Portaria MEC nº 713/2021.
+ainda, que o IFG está XXXXntro dos limites XXXX provimento, conforme dimensionamento da Portaria MEC nº 713/2021.
 
-Declarações sobre a servidora XXXX XXXX XXXX
+XXXXclarações sobre a servidora XXXX XXXX
 
-A servidora XXXX XXXX XXXX é estável, não está em gozo de licença ou afastamento na presente data, não
+A servidora XXXX XXXX é estável, não está em gozo XXXX licença ou afastamento na presente data, não
 
-foi  redistribuída  nos  últimos  três  anos e  não  responde  a  sindicância  ou  processo  administrativo  disciplinar,  nem
+foi  redistribuída  nos  últimos  três  anos e  não  responXXXX  a  sindicância  ou  processo  administrativo  disciplinar,  nem
 
-está cumprindo qualquer tipo de penalidade, conforme documentos anexados aos autos.
+está cumprindo qualquer tipo XXXX penalidaXXXX, conforme documentos anexados aos autos.
 
-Atendidos os requisitos necessários,  esta Diretoria  de  Desenvolvimento  de  Recursos  Humanos afirma o interesse
+Atendidos os requisitos necessários,  esta Diretoria  XXXX  XXXXsenvolvimento  XXXX  Recursos  Humanos afirma o interesse
 
-da Administração na redistribuição em questão e sugere o deferimento do pedido.
+da Administração na redistribuição em questão e sugere o XXXXferimento do pedido.
 
-Encaminha-se este processo à Magnífica Reitora do Instituto Federal de Educação, Ciência e Tecnologia de Goiás
+Encaminha-se este processo à Magnífica Reitora do Instituto FeXXXXral XXXX Educação, Ciência e Tecnologia XXXX Goiás
 
-com  minuta  de  ofício,  para  ser  à  Coordenação  Geral  de  Gestão  de  Pessoas  do  MEC,  para  efetivação  da
+com  minuta  XXXX  ofício,  para  ser  à  CoorXXXXnação  Geral  XXXX  Gestão  XXXX  Pessoas  do  MEC,  para  efetivação  da
 
 redistribuição.
 
 (assinado eletronicamente)
 
-Bruna Borges Frazão Mendes
+Bruna Borges Frazão MenXXXXs
 
-Diretora de Desenvolvimento de Recursos Humanos em Substituição
+Diretora XXXX XXXXsenvolvimento XXXX Recursos Humanos em Substituição
 
-Portaria nº 2310 - REITORIA/IFG, de 05 de setembro de 2022
+Portaria nº 2310 - REITORIA/IFG, XXXX 05 XXXX setembro XXXX 2022
 
 Documento assinado eletronicamente por:
 
-Bruna Borges Frazao Mendes, DIRETOR(A) - SUB-CHEFIA - REI-PRODI
-Bruna Borges Frazao Mendes
+Bruna Borges Frazao MenXXXXs, DIRETOR(A) - SUB-CHEFIA - REI-PRODI
+Bruna Borges Frazao MenXXXXs
 
 DIRETOR(A) - SUB-CHEFIA - REI-PRODI, em 18/04/2024 13:02:43.
 
-Este  documento  foi  emi(cid:62)do  pelo  SUAP  em  18/04/2024.  Para  comprovar  sua  auten(cid:62)cidade,  faça  a  leitura  do  QRCode  ao  lado  ou  acesse
+Este  documento  foi  emi(cid:62)do  pelo  SUAP  em  18/04/2024.  Para  comprovar  sua  auten(cid:62)cidaXXXX,  faça  a  leitura  do  QRCoXXXX  ao  lado  ou  acesse
 https://suap.ifg.edu.br/autenticar-documento/ e forneça os dados abaixo:
 
 Código Verificador:
-Código de Autenticação:
+Código XXXX Autenticação:
 
 528205
 
 b4fe39a0d6
 
-Instituto Federal de Educação, Ciência e Tecnologia de Goiás
-Instituto Federal de Educação, Ciência e Tecnologia de Goiás
+Instituto FeXXXXral XXXX Educação, Ciência e Tecnologia XXXX Goiás
+Instituto FeXXXXral XXXX Educação, Ciência e Tecnologia XXXX Goiás
 Rua C-198, Quadra 500, None, Jardim América, GOIÂNIA / GO, CEP 74270-040
 (62) 3612-2244 (ramal: 2244), (62) 3612-2243 (ramal: 2243)
 
 MINISTÉRIO DA EDUCAÇÃO
 MINISTÉRIO DA EDUCAÇÃO
-SECRETARIA DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
-SECRETARIA DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
-INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE GOIÁS
-INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE GOIÁS
+SECRETARIA XXXX EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
+SECRETARIA XXXX EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
+INSTITUTO FEXXXXRAL XXXX EDUCAÇÃO, CIÊNCIA E TECNOLOGIA XXXX GOIÁS
+INSTITUTO FEXXXXRAL XXXX EDUCAÇÃO, CIÊNCIA E TECNOLOGIA XXXX GOIÁS
 REITORIA
 REITORIA
 
 OFÍCIO 192/2024 - REITORIA/IFG
 OFÍCIO 192/2024 - REITORIA/IFG
 
-Goiânia, 18 de abril de 2024.
+Goiânia, 18 XXXX abril XXXX 2024.
 
 À Senhora
-LAYSA DE ALMEIDA
-Coordenadora-Geral de Gestão de Pessoas do Ministério da Educação
+LAYSA XXXX ALMEIDA
+CoorXXXXnadora-Geral XXXX Gestão XXXX Pessoas do Ministério da Educação
 BRASÍLIA – DF
 
-Assunto: Redistribuição de XXXX XXXX XXXX.
+Assunto: Redistribuição XXXX XXXX XXXX.
 
-Prezada Coordenadora,
+Prezada CoorXXXXnadora,
 
 Encaminhamos  o  processo 23372.000786/2024-18,  que 
 
-trata  de  solicitação  de
-redistribuição da servidora XXXX XXXX XXXX, ocupante do cargo de Auxiliar de Biblioteca, matrícula
-SIAPE   ,  lotada  no  Câmpus  Cidade  de  Goiás  do  Instituto  Federal  de  Educação,  Ciência  e
-Tecnologia  de  Goiás  (IFG)  para  o  Câmpus  Urutaí  do  Instituto  Federal  de  Educação,  Ciência  e
+trata  XXXX  solicitação  XXXX
+redistribuição da servidora XXXX XXXX, ocupante do cargo XXXX Auxiliar XXXX Biblioteca, matrícula
+SIAPE   ,  lotada  no  Câmpus  CidaXXXX  XXXX  Goiás  do  Instituto  FeXXXXral  XXXX  Educação,  Ciência  e
+Tecnologia  XXXX  Goiás  (IFG)  para  o  Câmpus  Urutaí  do  Instituto  FeXXXXral  XXXX  Educação,  Ciência  e
 Tecnologia Goiano (IFGOIANO).
 
-A  solicitação  de  redistribuição  da  servidora  está  sendo  feita  mediante  a  oferta,  como
+A  solicitação  XXXX  redistribuição  da  servidora  está  sendo  feita  mediante  a  oferta,  como
 
-contrapartida, código de vaga 0830381 de mesmo nível, do cargo de Assistente de Aluno.
+contrapartida, código XXXX vaga 0830381 XXXX mesmo nível, do cargo XXXX Assistente XXXX Aluno.
 
 Em  atenção  aos  requisitos  da  Portaria  SEGRT/MGI/  Nº  619/2023  e  da  Nota  Técnica
 
@@ -2795,52 +2795,52 @@ nº 63/2023/GAB/SGA/SGA, informamos:
 
 • Interesse da Administração
 
-O interesse da administração na movimentação está demonstrado no PARECER 9/2024 -
-GOI-CG/CP-GOIAS/IFG,  já  que  a  contrapartida  ofertada  pelo  IFGOIANO  é  um  código  de  vaga  do
-mesmo  nível  de  escolaridade  e  mesmo  nível  de  classificação,  o  Câmpus  terá  condições  de  renovar  e
-dinamizar  a  sua  força  de  trabalho,  por  meio  de  provimento  do  cargo  de  Assistente  de  Aluno  que
-contribuirá para o atendimento das demandas acadêmicas e não acarretará prejuízos à unidade.
+O interesse da administração na movimentação está XXXXmonstrado no PARECER 9/2024 -
+GOI-CG/CP-GOIAS/IFG,  já  que  a  contrapartida  ofertada  pelo  IFGOIANO  é  um  código  XXXX  vaga  do
+mesmo  nível  XXXX  escolaridaXXXX  e  mesmo  nível  XXXX  classificação,  o  Câmpus  terá  condições  XXXX  renovar  e
+dinamizar  a  sua  força  XXXX  trabalho,  por  meio  XXXX  provimento  do  cargo  XXXX  Assistente  XXXX  Aluno  que
+contribuirá para o atendimento das XXXXmandas acadêmicas e não acarretará prejuízos à unidaXXXX.
 
-•  Equivalência  de  vencimentos;  compatibilidade  entre  as  atribuições  do  cargo  e  as
+•  Equivalência  XXXX  vencimentos;  compatibilidaXXXX  entre  as  atribuições  do  cargo  e  as
 
-finalidades institucionais do órgão ou entidade
+finalidaXXXXs institucionais do órgão ou entidaXXXX
 
-Em  se  tratando  de  redistribuição  de  cargo  ocupado,  com  a  oferta,  em  contrapartida,  de
+Em  se  tratando  XXXX  redistribuição  XXXX  cargo  ocupado,  com  a  oferta,  em  contrapartida,  XXXX
 
-código de vaga livre do cargo de Assistente de Aluno, podemos afirmar a equivalência de vencimentos e
+código XXXX vaga livre do cargo XXXX Assistente XXXX Aluno, poXXXXmos afirmar a equivalência XXXX vencimentos e
 
-compatibilidade entre as atribuições do cargo e as finalidades institucionais do órgão ou entidade.
+compatibilidaXXXX entre as atribuições do cargo e as finalidaXXXXs institucionais do órgão ou entidaXXXX.
 
-•  Existência  de  concurso  público  em  andamento  ou  vigente  para  preenchimento
+•  Existência  XXXX  concurso  público  em  andamento  ou  vigente  para  preenchimento
 
-do respectivo cargo de mesma especialidade ou área do conhecimento
+do respectivo cargo XXXX mesma especialidaXXXX ou área do conhecimento
 
-O IFG não possui concurso  público  em  andamento  ou  vigente para  o  cargo  de Assistente
+O IFG não possui concurso  público  em  andamento  ou  vigente para  o  cargo  XXXX Assistente
 
-de Aluno.
+XXXX Aluno.
 
-• Impacto no Quadro de Referência dos Servidores da Carreira de TAE (QRSTAE)
+• Impacto no Quadro XXXX Referência dos Servidores da Carreira XXXX TAE (QRSTAE)
 
-Esta  redistribuição  não  acarretará  impacto  no  Quadro  de  Referência  dos  Servidores  da
-Carreira de TAE (QRSTAE), uma vez que a redistribuição visa a reposição de vaga ocupada até o ano
+Esta  redistribuição  não  acarretará  impacto  no  Quadro  XXXX  Referência  dos  Servidores  da
+Carreira XXXX TAE (QRSTAE), uma vez que a redistribuição visa a reposição XXXX vaga ocupada até o ano
 
-de  2024  e,  considerando  ainda,  que  o  IFG  está  dentro  dos  limites  de  provimento,  conforme
+XXXX  2024  e,  consiXXXXrando  ainda,  que  o  IFG  está  XXXXntro  dos  limites  XXXX  provimento,  conforme
 
 dimensionamento da Portaria MEC nº 713/2021.
 
-• Declarações sobre o servidor XXXX XXXX XXXX
+• XXXXclarações sobre o servidor XXXX XXXX
 
-A servidora XXXX XXXX XXXX é estável, não está em gozo de licença ou afastamento
+A servidora XXXX XXXX é estável, não está em gozo XXXX licença ou afastamento
 
-na presente data, não foi redistribuída nos últimos três anos e não responde a sindicância ou processo
+na presente data, não foi redistribuída nos últimos três anos e não responXXXX a sindicância ou processo
 
-administrativo  disciplinar,  nem  está  cumprindo  qualquer  tipo  de  penalidade,  conforme  documentos
+administrativo  disciplinar,  nem  está  cumprindo  qualquer  tipo  XXXX  penalidaXXXX,  conforme  documentos
 
 anexados aos autos.
 
-Atendidos  os  requisitos  necessários,  o  IFG  declara  o  interesse  da  Administração  na
+Atendidos  os  requisitos  necessários,  o  IFG  XXXXclara  o  interesse  da  Administração  na
 
-redistribuição em questão e sugere o deferimento do pedido.
+redistribuição em questão e sugere o XXXXferimento do pedido.
 
 Sem mais no momento nos colocamos à disposição para quaisquer esclarecimentos.
 
@@ -2857,39 +2857,39 @@ Oneida Cristina Gomes Barcelos Irigon
 
 REITOR(A) - CD1 - IFG, em 18/04/2024 15:41:33.
 
-Este  documento  foi  emi(cid:61)do  pelo  SUAP  em  18/04/2024.  Para  comprovar  sua  auten(cid:61)cidade,  faça  a  leitura  do  QRCode  ao  lado  ou  acesse
+Este  documento  foi  emi(cid:61)do  pelo  SUAP  em  18/04/2024.  Para  comprovar  sua  auten(cid:61)cidaXXXX,  faça  a  leitura  do  QRCoXXXX  ao  lado  ou  acesse
 https://suap.ifg.edu.br/autenticar-documento/ e forneça os dados abaixo:
 
 Código Verificador:
-Código de Autenticação:
+Código XXXX Autenticação:
 
 528223
 
 645821fe6a
 
-Instituto Federal de Educação, Ciência e Tecnologia de Goiás
-Instituto Federal de Educação, Ciência e Tecnologia de Goiás
+Instituto FeXXXXral XXXX Educação, Ciência e Tecnologia XXXX Goiás
+Instituto FeXXXXral XXXX Educação, Ciência e Tecnologia XXXX Goiás
 Rua C-198, Quadra 500, None, Jardim América, GOIÂNIA / GO, CEP 74270-040
 (62) 3612-2203 (ramal: 2203)
 
-Cópia de despacho #395702 digital impresso por Bruna Frazao (1971392) em 24/09/2024 12:33.
+Cópia XXXX XXXXspacho #395702 digital impresso por Bruna Frazao (1971392) em 24/09/2024 12:33.
 
 MINISTÉRIO DA EDUCAÇÃO
-SECRETARIA DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
-INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE GOIÁS
+SECRETARIA XXXX EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
+INSTITUTO FEXXXXRAL XXXX EDUCAÇÃO, CIÊNCIA E TECNOLOGIA XXXX GOIÁS
 REITORIA
-REI-COORDENACAO DE GESTAO DE PESSOAS - REI-CGP
+REI-COORXXXXNACAO XXXX GESTAO XXXX PESSOAS - REI-CGP
 
-Despacho:
-Despacho:
+XXXXspacho:
+XXXXspacho:
 
-Ao Setor de Arquivo, para envio do processo ao MEC.
+Ao Setor XXXX Arquivo, para envio do processo ao MEC.
 
-Despacho assinado eletronicamente por:
+XXXXspacho assinado eletronicamente por:
 
-Bruna Borges Frazao Mendes, COORDENADOR(A) - FG0001 - REI-CGP, REI-CGP, em 18/04/2024 18:03:49.
+Bruna Borges Frazao MenXXXXs, COORXXXXNADOR(A) - FG0001 - REI-CGP, REI-CGP, em 18/04/2024 18:03:49.
 
-Instituto Federal de Educação, Ciência e Tecnologia de Goiás - REITORIA
+Instituto FeXXXXral XXXX Educação, Ciência e Tecnologia XXXX Goiás - REITORIA
 Rua C-198, Quadra 500, None, Jardim América, GOIÂNIA / GO, CEP 74270-040
 (62) 3612-2244 (ramal: 2244), (62) 3612-2243 (ramal: 2243)
 
@@ -2898,57 +2898,57 @@ Publicado em: 14/08/2024 | Edição: 156 | Seção: 2 | Página: 16
 
 Órgão: Ministério da Educação/Gabinete do Ministro
 
-PORTARIA CONJUNTA Nº 655, DE 8 DE AGOSTO DE 2024
+PORTARIA CONJUNTA Nº 655, XXXX 8 XXXX AGOSTO XXXX 2024
 
-O  MINISTRO  DE  ESTADO  DA  EDUCAÇÃO  e  o  SECRETÁRIO  DE  GESTÃO  DE  PESSOAS  DO
+O  MINISTRO  XXXX  ESTADO  DA  EDUCAÇÃO  e  o  SECRETÁRIO  XXXX  GESTÃO  XXXX  PESSOAS  DO
 
 MINISTÉRIO DA GESTÃO E DA INOVAÇÃO EM SERVIÇOS PÚBLICOS, no uso das atribuições previstas no art.
-2º da Portaria SEGRT/MGI nº 619, de 9 de março de 2023, e considerando o disposto no art. 37, § 2º, da Lei
-nº 8.112, de 11 de dezembro de 1990, resolvem:
+2º da Portaria SEGRT/MGI nº 619, XXXX 9 XXXX março XXXX 2023, e consiXXXXrando o disposto no art. 37, § 2º, da Lei
+nº 8.112, XXXX 11 XXXX XXXXzembro XXXX 1990, resolvem:
 
 Art. 1º Fica redistribuído:
 
-Cargo: Auxiliar de Biblioteca
+Cargo: Auxiliar XXXX Biblioteca
 
-Nome/Nome Social: XXXX XXXX XXXX
+Nome/Nome Social: XXXX XXXX
 
 Matrícula Siape:  
 
 Código da vaga: 961326
 
-Do: Instituto Federal de Educação, Ciência e Tecnologia de Goiás
+Do: Instituto FeXXXXral XXXX Educação, Ciência e Tecnologia XXXX Goiás
 
-Para: Instituto Federal de Educação, Ciência e Tecnologia Goiano
-
-Processo nº 23000.015356/2024-29
-
-Cargo: Assistente de Aluno
-
-Código de vaga: 0830381
-
-Do: Instituto Federal de Educação, Ciência e Tecnologia Goiano
-
-Para: Instituto Federal de Educação, Ciência e Tecnologia de Goiás
+Para: Instituto FeXXXXral XXXX Educação, Ciência e Tecnologia Goiano
 
 Processo nº 23000.015356/2024-29
 
-Art. 2º Esta Portaria entra em vigor na data de sua publicação.
+Cargo: Assistente XXXX Aluno
 
-CAMILO SOBREIRA DE SANTANA
-Ministro de Estado da Educação
+Código XXXX vaga: 0830381
+
+Do: Instituto FeXXXXral XXXX Educação, Ciência e Tecnologia Goiano
+
+Para: Instituto FeXXXXral XXXX Educação, Ciência e Tecnologia XXXX Goiás
+
+Processo nº 23000.015356/2024-29
+
+Art. 2º Esta Portaria entra em vigor na data XXXX sua publicação.
+
+CAMILO SOBREIRA XXXX SANTANA
+Ministro XXXX Estado da Educação
 
 JOSÉ CELSO PEREIRA CARDOSO JÚNIOR
-Secretário de Gestão de Pessoas
+Secretário XXXX Gestão XXXX Pessoas
 
 Este conteúdo não substitui o publicado na versão certiﬁcada.
 
-Cópia de documento digital impresso por Bruna Frazao (1971392) em 24/09/2024 12:33.
+Cópia XXXX documento digital impresso por Bruna Frazao (1971392) em 24/09/2024 12:33.
 
 Documento Digitalizado Público
 
-PORTARIA CONJUNTA Nº 655, DE 8 DE AGOSTO DE 2024
+PORTARIA CONJUNTA Nº 655, XXXX 8 XXXX AGOSTO XXXX 2024
 
-Assunto: PORTARIA CONJUNTA Nº 655, DE 8 DE AGOSTO DE 2024
+Assunto: PORTARIA CONJUNTA Nº 655, XXXX 8 XXXX AGOSTO XXXX 2024
 
 Assinado por: Bruna Frazao
 
@@ -2956,15 +2956,15 @@ Tipo do Documento: Portaria
 
 Situação: Finalizado
 
-Nível de Acesso: Público
+Nível XXXX Acesso: Público
 
 Tipo do Conferência: Cópia Simples
 
 Documento assinado eletronicamente por:
 
-Bruna Borges Frazao Mendes, COORDENADOR(A) - FG1 - REI-CGP, em 14/08/2024 16:43:05.
+Bruna Borges Frazao MenXXXXs, COORXXXXNADOR(A) - FG1 - REI-CGP, em 14/08/2024 16:43:05.
 
-Este  documento  foi  armazenado  no  SUAP  em  14/08/2024.  Para  comprovar  sua  integridade,  faça  a  leitura  do  QRCode  ao  lado  ou  acesse
+Este  documento  foi  armazenado  no  SUAP  em  14/08/2024.  Para  comprovar  sua  integridaXXXX,  faça  a  leitura  do  QRCoXXXX  ao  lado  ou  acesse
 
 https://suap.ifg.edu.br/verificar-documento-externo/ e forneça os dados abaixo:
 
@@ -2972,31 +2972,31 @@ Código Verificador:
 
 597441
 
-Código de Autenticação:
+Código XXXX Autenticação:
 
 12e94d91a0
 
-Página 1 de 1
+Página 1 XXXX 1
 
-Cópia de despacho #414328 digital impresso por Bruna Frazao (1971392) em 24/09/2024 12:33.
+Cópia XXXX XXXXspacho #414328 digital impresso por Bruna Frazao (1971392) em 24/09/2024 12:33.
 
 MINISTÉRIO DA EDUCAÇÃO
-SECRETARIA DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
-INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE GOIÁS
+SECRETARIA XXXX EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA
+INSTITUTO FEXXXXRAL XXXX EDUCAÇÃO, CIÊNCIA E TECNOLOGIA XXXX GOIÁS
 REITORIA
-REI-COORDENACAO DE GESTAO DE PESSOAS - REI-CGP
+REI-COORXXXXNACAO XXXX GESTAO XXXX PESSOAS - REI-CGP
 
-Despacho:
-Despacho:
+XXXXspacho:
+XXXXspacho:
 
-Segue com PORTARIA CONJUNTA Nº 655, DE 8 DE AGOSTO DE 2024, de efe(cid:47)vação de redistribuição para liberação da servidora
+Segue com PORTARIA CONJUNTA Nº 655, XXXX 8 XXXX AGOSTO XXXX 2024, XXXX efe(cid:47)vação XXXX redistribuição para liberação da servidora
 no sistema.
 
-Despacho assinado eletronicamente por:
+XXXXspacho assinado eletronicamente por:
 
-Bruna Borges Frazao Mendes, COORDENADOR(A) - FG0001 - REI-CGP, REI-CGP, em 14/08/2024 16:43:56.
+Bruna Borges Frazao MenXXXXs, COORXXXXNADOR(A) - FG0001 - REI-CGP, REI-CGP, em 14/08/2024 16:43:56.
 
-Instituto Federal de Educação, Ciência e Tecnologia de Goiás - REITORIA
+Instituto FeXXXXral XXXX Educação, Ciência e Tecnologia XXXX Goiás - REITORIA
 Rua C-198, Quadra 500, None, Jardim América, GOIÂNIA / GO, CEP 74270-040
 (62) 3612-2244 (ramal: 2244), (62) 3612-2243 (ramal: 2243)
 
