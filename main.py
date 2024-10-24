@@ -1,7 +1,6 @@
 import os
 import zipfile
-from utils import normalize_spaces
-from itertools import combinations
+from utils import normalize_spaces, generate_combinations_of_name
 from pdfminer.high_level import extract_text
 
 
@@ -12,9 +11,10 @@ def read_names_and_siapes(names_file):
             name, siape = line.strip().split(';')
 
             name_parts = name.lower().strip().split()
-            partial_names = generate_partial_names(name_parts)
+            # partial_names = generate_combinations_of_name(name_parts)
 
-            names_and_siapes.append((partial_names, siape.strip()))
+            # names_and_siapes.append((partial_names, siape.strip()))
+            names_and_siapes.append((name_parts, siape.strip()))
     return names_and_siapes
 
 
@@ -37,15 +37,6 @@ def remove_names_and_siapes(original_text, names_and_siapes):
             normalized_text = replace_ignore_case(normalized_text, partial_name, 'XXXX')
 
     return normalized_text
-
-
-def generate_partial_names(parts):
-    partial_names = set()
-    for r in range(1, len(parts) + 1):
-        for combo in combinations(parts, r):
-            partial_name = ' '.join(combo)
-            partial_names.add(partial_name)
-    return partial_names
 
 
 def replace_ignore_case(text, sub, replacement):
